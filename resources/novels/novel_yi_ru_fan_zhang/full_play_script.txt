@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_male_jieshuoxiaoming_moon_bigtts"
+    },
+    "actors": [
+      { "key": "hartman", "voice": "zh_female_popo_mars_bigtts" },
+      { "key": "police_officer", "voice": "zh_male_wennuanahu_moon_bigtts" },
+      { "key": "kendricks", "voice": "zh_male_beijingxiaoye_emo_v2_mars_bigtts" },
+      { "key": "nurse", "voice": "zh_female_zhixingnvsheng_mars_bigtts" },
+      { "key": "volunteer_girl", "voice": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "没人能说清楚，两个歹徒为啥选择哈特曼老太太作为下手对象。兴许是因为她一眼看上去就有大把岁数，身体又虚弱。兴许是因为她几分钟前刚从银行里出来。兴许两个歹徒被老太太牢牢抓住、紧护着的特大号挎包给吸引了，或许是因为老太太仅仅走过一个街区，就离开热闹的大街，进入了一条半个人影也不见的僻静小巷。" },
+      { "id": "10002_narrative", "actor": "narrative", "text": "以上的这些因素也许影响了两个歹徒。总之，他们瞧见了哈特曼太太，觉得她是易于下手的对象。他们从身后接近老太，接着分成两路，从两侧包抄。左边的歹徒绊了老太，同时另一个歹徒割断挎包的肩带，试图从老太手中抢过挎包。歹徒本以为老太会伸出双手来阻止自己摔倒，结果这位灰发老太双手紧抓挎包，摔倒在人行道上，随之响起老骨头摔断的咔嚓声，但就算这样老太太仍然没松手。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "一名歹徒把肩带悬荡的一端绕在手上，企图从老太太手里拽走挎包，另一个歹徒用脚上的方头皮靴狠狠地踢老太太。现场没有呼救声，没有尖叫声，唯一的响声是歹徒企图迫使老太太松开挎包时的脚步拖曳声和沉重呼吸声。两个歹徒卯足了劲要把挎包抢到手，每次使劲拽肩带的同时都会踢几下老太太，巴望着她能松手。但老太太咬紧牙关，不顾一切地抓住挎包，显然她同样下定主意，不想让挎包从自己手上被人夺走。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "不幸的是，老太太不是一名精壮男子的对手，更何况有两个精壮男子。还没过一分钟，老太太就因为疼痛和筋疲力尽一下子晕了过去。两个歹徒从她无力的手指间夺走挎包，逃之夭夭，只留下老太太四仰八叉地躺在人行道上。" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "没人目击袭击和抢劫的经过。过了差不多十五分钟后，哈特曼太太被一名路人发现。警察和救护车同时抵达现场，但到了那时，两名歹徒早已逃得没影了。" },
+      { "id": "10006_narrative", "actor": "narrative", "text": "哈特曼太太被人用担架送到救护车上，其间她苏醒了一会儿。她转过头，用那对充满痛苦的眼眸望着那名站在她身旁、低头看着她的制服警察。" },
+      { "id": "10007_hartman", "actor": "hartman", "emotion": "sad", "text": "我的钱，他们抢走了我的皮包，里面放着我的全副身家。" },
+      { "id": "10008_police_officer", "actor": "police_officer", "emotion": "neutral", "text": "太太，你被抢走了多少钱？" },
+      { "id": "10009_narrative", "actor": "narrative", "text": "老太太停顿了半刻，接着用尽力气回答。" },
+      { "id": "10010_hartman", "actor": "hartman", "emotion": "sad", "text": "三万三千美元。" },
+      { "id": "10011_narrative", "actor": "narrative", "text": "随后她再次晕厥过去。" },
+	  { "id": "10012_kendricks", "actor": "kendricks", "text": "哈特曼太太，你能听到我讲话吗？" },
+      { "id": "10013_hartman", "actor": "hartman", "text": "能。" },
+      { "id": "10014_kendricks", "actor": "kendricks", "text": "你在案发地点告诉警察，你被抢走了三万三千美元，对吗？" },
+      { "id": "10015_hartman", "actor": "hartman", "text": "是的……" },
+      { "id": "10016_kendricks", "actor": "kendricks", "text": "你身上怎么会刚巧带着这么多现金？" },
+      { "id": "10017_narrative", "actor": "narrative", "text": "哈特曼太太迟疑了一下，仿佛是要挑选适当的字眼。" },
+      { "id": "10018_hartman", "actor": "hartman", "text": "我……我是个愚蠢的老女人，并不总是做出理智的举动。我每年总有一两次会从银行里取出所有存款。我把这笔钱在家里放上几天，只为了看看钱，摸摸钞票，事后再重新存进银行。这一次……我失去了所有钱。" },
+      { "id": "10019_kendricks", "actor": "kendricks", "text": "你有没有认出劫匪？" },
+      { "id": "10020_hartman", "actor": "hartman", "text": "一共有两个歹徒，但我此前从没见过这两人。如果我再次看见他们，我也吃不准自己能不能认出来。事情发生得这么快……" },
+      { "id": "10021_narrative", "actor": "narrative", "text": "这时候，医生给老太太注射的镇定剂发挥了效用，老太太昏睡过去。" },
+      { "id": "10022_nurse", "actor": "nurse", "text": "肯德里斯警长，假如你还有任何问题，你得要明天再来问了。" },
+	  { "id": "10023_narrative", "actor": "narrative", "text": "次日下午，肯德里斯怒气冲冲地冲进医院，模样像头发怒的熊，但他没能和哈特曼太太说上话。哈特曼太太睡了一整天，医生也拒绝让肯德里斯弄醒她。" },
+      { "id": "10024_narrative", "actor": "narrative", "text": "第三天，肯德里斯又来了。他这次略微平静，但怒气仍然清晰可见。哈特曼太太半躺在病床上，医院里的一名高中生年纪的志愿者正在为她念报纸上的新闻。" },
+      { "id": "10025_narrative", "actor": "narrative", "text": "肯德里斯让这个当志愿者的女孩到病房外去等候，留下他和哈特曼太太谈话。" },
+      { "id": "10026_kendricks", "actor": "kendricks", "text": "行啦，你对我撒谎是为了啥？" },
+      { "id": "10027_hartman", "actor": "hartman", "text": "我……我不知道你是啥意思。" },
+      { "id": "10028_kendricks", "actor": "kendricks", "text": "少来了！你知道我在说什么——你虚构出的三万三千美元。报纸和电视新闻里全在报道这宗抢劫案，可是当我去银行查看他们有没有钞票序列号的记录时，我得知你从未在那家银行开过账户。他们唯一一次见到你就是前天你到银行里兑现社保支票。你为什么要撒谎？" },
+      { "id": "10029_hartman", "actor": "hartman", "text": "我不想让那两个歹徒逃脱惩罚。我……我想让歹徒为他们对我干出的事付出代价。" },
+      { "id": "10030_kendricks", "actor": "kendricks", "text": "但你不必说谎啊。你难道不知道，为了追回你被抢走的社保津贴，我们会一样勤奋地调查，一样努力地破案？我们会像追回大额款项时一样卖力。" },
+      { "id": "10031_narrative", "actor": "narrative", "text": "老太太没有当即回应，肯德里斯于是有了时间来反思他方才说的一席话，并看出这番言论是多么的荒谬。" },
+      { "id": "10032_narrative", "actor": "narrative", "text": "起先警方相信歹徒抢走了三万三千美元，所以给案子派了四名警探，记者也记录了他们的一举一动；但现在他是这宗案子里正式指派的唯一一名警探，而且等到他回到办公室，把卷宗放到“未破案件档案”里，案件调查也就走到底了。但至少他出于礼貌而感到困窘。" },
+	     { "id": "10033_kendricks", "actor": "kendricks", "text": "哦，那不是我的意思！我确信警方会尽全力破案，无论被抢的钱是多少金额。" },
+      { "id": "10034_narrative", "actor": "narrative", "text": "但在肯德里斯听来，老太太并没说实话。看到这位被歹徒打伤的老太太还关心他的感受，而他对她那么冷漠，肯德里斯更加羞愧难当。" },
+      { "id": "10035_kendricks", "actor": "kendricks", "text": "你瞧，咱们忘掉整件事吧。假如调查出现任何进展，我会通知你。" },
+      { "id": "10036_narrative", "actor": "narrative", "text": "他说完就离开了病房。" },
+      { "id": "10037_narrative", "actor": "narrative", "text": "当志愿者的女孩回到了病房，拿起之前肯德里斯到来时她置于一旁的报纸，重新在病床旁坐下。" },
+      { "id": "10038_volunteer_girl", "actor": "volunteer_girl", "text": "你想要我再为你念几段新闻吗？" },
+      { "id": "10039_hartman", "actor": "hartman", "text": "好啊，念吧。再念一遍那篇凶杀案的报道。" },
+      { "id": "10040_volunteer_girl", "actor": "volunteer_girl", "text": "但是我早已经念过四遍了。" },
+      { "id": "10041_hartman", "actor": "hartman", "text": "我知道，但请再念一遍。" },
+      { "id": "10042_narrative", "actor": "narrative", "text": "女孩清了清嗓子，朗读起来：昨晚十点左右，警方调查了第七大道895号的一间公寓内的吵闹事件，发现两名合租公寓的男子威廉·怀特和杰西·博尔特倒在客厅地板上，均已死亡，据测这是一场持刀械斗的结果。左邻右舍说两个男子一整天都在争吵斗殴，互相指控另一个人骗走了自己的钱，具体金额不详。一天的争吵下来，最终发展到持刀械斗，两名男子在械斗中杀死了彼此。两人都有劣迹斑斑的案底。警方正在继续调查。" },
+      { "id": "10043_narrative", "actor": "narrative", "text": "哈特曼太太瘀青的嘴唇露出一丝笑容。" },
+      { "id": "10044_hartman", "actor": "hartman", "text": "请再念一遍吧。" }
+    ]
+  }
+}

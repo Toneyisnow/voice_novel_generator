@@ -1,0 +1,1272 @@
+{
+	"dict": [
+    {
+        "key": "zh_male_beijingxiaoye_emo_v2_mars_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "adult",
+            "tone": "rational"
+        },
+        "support_emotions": ["angry", "surprised", "fear", "excited", "coldness", "neutral"]
+    },
+    {
+        "key": "zh_female_roumeinvyou_emo_v2_mars_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "young_adult",
+            "tone": "affectionate"
+        },
+        "support_emotions": ["happy", "sad", "angry", "surprised", "fear", "hate", "excited", "coldness", "neutral"]
+    },
+    {
+        "key": "zh_male_yangguangqingnian_emo_v2_mars_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "young_adult",
+            "tone": "cheerful"
+        },
+        "support_emotions": ["happy", "sad", "angry", "fear", "excited", "coldness", "neutral"]
+    },
+    {
+        "key": "zh_female_meilinvyou_emo_v2_mars_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "young_adult",
+            "tone": "charming"
+        },
+        "support_emotions": ["sad", "fear", "neutral"]
+    },
+    {
+        "key": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "young_adult",
+            "tone": "lively"
+        },
+        "support_emotions": ["happy", "sad", "angry", "surprised", "excited", "coldness", "neutral"]
+    },
+    {
+        "key": "zh_female_cancan_mars_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "young_adult",
+            "tone": "cheerful"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_qingxinnvsheng_mars_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "young_adult",
+            "tone": "fresh"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_shuangkuaisisi_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "young_adult",
+            "tone": "lively"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_wennuanahu_moon_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "adult",
+            "tone": "warm"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_shaonianzixin_moon_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "teen",
+            "tone": "clear"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_zhixingnvsheng_mars_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "adult",
+            "tone": "intellectual"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_qingshuangnanda_mars_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "adult",
+            "tone": "refreshing"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_linjianvhai_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "teen",
+            "tone": "neighborly"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_yuanboxiaoshu_moon_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "adult",
+            "tone": "erudite"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_yangguangqingnian_moon_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "young_adult",
+            "tone": "cheerful"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_tianmeixiaoyuan_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "teen",
+            "tone": "sweet"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_qingchezizi_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "teen",
+            "tone": "clear"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_jieshuoxiaoming_moon_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "adult",
+            "tone": "narrative"
+        },
+		"can_be_narrative": true,
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_kailangjiejie_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "adult",
+            "tone": "cheerful"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_male_linjiananhai_moon_bigtts",
+        "persona": {
+            "gender": "male",
+            "age": "teen",
+            "tone": "neighborly"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_tianmeiyueyue_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "teen",
+            "tone": "sweet"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "zh_female_xinlingjitang_moon_bigtts",
+        "persona": {
+            "gender": "female",
+            "age": "adult",
+            "tone": "inspirational"
+        },
+        "support_emotions": []
+    },
+    {
+        "key": "ICL_zh_female_zhixingwenwan_tob",
+        "persona": {
+            "gender": "female",
+            "age": "adult",
+            "tone": "intellectual"
+        },
+        "support_emotions": []
+    },
+    {
+      "key": "zh_female_cancan_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "cheerful"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_qingxinnvsheng_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "fresh"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_shuangkuaisisi_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "lively"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_wennuanahu_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "warm"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_shaonianzixin_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "cheerful"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_zhixingnvsheng_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "intellectual"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_qingshuangnanda_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "refreshing"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_linjianvhai_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "neighborly"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_yuanboxiaoshu_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "erudite"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_yangguangqingnian_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "cheerful"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_tianmeixiaoyuan_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "sweet"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_qingchezizi_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "clear"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_jieshuoxiaoming_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "narrative"
+      },
+      "support_emotions": []
+    },
+      {
+      "key": "zh_female_tianmeixiaoyuan_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "sweet"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_qingchezizi_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "clear"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_jieshuoxiaoming_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "narrative"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_kailangjiejie_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "cheerful"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_linjiananhai_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "neighborly"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_tianmeiyueyue_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "sweet"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_xinlingjitang_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "inspirational"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_zhixingwenwan_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "intellectual"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_nuanxintitie_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "warm"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_wenrouwenya_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_kailangqingkuai_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "cheerful"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_huoposhuanglang_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "energetic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_shuaizhenxiaohaohao_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "upright"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_wenrouxiaoge_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "warm"
+      },
+      "support_emotions": []
+    },
+      {
+      "key": "zh_female_popo_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "senior",
+        "tone": "grandmotherly"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_gaolengyujie_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "cool"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_aojiaobazong_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "arrogant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_meilinvyou_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "charming"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_shenyeboke_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "deep"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_sajiaonvyou_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "soft"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_yuanqinvyou_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "playful"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_bingruoshanv_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "fragile"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_huoponvhai_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "lively"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_dongfanghaoran_moon_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "elegant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_lvchaxiaoge_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "fresh"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_jiaoruoluoli_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "delicate"
+      },
+      "support_emotions": []
+    },
+        {
+          "key": "ICL_zh_male_lengdanshuli_tob",
+          "persona": {
+            "gender": "male",
+            "age": "adult",
+            "tone": "cold"
+          },
+          "support_emotions": []
+        },
+      {
+      "key": "ICL_zh_male_hanhoudunshi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "serious"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_aiqilingren_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "arrogant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_huopodiaoman_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "lively"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_guzhibingjiao_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "resolute"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_sajiaonianren_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "mischievous"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_aomanjiaosheng_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "arrogant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_xiaosasuixing_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "casual"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_fuheigongzi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "dark"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_guiyishenmi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "mysterious"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_ruyacaijun_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "elegant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_bingjiaobailian_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "fragile"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_zhengzhiqingnian_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "upright"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_jiaohannvwang_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "queen"
+      },
+      "support_emotions": []
+    },
+      {
+      "key": "ICL_zh_female_bingjiaomengmei_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "cute"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_qingsenaigou_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "fresh"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_chunzhenxueti_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "pure"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_nuanxinxuejie_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "warm"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_keainvsheng_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "cute"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_chengshujiejie_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "mature"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_bingjiaojiejie_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "cold"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_youroubangzhu_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_yourougongzi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_wumeiyujie_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "charming"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_tiaopigongzhu_tob",
+      "persona": {
+        "gender": "female",
+        "age": "teen",
+        "tone": "mischievous"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_aojiaoenvyou_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "arrogant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_tiexinnanyou_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "loyal"
+      },
+      "support_emotions": []
+    },
+        {
+      "key": "ICL_zh_male_shaonianjiangjun_tob",
+      "persona": {
+        "gender": "male",
+        "age": "teen",
+        "tone": "heroic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_tiexinnvyou_tob",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "lively"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_bingjiaogee_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "quirky"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_xuebanantongzhutuo_tob",
+      "persona": {
+        "gender": "male",
+        "age": "teen",
+        "tone": "leader"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_youmoshushu_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "funny"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_xinggangyujie_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "rational"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_jiaxiaozitob",
+      "persona": {
+        "gender": "female",
+        "age": "teen",
+        "tone": "quirky"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_lengjunshangsi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "coldness"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_wenrounantongzhutuo_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_bingjiaodidi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "teen",
+        "tone": "quirky"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_youmodaye_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "funny"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_aomanshaoye_tob",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "arrogant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_male_shenmifashi_tob",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "mysterious"
+      },
+      "support_emotions": []
+    },
+      {
+      "key": "ICL_zh_female_heainainai_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "ICL_zh_female_linjuayi_tob",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "neighborly"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_wenrouxiaoya_moon_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_tiancaitongsheng_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "talented"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_sunwukong_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "heroic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_xionger_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "heroic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_peiqi_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "quirky"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_wuzetian_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "leader"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_gujie_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "intellectual"
+      },
+      "support_emotions": []
+    },
+        {
+      "key": "zh_female_gujie_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "adult",
+        "tone": "intellectual"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_yingtaowanzi_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "sweet"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_chunhui_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "rational"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_shaoergushi_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "child",
+        "tone": "lively"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_silang_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "heroic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_jieshuonansheng_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "magnetic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_jitangmeimei_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "lively"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_tiexinnvsheng_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "friendly"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_qiaopinvsheng_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "elegant"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_mengyatao_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "teen",
+        "tone": "cute"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_lanxiaoyang_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "lazy"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_dongmanhaimian_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "teen",
+        "tone": "quirky"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_changtianyi_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "rational"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_ruyaqingnian_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "refined"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_baqiqingshu_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "domineering"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_qingcang_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "adult",
+        "tone": "mature"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_yangguangqingnian_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "energetic"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_gufengshaoyu_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "ancient_style"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_female_wenroushunv_mars_bigtts",
+      "persona": {
+        "gender": "female",
+        "age": "young_adult",
+        "tone": "gentle"
+      },
+      "support_emotions": []
+    },
+    {
+      "key": "zh_male_fanjuanqingnian_mars_bigtts",
+      "persona": {
+        "gender": "male",
+        "age": "young_adult",
+        "tone": "rebellious"
+      },
+      "support_emotions": []
+    }
+    ],
+	"ages": [
+		  {
+			"key": "child",
+			"description": "Child (typically ages 4–12)"
+		  },
+		  {
+			"key": "teen",
+			"description": "Teenager (typically ages 13–19)"
+		  },
+		  {
+			"key": "young_adult",
+			"description": "Young adult (typically ages 20–29)"
+		  },
+		  {
+			"key": "adult",
+			"description": "Adult (typically ages 30–49)"
+		  },
+		  {
+			"key": "middle_aged",
+			"description": "Middle-aged (typically ages 50–64)"
+		  },
+		  {
+			"key": "senior",
+			"description": "Senior / Elderly (typically ages 65 and above)"
+		  }
+	],
+	"tones": [
+		  {
+			"key": "lively",
+			"description": "Lively, outgoing, enthusiastic type"
+		  },
+		  {
+			"key": "rational",
+			"description": "Rational, composed, thoughtful type"
+		  },
+		  {
+			"key": "gentle",
+			"description": "Relaxed, gentle, easygoing type"
+		  },
+		  {
+			"key": "anxious",
+			"description": "Introverted, anxious, cautious type"
+		  },
+		  {
+			"key": "leader",
+			"description": "Confident, decisive, leader type"
+		  },
+		  {
+			"key": "delicate",
+			"description": "Delicate, pitiful type"
+		  },
+		  {
+			"key": "gloomy",
+			"description": "Gloomy, intimidating type"
+		  },
+		  {
+			"key": "arrogant",
+			"description": "Arrogant, obsessive type"
+		  },
+		  {
+			"key": "heroic",
+			"description": "Heroic and righteous"
+		  },
+		  {
+			"key": "mysterious",
+			"description": "Aloof and mysterious"
+		  },
+		  {
+			"key": "impulsive",
+			"description": "Hot-blooded and impulsive"
+		  },
+		  {
+			"key": "cunning",
+			"description": "Sly and cunning"
+		  },
+		  {
+			"key": "ruthless",
+			"description": "Cold and ruthless"
+		  },
+		  {
+			"key": "quirky",
+			"description": "Quirky and mischievous"
+		  },
+		  {
+			"key": "lazy",
+			"description": "Bored and lazy"
+		  }
+	]
+}

@@ -1,0 +1,32 @@
+把下面这段小说转成戏剧脚本，格式为： 
+<人物>: <内容> 
+比如： 今天是个好天气，小明说道“你今天打算干嘛” 
+变成：
+ 旁白：今天是个好天气 
+小明（疑问的表情）：你今天打算干嘛 
+
+你需要总结出小说中出现台词的所有人物（演员）表，放到metadata里面，同时根据voice_dict JSON 的内容找到合适他（她）性格的voice 最终的输出格式是JSON, 
+样例： 
+{ 
+metadata: { narrative: { voice: "<voice key from voice JSON>" }, 
+actors: [ { key: <you created key>, voice: "<voice key from voice JSON>"}, { key: <you created key>, voice: "<voice key from voice JSON>"}, ... ] }, 
+contents: { paragraphs: [ { id: <>, actor: <actor key>, emotion: <emotion>, text: "raw text"}, { id: <>, actor: <actor key>, text: "raw text"}, ... ] } }
+
+说明:
+    paragraph id 的格式是 <index>_<actor_key_or_narrative>, index 从10001开始，比如:
+ 
+10001_narrative;
+10002_hartman;
+10003_officer.
+
+  emotion 是可选项，仅在voice支持support_emotions为非空时才出现，而且emotion的值必须为support_emotions 里面的值。
+
+voice_dict content: (说明： 只有can_be_narrative 的voice才可以被选做narrative，support_emotion 越多的voice越适合做主角)
+
+<CONTENT>
+
+
+小说正文：
+
+<CONTENT>
+

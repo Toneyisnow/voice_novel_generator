@@ -1,0 +1,128 @@
+{
+	"voices": [
+		{
+			"key": "voice_female_001",
+			"path": "sample_voice.mp3",
+			"persona": {
+				"gender": "female",
+				"age": "young_adult",
+				"tone": "gentle",
+			}
+		},
+		{
+			"key": "voice_female_002",
+			"path": "sample_voice_2.mp3",
+			"persona": {
+				"gender": "female",
+				"age": "middle_aged",
+				"tone": "leader",
+			}
+		},
+		{
+			"key": "voice_male_001",
+			"path": "sample_voice_2.mp3",
+			"persona": {
+				"gender": "male",
+				"age": "teen",
+				"tone": "leader",
+			}
+		},
+		{
+			"key": "voice_male_002",
+			"path": "sample_voice_2.mp3",
+			"persona": {
+				"gender": "male",
+				"age": "senior",
+				"tone": "leader",
+			}
+		}
+	],
+	"ages": [
+		  {
+			"key": "child",
+			"description": "Child (typically ages 4–12)"
+		  },
+		  {
+			"key": "teen",
+			"description": "Teenager (typically ages 13–19)"
+		  },
+		  {
+			"key": "young_adult",
+			"description": "Young adult (typically ages 20–29)"
+		  },
+		  {
+			"key": "adult",
+			"description": "Adult (typically ages 30–49)"
+		  },
+		  {
+			"key": "middle_aged",
+			"description": "Middle-aged (typically ages 50–64)"
+		  },
+		  {
+			"key": "senior",
+			"description": "Senior / Elderly (typically ages 65 and above)"
+		  }
+	],
+	"tones": [
+		  {
+			"key": "lively",
+			"description": "Lively, outgoing, enthusiastic type"
+		  },
+		  {
+			"key": "rational",
+			"description": "Rational, composed, thoughtful type"
+		  },
+		  {
+			"key": "gentle",
+			"description": "Relaxed, gentle, easygoing type"
+		  },
+		  {
+			"key": "anxious",
+			"description": "Introverted, anxious, cautious type"
+		  },
+		  {
+			"key": "leader",
+			"description": "Confident, decisive, leader type"
+		  },
+		  {
+			"key": "delicate",
+			"description": "Delicate, pitiful type"
+		  },
+		  {
+			"key": "gloomy",
+			"description": "Gloomy, intimidating type"
+		  },
+		  {
+			"key": "arrogant",
+			"description": "Arrogant, obsessive type"
+		  },
+		  {
+			"key": "heroic",
+			"description": "Heroic and righteous"
+		  },
+		  {
+			"key": "mysterious",
+			"description": "Aloof and mysterious"
+		  },
+		  {
+			"key": "impulsive",
+			"description": "Hot-blooded and impulsive"
+		  },
+		  {
+			"key": "cunning",
+			"description": "Sly and cunning"
+		  },
+		  {
+			"key": "ruthless",
+			"description": "Cold and ruthless"
+		  },
+		  {
+			"key": "quirky",
+			"description": "Quirky and mischievous"
+		  },
+		  {
+			"key": "lazy",
+			"description": "Bored and lazy"
+		  }
+	]
+}
