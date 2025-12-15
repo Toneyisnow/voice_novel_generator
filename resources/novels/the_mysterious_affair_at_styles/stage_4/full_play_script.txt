@@ -1,0 +1,621 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_male_jieshuoxiaoming_moon_bigtts"
+    },
+    "actors": [
+      {
+        "key": "hastings",
+        "voice": "zh_male_yangguangqingnian_emo_v2_mars_bigtts"
+      },
+      {
+        "key": "poirot",
+        "voice": "zh_male_beijingxiaoye_emo_v2_mars_bigtts"
+      },
+      {
+        "key": "detective",
+        "voice": "ICL_zh_male_hanhoudunshi_tob"
+      },
+      {
+        "key": "doctor",
+        "voice": "zh_male_yuanboxiaoshu_moon_bigtts"
+      },
+      {
+        "key": "housekeeper",
+        "voice": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts"
+      },
+      {
+        "key": "new_husband",
+        "voice": "ICL_zh_male_aiqilingren_tob"
+      },
+      {
+        "key": "john",
+        "voice": "ICL_zh_male_guzhibingjiao_tob"
+      },
+      {
+        "key": "john_wife",
+        "voice": "zh_female_roumeinvyou_emo_v2_mars_bigtts"
+      },
+      {
+        "key": "john_brother",
+        "voice": "zh_male_shaonianzixin_moon_bigtts"
+      },
+      {
+        "key": "maid",
+        "voice": "zh_female_meilinvyou_emo_v2_mars_bigtts"
+      }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "那天早晨，斯泰尔斯庄园的空气像被冻住了一样。走廊里很安静，可每个人的脚步声都像敲在木地板上的鼓点——咚、咚、咚，越听越让人心里发紧。"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "我跟在波洛身后，看着他把外套扣得一丝不苟，胡子也理得像尺子量过一样。可他的眼神却像两只小探照灯，悄悄扫过每一扇门、每一块地毯、每一张脸。"
+      },
+      {
+        "id": "10003_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "（压低声音）今天要去开听证会，你觉得会怎么样？"
+      },
+      {
+        "id": "10004_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（竖起手指）嘘，我的朋友，先听别人怎么说。说出来的话，有时候比沉默更会露出破绽。"
+      },
+      {
+        "id": "10005_narrative",
+        "actor": "narrative",
+        "text": "听证会在镇上举行。屋里坐满了人：警察、医生、记录员，还有庄园里那一群紧张得像绷紧的弓弦的亲人们。"
+      },
+      {
+        "id": "10006_detective",
+        "actor": "detective",
+        "text": "（压低声音）证词都差不多，看起来嫌疑人范围不大。"
+      },
+      {
+        "id": "10007_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "（几乎要点头）哦？"
+      },
+      {
+        "id": "10008_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "嗯。"
+      },
+      {
+        "id": "10009_narrative",
+        "actor": "narrative",
+        "text": "医生上来作证，语气严肃。"
+      },
+      {
+        "id": "10010_doctor",
+        "actor": "doctor",
+        "text": "从目前判断，是中毒。时间大约在深夜。"
+      },
+      {
+        "id": "10011_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "（悄悄）那就说明有人在夜里动了手脚，对吗？"
+      },
+      {
+        "id": "10012_narrative",
+        "actor": "narrative",
+        "text": "波洛没有回答。他抬起头，礼貌地问医生。"
+      },
+      {
+        "id": "10013_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "您说“深夜”，是几点到几点？"
+      },
+      {
+        "id": "10014_doctor",
+        "actor": "doctor",
+        "text": "大概凌晨一点到两点之间。"
+      },
+      {
+        "id": "10015_narrative",
+        "actor": "narrative",
+        "text": "轮到庄园里的人作证。每个人都说自己那晚做了什么、几点回房、有没有听见动静。听起来都很合理，甚至合理得过头，像提前排练过一样。"
+      },
+      {
+        "id": "10016_john",
+        "actor": "john",
+        "text": "我很早就回房间了。后来听见楼上有动静……但我没有多想。"
+      },
+      {
+        "id": "10017_john_wife",
+        "actor": "john_wife",
+        "emotion": "neutral",
+        "text": "我只是担心，所以去看了一眼。门锁着，我就回来了。"
+      },
+      {
+        "id": "10018_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你在走廊上停留了多久？"
+      },
+      {
+        "id": "10019_john_wife",
+        "actor": "john_wife",
+        "emotion": "fear",
+        "text": "不久……也许一分钟？"
+      },
+      {
+        "id": "10020_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "一分钟。很好。"
+      },
+      {
+        "id": "10021_narrative",
+        "actor": "narrative",
+        "text": "回到庄园，大家都像刚打完一场看不见的仗，脸上全是疲惫。可疲惫里又夹着一种奇怪的东西——像害怕，又像防备。"
+      },
+      {
+        "id": "10022_housekeeper",
+        "actor": "housekeeper",
+        "emotion": "angry",
+        "text": "我早就说过！这庄园里有人不对劲！"
+      },
+      {
+        "id": "10023_narrative",
+        "actor": "narrative",
+        "text": "她狠狠瞪向那位新丈夫。对方穿得体面，却让人觉得衣服下面藏着一层油腻的心思。"
+      },
+      {
+        "id": "10024_new_husband",
+        "actor": "new_husband",
+        "text": "你这是诽谤！我对我妻子忠心耿耿！"
+      },
+      {
+        "id": "10025_housekeeper",
+        "actor": "housekeeper",
+        "emotion": "coldness",
+        "text": "忠心？你对钱也挺忠心的吧？"
+      },
+      {
+        "id": "10026_john",
+        "actor": "john",
+        "text": "够了！大家别再吵！"
+      },
+      {
+        "id": "10027_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "走，我们再去走廊看看。"
+      },
+      {
+        "id": "10028_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "现在？可大家都——"
+      },
+      {
+        "id": "10029_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "正因为大家都忙着情绪，我才更容易看清事实。"
+      },
+      {
+        "id": "10030_narrative",
+        "actor": "narrative",
+        "text": "走廊里铺着厚地毯，踩上去几乎没有声音。夫人的房门仍然紧闭，像一张不肯开口的嘴。"
+      },
+      {
+        "id": "10031_narrative",
+        "actor": "narrative",
+        "text": "波洛停在壁灯旁，盯着烛台——那上面一截蜡烛烧得很短。"
+      },
+      {
+        "id": "10032_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "蜡烛怎么了？有人点过？"
+      },
+      {
+        "id": "10033_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "如果有人只在走廊停留了一分钟，蜡烛会烧掉这么多吗？"
+      },
+      {
+        "id": "10034_narrative",
+        "actor": "narrative",
+        "text": "我一愣。对呀！一分钟怎么可能烧掉那么长一截？除非她在走廊待得更久，或者有人在她之前就点过。"
+      },
+      {
+        "id": "10035_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "走，我们去问问。"
+      },
+      {
+        "id": "10036_narrative",
+        "actor": "narrative",
+        "text": "小客厅里，她握着茶杯，指尖发白。波洛的语气很礼貌，却像把小钩子轻轻挂在问题上。"
+      },
+      {
+        "id": "10037_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "请原谅我的冒昧。那晚你去走廊时，走廊的灯或者蜡烛，是亮着的吗？"
+      },
+      {
+        "id": "10038_john_wife",
+        "actor": "john_wife",
+        "emotion": "fear",
+        "text": "我……我记不清了。也许是亮着的。"
+      },
+      {
+        "id": "10039_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "也许？那你有没有拿过火柴？"
+      },
+      {
+        "id": "10040_john_wife",
+        "actor": "john_wife",
+        "emotion": "angry",
+        "text": "没有！我没有！"
+      },
+      {
+        "id": "10041_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "很好。那你从房里出来时，有没有听见楼下有人说话？"
+      },
+      {
+        "id": "10042_john_wife",
+        "actor": "john_wife",
+        "emotion": "fear",
+        "text": "没有……应该没有。"
+      },
+      {
+        "id": "10043_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "谢谢。你很镇定。"
+      },
+      {
+        "id": "10044_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "她看起来不像坏人。"
+      },
+      {
+        "id": "10045_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "坏人并不一定看起来坏。而且，人有时候说谎，不是为了害人，而是为了保护什么。"
+      },
+      {
+        "id": "10046_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "保护什么？"
+      },
+      {
+        "id": "10047_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（轻点太阳穴）想想。"
+      },
+      {
+        "id": "10048_narrative",
+        "actor": "narrative",
+        "text": "接着我们去找约翰的弟弟。他瘦瘦的，像一根绷紧的琴弦，一见到波洛就把目光移开。"
+      },
+      {
+        "id": "10049_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "那晚你在做什么？"
+      },
+      {
+        "id": "10050_john_brother",
+        "actor": "john_brother",
+        "text": "在房里……看书。"
+      },
+      {
+        "id": "10051_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "什么书？"
+      },
+      {
+        "id": "10052_john_brother",
+        "actor": "john_brother",
+        "text": "诗集。"
+      },
+      {
+        "id": "10053_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你有没有听见楼上有声音？"
+      },
+      {
+        "id": "10054_john_brother",
+        "actor": "john_brother",
+        "text": "听见了……有人走动。"
+      },
+      {
+        "id": "10055_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你有没有出去？"
+      },
+      {
+        "id": "10056_john_brother",
+        "actor": "john_brother",
+        "text": "没有。"
+      },
+      {
+        "id": "10057_hastings",
+        "actor": "hastings",
+        "emotion": "sad",
+        "text": "（困惑）每个人都说“没有”。可怎么可能呢？"
+      },
+      {
+        "id": "10058_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "在一个家里，如果所有人的故事都太整齐，那就像一排叠得完美的积木——只要轻轻碰一下，整排都会倒。"
+      },
+      {
+        "id": "10059_narrative",
+        "actor": "narrative",
+        "text": "傍晚，警探又来了。他把帽子往桌上一放，像把烦恼也放了上去。"
+      },
+      {
+        "id": "10060_detective",
+        "actor": "detective",
+        "text": "听证会之后，我更确定了。嫌疑主要在庄园里的人身上。尤其是——"
+      },
+      {
+        "id": "10061_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "我不反对你的方向。但我想问你一个问题：那晚到底几点有人第一次上楼？又是谁第一个说“听见动静”？"
+      },
+      {
+        "id": "10062_detective",
+        "actor": "detective",
+        "text": "约翰说他听见动静，后来大家都上去了。"
+      },
+      {
+        "id": "10063_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "“后来”是多久之后？"
+      },
+      {
+        "id": "10064_detective",
+        "actor": "detective",
+        "text": "这……（翻记录）他们的说法不完全一样。"
+      },
+      {
+        "id": "10065_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "看见了吗？时间，是最会咬人的小狗。你不看它，它会躲在角落；你一看它，它就跳出来咬你的裤脚。"
+      },
+      {
+        "id": "10066_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "医生说时间在凌晨一点到两点。可有人的证词却暗示更早就出现了异常。还有，走廊上的蜡烛，烧得太短。"
+      },
+      {
+        "id": "10067_detective",
+        "actor": "detective",
+        "text": "蜡烛？这也算证据？"
+      },
+      {
+        "id": "10068_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "当然。在真相面前，每一根蜡烛都可能是时钟。"
+      },
+      {
+        "id": "10069_narrative",
+        "actor": "narrative",
+        "text": "夜深了，庄园的人各自回房，走廊再次安静。我以为波洛会去翻箱倒柜找可疑瓶子，没想到他却在餐厅里坐下，认真看起一张写满家里日常安排的小纸条。"
+      },
+      {
+        "id": "10070_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "你在看这个干嘛？"
+      },
+      {
+        "id": "10071_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "因为犯罪并不总是从黑暗开始。有时候，它就藏在日常里。"
+      },
+      {
+        "id": "10072_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "谁负责送信？谁负责把热饮送上楼？谁最后一次进过房间？谁最有机会顺手做点小改变，而又不引人注意？"
+      },
+      {
+        "id": "10073_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "你是说……真正重要的不是谁最恨她，而是谁最方便？"
+      },
+      {
+        "id": "10074_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "啊！你开始像个侦探了。"
+      },
+      {
+        "id": "10075_narrative",
+        "actor": "narrative",
+        "text": "这时，门外忽然传来急促的脚步声。一个女仆跑进来，脸色苍白。"
+      },
+      {
+        "id": "10076_maid",
+        "actor": "maid",
+        "emotion": "fear",
+        "text": "波洛先生！有人……有人在厨房里吵起来了！"
+      },
+      {
+        "id": "10077_narrative",
+        "actor": "narrative",
+        "text": "我们赶到厨房，发现女管家正和那位新丈夫对峙。女管家手里拿着一封信，像拿着一把刀。"
+      },
+      {
+        "id": "10078_housekeeper",
+        "actor": "housekeeper",
+        "emotion": "angry",
+        "text": "你别装！这封信说明了你的——"
+      },
+      {
+        "id": "10079_new_husband",
+        "actor": "new_husband",
+        "text": "够了！"
+      },
+      {
+        "id": "10080_narrative",
+        "actor": "narrative",
+        "text": "他伸手要抢，信在空中晃了一下，像一条差点被扯断的绳子。"
+      },
+      {
+        "id": "10081_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "请停。谁也别抢。"
+      },
+      {
+        "id": "10082_narrative",
+        "actor": "narrative",
+        "text": "波洛把信接过来，扫了一眼，眼神更深了。他却没有解释，只把信折好，平静地还给女管家。"
+      },
+      {
+        "id": "10083_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "谢谢你。你刚才做了一件很重要的事。"
+      },
+      {
+        "id": "10084_housekeeper",
+        "actor": "housekeeper",
+        "emotion": "surprised",
+        "text": "重要？"
+      },
+      {
+        "id": "10085_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你让我们看见了——有人一提到某些东西，就会失控。"
+      },
+      {
+        "id": "10086_narrative",
+        "actor": "narrative",
+        "text": "那位新丈夫脸色难看，嘴唇抖了抖，最后甩手走了。厨房里只剩下我们几个人，空气像一锅刚煮开的水，冒着看不见的泡泡。"
+      },
+      {
+        "id": "10087_narrative",
+        "actor": "narrative",
+        "text": "回到房间，我终于忍不住开口。"
+      },
+      {
+        "id": "10088_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "你到底在怀疑谁？"
+      },
+      {
+        "id": "10089_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "我在怀疑——太明显的答案。"
+      },
+      {
+        "id": "10090_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "什么意思？"
+      },
+      {
+        "id": "10091_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "当所有人都指向同一个方向时，我反而要问：是谁把大家的眼睛都引过去？又是谁在暗处悄悄移动了时间、灯光、信件、热饮……这些看起来不起眼的小东西？"
+      },
+      {
+        "id": "10092_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "真正的谜题，往往不是谁做了，而是怎么做到让所有人都以为是另一个人做的。"
+      },
+      {
+        "id": "10093_narrative",
+        "actor": "narrative",
+        "text": "我站在原地，心里像被塞进了一团冷风。"
+      },
+      {
+        "id": "10094_narrative",
+        "actor": "narrative",
+        "text": "就在这时，走廊里传来一声极轻的响动——像有人用指尖敲了一下门板。"
+      },
+      {
+        "id": "10095_narrative",
+        "actor": "narrative",
+        "text": "咚。"
+      },
+      {
+        "id": "10096_narrative",
+        "actor": "narrative",
+        "text": "我屏住呼吸，朝门口走去。门外没有人，只有地毯上静静躺着一张折得很小的纸。纸边缘还带着一点点潮气，像刚从掌心里放出来。"
+      },
+      {
+        "id": "10097_narrative",
+        "actor": "narrative",
+        "text": "我把纸捡起来，刚要打开，波洛忽然伸手按住我的手腕，声音低得像耳语。"
+      },
+      {
+        "id": "10098_poirot",
+        "actor": "poirot",
+        "emotion": "fear",
+        "text": "别在这里看。"
+      },
+      {
+        "id": "10099_narrative",
+        "actor": "narrative",
+        "text": "他抬头望向走廊尽头，那里黑得像一条没有尽头的隧道。远处似乎有一道影子一闪而过，又像只是灯光晃了一下。"
+      },
+      {
+        "id": "10100_narrative",
+        "actor": "narrative",
+        "text": "波洛把那张纸轻轻收进自己的口袋，脸上第一次没有笑意。"
+      },
+      {
+        "id": "10101_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "今夜，有人不想让我们把这张纸带到明天。"
+      },
+      {
+        "id": "10102_narrative",
+        "actor": "narrative",
+        "text": "话音刚落，楼下忽然传来一声闷响，像是有重物被推倒。紧接着，一阵急促的脚步从楼梯下方冲上来——有人在黑暗里喘着气，像追着什么，又像在逃什么。"
+      }
+    ]
+  }
+}

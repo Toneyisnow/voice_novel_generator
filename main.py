@@ -8,7 +8,7 @@ from volc.volc_websocket import volc_generate_voice
 
 def main_generate():
     # 读取 JSON 文件
-    with open('resources/novels/novel_yi_ru_fan_zhang/full_play_script.txt', 'r', encoding='utf-8') as f:
+    with open('resources/novels/the_mysterious_affair_at_styles/stage_6/full_play_script.txt', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     # 获取演员和旁白的配音映射
@@ -17,9 +17,12 @@ def main_generate():
 
     # 遍历 paragraphs
     for paragraph in data["contents"]["paragraphs"]:
+
         actor_key = paragraph["actor"]
         emotion = paragraph["emotion"] if hasattr(paragraph, "emotion") else None
         text = paragraph["text"]
+        text = text.split("）", 1)[1] if "）" in text else text
+
         output_file_name = paragraph["id"]
 
         # 获取对应 voice key

@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_male_jieshuoxiaoming_moon_bigtts"
+    },
+    "actors": [
+      { "key": "hastings", "voice": "zh_male_yangguangqingnian_emo_v2_mars_bigtts" },
+      { "key": "poirot", "voice": "zh_male_beijingxiaoye_emo_v2_mars_bigtts" },
+      { "key": "john", "voice": "ICL_zh_male_hanhoudunshi_tob" },
+      { "key": "mrs_inglethorp", "voice": "ICL_zh_female_wenrouwenya_tob" },
+      { "key": "alfred_inglethorp", "voice": "zh_male_aojiaobazong_moon_bigtts" },
+      { "key": "mary", "voice": "zh_female_meilinvyou_emo_v2_mars_bigtts" },
+      { "key": "lawrence", "voice": "zh_male_shaonianzixin_moon_bigtts" },
+      { "key": "howard", "voice": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts" },
+      { "key": "upstairs_female", "voice": "zh_female_roumeinvyou_emo_v2_mars_bigtts" },
+      { "key": "upstairs_male", "voice": "zh_male_shenyeboke_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "斯泰尔斯庄园的第一眼，像一幅看起来很安静、但画框里藏着秘密的油画。"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "我叫哈斯丁斯，从战场回来不久，腿上的旧伤在阴天会隐隐作痛。收到老朋友约翰的邀请信后，我坐上火车来到乡下小镇，空气里都是草叶与泥土的味道。"
+      },
+      {
+        "id": "10003_narrative",
+        "actor": "narrative",
+        "text": "正准备按路线去庄园时，身后有人叫住我。"
+      },
+      {
+        "id": "10004_poirot",
+        "actor": "poirot",
+        "emotion": "surprised",
+        "text": "哈斯丁斯？——是你吗？"
+      },
+      {
+        "id": "10005_narrative",
+        "actor": "narrative",
+        "text": "我回头一看，是波洛：衣服整整齐齐，胡子像用尺子量过，眼睛却灵活得像两颗会转的小珠子。"
+      },
+      {
+        "id": "10006_hastings",
+        "actor": "hastings",
+        "emotion": "excited",
+        "text": "（又惊又喜）波洛！你怎么会在这里？"
+      },
+      {
+        "id": "10007_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（郑重其事地握手）啊，我的朋友！你看起来——嗯——瘦了一点，但眼神还很勇敢。"
+      },
+      {
+        "id": "10008_hastings",
+        "actor": "hastings",
+        "emotion": "happy",
+        "text": "（故意夸张地叹气）勇敢？我现在只想找一张软椅子。"
+      },
+      {
+        "id": "10009_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "那就去斯泰尔斯庄园。你也住那儿，对吗？"
+      },
+      {
+        "id": "10010_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "你也？"
+      },
+      {
+        "id": "10011_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "是的。我和一些比利时朋友暂住在附近的村子里。庄园的女主人很善良，允许我们在乡下安顿。"
+      },
+      {
+        "id": "10012_narrative",
+        "actor": "narrative",
+        "text": "他忽然低头看了看地面，又看了看我的鞋尖，像在检查什么看不见的线索。"
+      },
+      {
+        "id": "10013_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "（发毛）怎么了？我鞋带没系好？"
+      },
+      {
+        "id": "10014_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "不是。只是……你走路时左脚会先落地一点点。你的旧伤仍然在提醒你。"
+      },
+      {
+        "id": "10015_narrative",
+        "actor": "narrative",
+        "text": "我们穿过树影，来到草地尽头的红砖大房子：白窗框在阳光下亮得像一排眨眼睛的星星。"
+      },
+      {
+        "id": "10016_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（轻声）欢迎来到斯泰尔斯。"
+      },
+      {
+        "id": "10017_narrative",
+        "actor": "narrative",
+        "text": "门口，约翰张开手臂大步走来，拍得我肩膀都震了一下。"
+      },
+      {
+        "id": "10018_john",
+        "actor": "john",
+        "text": "哈斯丁斯！你终于来了！"
+      },
+      {
+        "id": "10019_hastings",
+        "actor": "hastings",
+        "emotion": "happy",
+        "text": "（笑着抱怨）你这欢迎方式和炮弹差不多。"
+      },
+      {
+        "id": "10020_john",
+        "actor": "john",
+        "text": "（大笑）快进屋，外面风大。"
+      },
+      {
+        "id": "10021_narrative",
+        "actor": "narrative",
+        "text": "大厅里有花香和淡淡的蜡烛味，墙上的家族画像端着严肃的脸，像在审视每一个新来的客人。"
+      },
+      {
+        "id": "10022_john",
+        "actor": "john",
+        "text": "（压低声音，冲画像努嘴）别被他们吓到。他们最擅长的就是装模作样。"
+      },
+      {
+        "id": "10023_narrative",
+        "actor": "narrative",
+        "text": "楼梯上方传来温柔又有劲的声音，一位精神极好的女士走下来，眼神明亮、笑容像阳光穿过窗帘。"
+      },
+      {
+        "id": "10024_mrs_inglethorp",
+        "actor": "mrs_inglethorp",
+        "text": "约翰，是哈斯丁斯先生到了吗？"
+      },
+      {
+        "id": "10025_mrs_inglethorp",
+        "actor": "mrs_inglethorp",
+        "text": "欢迎你，哈斯丁斯先生。约翰常提起你。你在战场上吃了不少苦吧？在这里，你只需要把自己养好。"
+      },
+      {
+        "id": "10026_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "（有点不好意思）夫人，您太客气了。"
+      },
+      {
+        "id": "10027_mrs_inglethorp",
+        "actor": "mrs_inglethorp",
+        "text": "这不是客气，是命令。你得听我的命令。"
+      },
+      {
+        "id": "10028_narrative",
+        "actor": "narrative",
+        "text": "约翰在旁边挤眉弄眼，小声补了一句。"
+      },
+      {
+        "id": "10029_john",
+        "actor": "john",
+        "text": "她就是我继母。你会喜欢她的——所有人都得喜欢她。"
+      },
+      {
+        "id": "10030_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "（重复）所有人？"
+      },
+      {
+        "id": "10031_narrative",
+        "actor": "narrative",
+        "text": "约翰的笑慢了一拍，眉间那道皱痕像被轻轻按了一下。"
+      },
+      {
+        "id": "10032_john",
+        "actor": "john",
+        "text": "嗯……差不多吧。"
+      },
+      {
+        "id": "10033_narrative",
+        "actor": "narrative",
+        "text": "客厅里走出一位穿着讲究的男人，步子不快，却像要让所有人都注意他。他热情得过头，握手握得很紧。"
+      },
+      {
+        "id": "10034_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "哦！这一定是哈斯丁斯先生！我是阿尔弗雷德·英格尔索普，夫人的丈夫。欢迎欢迎——斯泰尔斯庄园永远欢迎勇敢的军官！"
+      },
+      {
+        "id": "10035_narrative",
+        "actor": "narrative",
+        "text": "我礼貌点头，却不知怎么心里微微一紧。波洛在我身后轻轻清了清嗓子。对方像这才发现波洛，表情僵了一瞬，又迅速恢复。"
+      },
+      {
+        "id": "10036_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "啊！波洛先生！我们又见面了！你看起来……嗯，还是那么精神。"
+      },
+      {
+        "id": "10037_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "谢谢。你也是。"
+      },
+      {
+        "id": "10038_narrative",
+        "actor": "narrative",
+        "text": "不久，我见到了玛丽：漂亮、得体，笑容像被放进礼貌里，眼睛却像湖水，湖底藏着石头。"
+      },
+      {
+        "id": "10039_mary",
+        "actor": "mary",
+        "emotion": "neutral",
+        "text": "欢迎你。旅途辛苦吗？"
+      },
+      {
+        "id": "10040_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "还好，比行军轻松多了。"
+      },
+      {
+        "id": "10041_narrative",
+        "actor": "narrative",
+        "text": "走廊尽头，一个瘦白的年轻人走来，肩膀微微缩着，像总怕撞到别人。他说自己在写东西。"
+      },
+      {
+        "id": "10042_lawrence",
+        "actor": "lawrence",
+        "text": "你好……我在写……一些东西。"
+      },
+      {
+        "id": "10043_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "（随口一猜）诗？"
+      },
+      {
+        "id": "10044_lawrence",
+        "actor": "lawrence",
+        "text": "（抬头一瞬惊讶）是的。你怎么知道？"
+      },
+      {
+        "id": "10045_narrative",
+        "actor": "narrative",
+        "text": "波洛在一旁轻轻咳了一声，像在提醒我：这里每个人的心思，都写在脸上。"
+      },
+      {
+        "id": "10046_narrative",
+        "actor": "narrative",
+        "text": "傍晚我在玫瑰架旁散步，一个穿着干练、步子像风一样快的女人冲出来，目光从我头顶扫到鞋尖。"
+      },
+      {
+        "id": "10047_howard",
+        "actor": "howard",
+        "emotion": "coldness",
+        "text": "你是哈斯丁斯？"
+      },
+      {
+        "id": "10048_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "是的。您是？"
+      },
+      {
+        "id": "10049_howard",
+        "actor": "howard",
+        "emotion": "neutral",
+        "text": "霍华德小姐。我在这儿照顾夫人很多年。听着——这庄园现在不太对劲。"
+      },
+      {
+        "id": "10050_howard",
+        "actor": "howard",
+        "emotion": "angry",
+        "text": "（压低声音）你小心那位新先生。他不是好人。"
+      },
+      {
+        "id": "10051_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "可他是夫人的——"
+      },
+      {
+        "id": "10052_howard",
+        "actor": "howard",
+        "emotion": "coldness",
+        "text": "是。所以才更危险。"
+      },
+      {
+        "id": "10053_narrative",
+        "actor": "narrative",
+        "text": "晚餐时，长桌银器反着烛光，每个人的脸都一半亮一半暗。英格尔索普先生说话很多，像要宣布庄园现在由他掌控。"
+      },
+      {
+        "id": "10054_mrs_inglethorp",
+        "actor": "mrs_inglethorp",
+        "text": "阿尔弗雷德，别太激动，吃饭时别谈工作。"
+      },
+      {
+        "id": "10055_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "亲爱的，我只是想让大家放心，我会照顾好你。"
+      },
+      {
+        "id": "10056_narrative",
+        "actor": "narrative",
+        "text": "约翰握刀叉的手紧了一下；玛丽低头喝汤；劳伦斯盯着烛火出神。波洛几乎不说话，只是看着每个人的表情，把它们悄悄收进脑子里。"
+      },
+      {
+        "id": "10057_narrative",
+        "actor": "narrative",
+        "text": "饭后夜色像黑毯子盖在草地上。我和约翰站在窗边，外面很静，静得能听见自己的呼吸。"
+      },
+      {
+        "id": "10058_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "（斟酌）你家里……气氛有点紧。"
+      },
+      {
+        "id": "10059_john",
+        "actor": "john",
+        "text": "（短笑）你感觉到了？是的。事情复杂。"
+      },
+      {
+        "id": "10060_hastings",
+        "actor": "hastings",
+        "emotion": "neutral",
+        "text": "因为英格尔索普先生？"
+      },
+      {
+        "id": "10061_narrative",
+        "actor": "narrative",
+        "text": "约翰没有立刻回答，眼神像在想一扇关着的门后面有什么。"
+      },
+      {
+        "id": "10062_john",
+        "actor": "john",
+        "text": "哈斯丁斯，你来得正好。这里需要一个外人。一个能看清楚的人。"
+      },
+      {
+        "id": "10063_narrative",
+        "actor": "narrative",
+        "text": "话音未落，楼上传来压低的争吵声，像把火塞进棉花里——不爆炸，却闷得发热。"
+      },
+      {
+        "id": "10064_upstairs_female",
+        "actor": "upstairs_female",
+        "emotion": "angry",
+        "text": "你不能这样做！"
+      },
+      {
+        "id": "10065_upstairs_male",
+        "actor": "upstairs_male",
+        "text": "我当然能。你忘了我手里有什么吗？"
+      },
+      {
+        "id": "10066_narrative",
+        "actor": "narrative",
+        "text": "我和约翰同时抬头。约翰像要冲上楼。就在这时，英格尔索普夫人的声音响起，第一次带着不容置疑的硬度。"
+      },
+      {
+        "id": "10067_mrs_inglethorp",
+        "actor": "mrs_inglethorp",
+        "text": "别在这屋里说！把门关上！"
+      },
+      {
+        "id": "10068_narrative",
+        "actor": "narrative",
+        "text": "紧接着，楼上传来“砰”的一声，像有人用力关门。大厅里静得可怕，烛火都轻轻跳了一下。"
+      },
+      {
+        "id": "10069_mary",
+        "actor": "mary",
+        "emotion": "neutral",
+        "text": "（勉强笑）风大，门响而已。"
+      },
+      {
+        "id": "10070_narrative",
+        "actor": "narrative",
+        "text": "可她说话时，眼睛却没看我们，而是看向楼梯，像在确认什么。阴影里，波洛捋了捋胡子。"
+      },
+      {
+        "id": "10071_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "啊……有趣。"
+      },
+      {
+        "id": "10072_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "（压低声音）这听起来一点也不有趣。"
+      },
+      {
+        "id": "10073_narrative",
+        "actor": "narrative",
+        "text": "我正要跟着约翰上楼，却注意到走廊尽头的地毯上，有一小片亮亮的东西，像被烛光照到的纸角。它被一阵风轻轻吹动，滑进桌脚的阴影里。"
+      },
+      {
+        "id": "10074_narrative",
+        "actor": "narrative",
+        "text": "我弯腰伸手去够，指尖刚碰到纸边，就听见楼上又传来更低、更急的声音，像有人在门后咬着牙说——"
+      },
+      {
+        "id": "10075_upstairs_male",
+        "actor": "upstairs_male",
+        "text": "……如果他知道了，我们就都完了。"
+      },
+      {
+        "id": "10076_narrative",
+        "actor": "narrative",
+        "text": "我的手停在半空，心跳突然快了一拍。那张纸，到底是谁掉的？上面写了什么？“他”又是谁？楼上的门仍然紧紧关着，像一张不肯张开的嘴。"
+      }
+    ]
+  }
+}

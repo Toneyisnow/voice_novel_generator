@@ -1,0 +1,726 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_male_jieshuoxiaoming_moon_bigtts"
+    },
+    "actors": [
+      { "key": "hastings", "voice": "zh_male_yangguangqingnian_emo_v2_mars_bigtts" },
+      { "key": "poirot", "voice": "zh_male_beijingxiaoye_emo_v2_mars_bigtts" },
+      { "key": "detective", "voice": "ICL_zh_male_hanhoudunshi_tob" },
+      { "key": "doctor", "voice": "zh_male_yuanboxiaoshu_moon_bigtts" },
+      { "key": "john", "voice": "ICL_zh_male_guzhibingjiao_tob" },
+      { "key": "mary", "voice": "zh_female_meilinvyou_emo_v2_mars_bigtts" },
+      { "key": "lawrence", "voice": "zh_male_shaonianzixin_moon_bigtts" },
+      { "key": "howard", "voice": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts" },
+      { "key": "alfred_inglethorp", "voice": "zh_male_aojiaobazong_moon_bigtts" },
+      { "key": "maid", "voice": "zh_female_roumeinvyou_emo_v2_mars_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "那天下午，斯泰尔斯庄园的天空低低的，像把一块灰色的毯子盖在屋顶上。风吹过走廊，壁灯的玻璃罩轻轻响了一下，像有人在暗处用指尖敲了敲。"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "自从那张纸角不见了之后，我看谁都像“可能知道些什么”。每个人的脚步声、每一次清嗓子、每一次把门关得太轻或太重，都像在讲秘密。"
+      },
+      {
+        "id": "10003_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "（压低声音）波洛，我们真的不告诉警探纸角丢了吗？这也太危险了。"
+      },
+      {
+        "id": "10004_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "告诉他，他会立刻去抓“最像”的人。可我想抓的是“最聪明”的那一个。"
+      },
+      {
+        "id": "10005_narrative",
+        "actor": "narrative",
+        "text": "他说完，像没事人一样把手套抚平，甚至把桌上的水果盘轻轻转到“更整齐”的角度。可我知道，他心里一定在跑得飞快。"
+      },
+      {
+        "id": "10006_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "今晚，我们要布一个小小的“舞台”。所有人都要上台。"
+      },
+      {
+        "id": "10007_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "舞台？你要演戏？"
+      },
+      {
+        "id": "10008_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "不，是让他们自己演。"
+      },
+      {
+        "id": "10009_narrative",
+        "actor": "narrative",
+        "text": "傍晚，波洛请警探把大家都叫到大客厅。火炉烧得很旺，可屋里却没有“温暖”的感觉。每个人都找了一个位置坐下，像在等老师点名。"
+      },
+      {
+        "id": "10010_detective",
+        "actor": "detective",
+        "text": "都到齐了？好。波洛先生说他有话要问。"
+      },
+      {
+        "id": "10011_howard",
+        "actor": "howard",
+        "emotion": "coldness",
+        "text": "（抱着胳膊）我倒要听听，他能问出什么。"
+      },
+      {
+        "id": "10012_narrative",
+        "actor": "narrative",
+        "text": "约翰坐在离壁炉最近的位置，脸色像被火光照得更硬。玛丽坐在他旁边，手指绞着手帕。劳伦斯靠着窗，像随时想把自己变成窗帘的一部分。"
+      },
+      {
+        "id": "10013_narrative",
+        "actor": "narrative",
+        "text": "英格尔索普先生坐在单人沙发上，背挺得笔直，表情像在说：我清清白白。可他的眼睛却总往门口瞟。"
+      },
+      {
+        "id": "10014_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "各位，很抱歉打扰。今晚我只问一个问题：昨晚，谁有机会在不被注意的情况下，把一样东西“换掉”？"
+      },
+      {
+        "id": "10015_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "（心里一跳）换掉？"
+      },
+      {
+        "id": "10016_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "你什么意思？你在暗示什么？"
+      },
+      {
+        "id": "10017_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "我还没说我暗示什么。你已经开始紧张了。"
+      },
+      {
+        "id": "10018_narrative",
+        "actor": "narrative",
+        "text": "英格尔索普先生的嘴角抽了一下，像把一句脏话硬生生咽回去。"
+      },
+      {
+        "id": "10019_detective",
+        "actor": "detective",
+        "text": "波洛先生，你说的“东西”到底是什么？"
+      },
+      {
+        "id": "10020_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "一张纸。准确地说，是一张会让某些人睡不着的纸。"
+      },
+      {
+        "id": "10021_narrative",
+        "actor": "narrative",
+        "text": "客厅里一瞬间更安静了。连火炉都像不敢噼啪。"
+      },
+      {
+        "id": "10022_mary",
+        "actor": "mary",
+        "emotion": "fear",
+        "text": "（声音很轻）纸……什么纸？"
+      },
+      {
+        "id": "10023_howard",
+        "actor": "howard",
+        "emotion": "angry",
+        "text": "（盯着英格尔索普先生）还能是什么？当然是夫人的文件！"
+      },
+      {
+        "id": "10024_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "胡说八道！我从来没动过她的文件！"
+      },
+      {
+        "id": "10025_john",
+        "actor": "john",
+        "text": "（咬着牙）你最好说真话。"
+      },
+      {
+        "id": "10026_lawrence",
+        "actor": "lawrence",
+        "text": "（小声）也许……也许只是误会。"
+      },
+      {
+        "id": "10027_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "误会是最方便的毯子，大家都爱拿它盖住脚印。"
+      },
+      {
+        "id": "10028_narrative",
+        "actor": "narrative",
+        "text": "波洛从口袋里拿出一个小信封，轻轻放在茶几上。信封很普通，可它落桌的声音像一记小锤子，敲在每个人心里。"
+      },
+      {
+        "id": "10029_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "这里面，是我今天“意外”发现的一部分内容。谁想看看？"
+      },
+      {
+        "id": "10030_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "（心里发毛）他在钓鱼……"
+      },
+      {
+        "id": "10031_detective",
+        "actor": "detective",
+        "text": "把它交给我。作为证据。"
+      },
+      {
+        "id": "10032_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "当然可以。但在那之前，我想先看谁的手会抖。"
+      },
+      {
+        "id": "10033_narrative",
+        "actor": "narrative",
+        "text": "他说这句时，目光很轻地扫过每个人的手指。玛丽的手帕一下子被攥紧；劳伦斯把手藏进袖子里；英格尔索普先生的膝盖动了一下，像准备起身。"
+      },
+      {
+        "id": "10034_howard",
+        "actor": "howard",
+        "emotion": "surprised",
+        "text": "（冷笑）哦？有人想抢？"
+      },
+      {
+        "id": "10035_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "我才不稀罕你那什么信封！"
+      },
+      {
+        "id": "10036_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "很好。那就请大家今晚都各自回房，照常休息。就当这封信封不存在。"
+      },
+      {
+        "id": "10037_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "（小声）你就这样结束了？"
+      },
+      {
+        "id": "10038_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "结束？不，我只是把门留一条缝。看谁会从缝里钻出去。"
+      },
+      {
+        "id": "10039_narrative",
+        "actor": "narrative",
+        "text": "人群散开时，警探把信封拿走了。可波洛一点也不着急，反而像刚摆好棋盘，等对手先走。"
+      },
+      {
+        "id": "10040_narrative",
+        "actor": "narrative",
+        "text": "夜里，走廊的灯被调暗，只留壁灯微微亮着。波洛把我拉到门后，像在玩捉迷藏。"
+      },
+      {
+        "id": "10041_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你听。"
+      },
+      {
+        "id": "10042_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "（屏住呼吸）我只听见我的心跳。"
+      },
+      {
+        "id": "10043_narrative",
+        "actor": "narrative",
+        "text": "过了一会儿，远处传来极轻的脚步声——像猫踩在地毯上。脚步声停在楼梯口，又往书房方向走去。"
+      },
+      {
+        "id": "10044_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "有人！"
+      },
+      {
+        "id": "10045_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "对。现在别动。让他以为没人看见。"
+      },
+      {
+        "id": "10046_narrative",
+        "actor": "narrative",
+        "text": "我们悄悄跟上去。那道影子在书房门口停住，左右看了看，轻轻拧门把手。"
+      },
+      {
+        "id": "10047_narrative",
+        "actor": "narrative",
+        "text": "下一秒，书房里传来纸张翻动的细响——沙沙、沙沙，像有人在急着找“某一页”。"
+      },
+      {
+        "id": "10048_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "（咬耳朵）他在找信封的内容！"
+      },
+      {
+        "id": "10049_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "或者在确认那张纸是否真的在警察手里。"
+      },
+      {
+        "id": "10050_narrative",
+        "actor": "narrative",
+        "text": "波洛忽然推门而入，动作不快，却像灯一下子亮起。书房里的人猛地一转身——是女仆！她手里拿着一串钥匙，脸白得像面粉。"
+      },
+      {
+        "id": "10051_maid",
+        "actor": "maid",
+        "emotion": "fear",
+        "text": "（吓得快哭）我、我不是偷东西！我只是……我只是来锁窗！真的！"
+      },
+      {
+        "id": "10052_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "锁窗要翻文件吗？"
+      },
+      {
+        "id": "10053_maid",
+        "actor": "maid",
+        "emotion": "sad",
+        "text": "我……我听见有人说那张纸会害死人……我害怕！我想看看究竟是什么！"
+      },
+      {
+        "id": "10054_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你很诚实。至少比某些穿得更体面的人诚实。"
+      },
+      {
+        "id": "10055_narrative",
+        "actor": "narrative",
+        "text": "他轻轻把钥匙从女仆手里拿走，声音不凶，却让人不敢反抗。"
+      },
+      {
+        "id": "10056_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "回房去。今晚任何人问你，你都说你整晚在床上。明白吗？"
+      },
+      {
+        "id": "10057_maid",
+        "actor": "maid",
+        "emotion": "surprised",
+        "text": "可、可我——"
+      },
+      {
+        "id": "10058_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你想活得安全一点，就照做。"
+      },
+      {
+        "id": "10059_narrative",
+        "actor": "narrative",
+        "text": "女仆点头如捣蒜，逃也似的跑了。书房里只剩我和波洛。我的心还在咚咚跳，像刚跑完一百米。"
+      },
+      {
+        "id": "10060_hastings",
+        "actor": "hastings",
+        "emotion": "angry",
+        "text": "你放她走？她刚才明显在找东西！"
+      },
+      {
+        "id": "10061_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "她是“好奇”。凶手是“着急”。两者不一样。"
+      },
+      {
+        "id": "10062_narrative",
+        "actor": "narrative",
+        "text": "波洛走到壁炉旁，伸手从火炉架上取下一只空火柴盒，打开看了看，像在确认一个猜想。"
+      },
+      {
+        "id": "10063_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "你在找什么？火柴？"
+      },
+      {
+        "id": "10064_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "我在找一个“藏得很方便”的地方。你知道吗？火柴盒很小，可很会装秘密。"
+      },
+      {
+        "id": "10065_narrative",
+        "actor": "narrative",
+        "text": "他把火柴盒放回去，然后突然拉开书桌最下面的抽屉，取出一张空白纸，折成和信封差不多的大小。"
+      },
+      {
+        "id": "10066_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "你这是——"
+      },
+      {
+        "id": "10067_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "做一个“假的真相”。"
+      },
+      {
+        "id": "10068_narrative",
+        "actor": "narrative",
+        "text": "他在纸上写了几个字，又故意把墨迹抹得模糊一点，再把它塞进另一个旧信封里。"
+      },
+      {
+        "id": "10069_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "明天早上，会有人想拿到这个。我们就等。"
+      },
+      {
+        "id": "10070_narrative",
+        "actor": "narrative",
+        "text": "第二天一早，警探在大厅等大家。波洛却像没睡醒似的，慢慢下楼，还故意把一个信封“掉”在边桌上。"
+      },
+      {
+        "id": "10071_detective",
+        "actor": "detective",
+        "text": "波洛先生，你昨晚说的纸张线索——有进展？"
+      },
+      {
+        "id": "10072_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "当然。有进展，但进展会自己走路。"
+      },
+      {
+        "id": "10073_narrative",
+        "actor": "narrative",
+        "text": "他说完就走去窗边看风景，仿佛那信封根本不重要。可我注意到：约翰的目光扫过信封一下又移开；玛丽的手指停顿了一秒；劳伦斯的喉结上下动了一下。"
+      },
+      {
+        "id": "10074_howard",
+        "actor": "howard",
+        "emotion": "coldness",
+        "text": "（低声）他在故意引蛇出洞。"
+      },
+      {
+        "id": "10075_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "蛇会咬人的！"
+      },
+      {
+        "id": "10076_narrative",
+        "actor": "narrative",
+        "text": "上午，大家各忙各的。可我和波洛像两只假装打盹的猫，一直盯着那张边桌。"
+      },
+      {
+        "id": "10077_narrative",
+        "actor": "narrative",
+        "text": "终于，走廊上出现一个人影。那人走得很轻，停在边桌前，像只手伸进水里试温度。"
+      },
+      {
+        "id": "10078_narrative",
+        "actor": "narrative",
+        "text": "那只手迅速抓起信封，塞进衣袋。动作快得像怕被烫到。"
+      },
+      {
+        "id": "10079_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "（倒吸气）抓到了！"
+      },
+      {
+        "id": "10080_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "现在，别出声。跟。"
+      },
+      {
+        "id": "10081_narrative",
+        "actor": "narrative",
+        "text": "我们一路跟到偏厅门口。那人推门进去，里面传来急促的拆信声——撕啦。"
+      },
+      {
+        "id": "10082_narrative",
+        "actor": "narrative",
+        "text": "波洛猛地推门。偏厅里的人一抬头——是劳伦斯。他手里握着信封，脸红得像被抓到作弊的学生。"
+      },
+      {
+        "id": "10083_lawrence",
+        "actor": "lawrence",
+        "text": "我……我只是想知道发生了什么！我不想被蒙在鼓里！"
+      },
+      {
+        "id": "10084_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "你偷信封？！"
+      },
+      {
+        "id": "10085_lawrence",
+        "actor": "lawrence",
+        "text": "不是偷！只是……借看一下！"
+      },
+      {
+        "id": "10086_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "你很聪明，也很胆小。聪明让你去拿，胆小让你不敢承认。"
+      },
+      {
+        "id": "10087_narrative",
+        "actor": "narrative",
+        "text": "劳伦斯的嘴唇发白，像想说什么又咬住。"
+      },
+      {
+        "id": "10088_lawrence",
+        "actor": "lawrence",
+        "text": "我只是……担心约翰。也担心……我自己。"
+      },
+      {
+        "id": "10089_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "担心你自己？你在怕什么？"
+      },
+      {
+        "id": "10090_narrative",
+        "actor": "narrative",
+        "text": "劳伦斯看了一眼门口，像怕有人偷听。"
+      },
+      {
+        "id": "10091_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "别紧张。这个信封里没有你想要的答案。"
+      },
+      {
+        "id": "10092_narrative",
+        "actor": "narrative",
+        "text": "波洛把那张“假纸”抽出来，轻轻晃了晃。劳伦斯愣住了。"
+      },
+      {
+        "id": "10093_lawrence",
+        "actor": "lawrence",
+        "text": "这是……空的？"
+      },
+      {
+        "id": "10094_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "不空。它装着一个信息：有人在这屋子里很着急。"
+      },
+      {
+        "id": "10095_narrative",
+        "actor": "narrative",
+        "text": "这时，门外忽然传来急促的脚步声。霍华德小姐冲进来，眼神像雷。"
+      },
+      {
+        "id": "10096_howard",
+        "actor": "howard",
+        "emotion": "angry",
+        "text": "你们在这儿干什么？！劳伦斯，你——"
+      },
+      {
+        "id": "10097_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "别骂他。他只是“鱼”，不是“钓鱼的人”。"
+      },
+      {
+        "id": "10098_howard",
+        "actor": "howard",
+        "emotion": "surprised",
+        "text": "（一愣）什么意思？"
+      },
+      {
+        "id": "10099_narrative",
+        "actor": "narrative",
+        "text": "波洛正要说话，走廊另一头传来一声闷响——像有人把东西砸在地上。紧接着，是英格尔索普先生的叫声。"
+      },
+      {
+        "id": "10100_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "不见了！那本记录本不见了！"
+      },
+      {
+        "id": "10101_narrative",
+        "actor": "narrative",
+        "text": "我们冲出去，看见英格尔索普先生站在书房门口，脸色难看，像被人当众拔走了一颗牙。"
+      },
+      {
+        "id": "10102_john",
+        "actor": "john",
+        "text": "什么记录本？你碰那东西干什么？"
+      },
+      {
+        "id": "10103_alfred_inglethorp",
+        "actor": "alfred_inglethorp",
+        "text": "我没碰！我只是——我只是来拿一支笔！可桌上的本子没了！"
+      },
+      {
+        "id": "10104_howard",
+        "actor": "howard",
+        "emotion": "coldness",
+        "text": "（盯着他）你来“拿笔”？这借口比你领带还假。"
+      },
+      {
+        "id": "10105_detective",
+        "actor": "detective",
+        "text": "都别吵。谁最后见过那本记录本？"
+      },
+      {
+        "id": "10106_mary",
+        "actor": "mary",
+        "emotion": "fear",
+        "text": "我……我早上擦桌子时还在。"
+      },
+      {
+        "id": "10107_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "有人在我们眼皮底下又偷走一样东西？"
+      },
+      {
+        "id": "10108_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "是的。现在你明白了吗？我们不是在追一个人，我们是在追“他的手”。"
+      },
+      {
+        "id": "10109_narrative",
+        "actor": "narrative",
+        "text": "波洛忽然走到壁炉旁，伸手在火柴盒里一摸，拿出一样薄薄的东西——那是一小片纸角。"
+      },
+      {
+        "id": "10110_hastings",
+        "actor": "hastings",
+        "emotion": "surprised",
+        "text": "纸角？！你找回来了？！"
+      },
+      {
+        "id": "10111_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "我只是确认：它曾经被藏在这里。至于是谁藏的……"
+      },
+      {
+        "id": "10112_narrative",
+        "actor": "narrative",
+        "text": "他抬头看向人群。那一瞬间，每个人都像被灯照到的影子，突然显得很清楚，又很心虚。"
+      },
+      {
+        "id": "10113_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "……今晚，我会把答案说出来。所有人，都到餐厅来。一个也不能少。"
+      },
+      {
+        "id": "10114_john",
+        "actor": "john",
+        "text": "你确定你知道凶手？"
+      },
+      {
+        "id": "10115_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "我确定我知道“怎么做”。而知道怎么做，就离知道是谁不远。"
+      },
+      {
+        "id": "10116_narrative",
+        "actor": "narrative",
+        "text": "他说完，目光短短停在玛丽的脸上。玛丽的笑像被冻住了一下，又立刻恢复成礼貌。"
+      },
+      {
+        "id": "10117_mary",
+        "actor": "mary",
+        "emotion": "neutral",
+        "text": "（轻声）那……今晚几点？"
+      },
+      {
+        "id": "10118_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "九点整。带着你们所有的“解释”来。"
+      },
+      {
+        "id": "10119_narrative",
+        "actor": "narrative",
+        "text": "人群散去后，我追上波洛，声音都发紧。"
+      },
+      {
+        "id": "10120_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "你真的要在今晚揭开真相？可如果凶手知道你要说出来——"
+      },
+      {
+        "id": "10121_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "那他就会做最后一件事：要么逃，要么堵住我的嘴。"
+      },
+      {
+        "id": "10122_hastings",
+        "actor": "hastings",
+        "emotion": "fear",
+        "text": "那我们怎么办？！"
+      },
+      {
+        "id": "10123_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "我们就让他以为自己能赢。"
+      },
+      {
+        "id": "10124_narrative",
+        "actor": "narrative",
+        "text": "他把那张纸角放进信封，封好，又在信封背面轻轻点了点，像在给一只即将放飞的鸽子系上脚环。"
+      },
+      {
+        "id": "10125_poirot",
+        "actor": "poirot",
+        "emotion": "fear",
+        "text": "我的朋友，今晚九点前，别离开我半步。"
+      },
+      {
+        "id": "10126_narrative",
+        "actor": "narrative",
+        "text": "我点头，可心里却冒出一个更可怕的问题：如果凶手要堵住波洛的嘴——那他会什么时候动手？"
+      },
+      {
+        "id": "10127_narrative",
+        "actor": "narrative",
+        "text": "走廊尽头，一扇门轻轻合上，发出几乎听不见的“咔嗒”声。那声音像在提醒我：有人已经开始准备“最后一步”了。"
+      }
+    ]
+  }
+}

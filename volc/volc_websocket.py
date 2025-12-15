@@ -23,9 +23,9 @@ MESSAGE_TYPE_SPECIFIC_FLAGS = {0: "no sequence number", 1: "sequence number > 0"
 MESSAGE_SERIALIZATION_METHODS = {0: "no serialization", 1: "JSON", 15: "custom type"}
 MESSAGE_COMPRESSIONS = {0: "no compression", 1: "gzip", 15: "custom compression method"}
 
-appid = "<APP ID>"
+appid = "3534384108"
 cluster = "volcano_tts"
-access_token = "<Access Token>"
+access_token = "9shK6XZri_xpSiPnb4fj0Hhubi33xkSZ"
 
 
 
@@ -93,9 +93,9 @@ async def generate_voice_func(voice_key: str, raw_text: str, output_file_name: s
     print("\n------------------------ test 'submit' -------------------------")
     print("request json: ", submit_request_json)
     print("\nrequest bytes: ", full_client_request)
-    file_to_save = open("output/" + output_file_name + ".mp3", "wb")
+    file_to_save = open("output/temp/" + output_file_name + ".mp3", "wb")
     header = {"Authorization": f"Bearer; {access_token}"}
-    async with websockets.connect(api_url, extra_headers=header, ping_interval=None) as ws:
+    async with websockets.connect(api_url, additional_headers=header, ping_interval=None) as ws:
         await ws.send(full_client_request)
         while True:
             res = await ws.recv()
