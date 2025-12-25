@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_male_jieshuoxiaoming_moon_bigtts"
+    },
+    "actors": [
+      {
+        "key": "poirot",
+        "voice": "zh_male_beijingxiaoye_emo_v2_mars_bigtts"
+      },
+      {
+        "key": "bouc",
+        "voice": "zh_male_wennuanahu_moon_bigtts"
+      },
+      {
+        "key": "mrs_hubbard",
+        "voice": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts"
+      },
+      {
+        "key": "carriage_attendant",
+        "voice": "ICL_zh_male_kailangqingkuai_tob"
+      },
+      {
+        "key": "strict_governess",
+        "voice": "zh_female_zhixingnvsheng_mars_bigtts"
+      },
+      {
+        "key": "restrained_man",
+        "voice": "ICL_zh_male_hanhoudunshi_tob"
+      },
+      {
+        "key": "hard_old_butler",
+        "voice": "ICL_zh_male_lengdanshuli_tob"
+      },
+      {
+        "key": "nervous_secretary",
+        "voice": "zh_male_shaonianzixin_moon_bigtts"
+      },
+      {
+        "key": "cassetti",
+        "voice": "zh_male_aojiaobazong_moon_bigtts"
+      },
+      {
+        "key": "passenger_voices",
+        "voice": "zh_female_qingxinnvsheng_mars_bigtts"
+      }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "第1集。。冬夜上车……"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "夜晚的叙利亚比白天安静得多。街上的风像一只看不见的手，把尘土轻轻推向路边。赫尔克里·波洛把外套领子竖起来，提着那只永远收拾得整整齐齐的行李箱，穿过灯光昏黄的站台。"
+      },
+      {
+        "id": "10003_narrative",
+        "actor": "narrative",
+        "text": "他刚办完一桩案子——那种“别人看不见的细节，他一眼就能看见”的案子。可现在他一点也不想再多停留。他只想赶回欧洲，回到熟悉的秩序里：热茶、干净的桌布、摆放对称的餐具，还有不需要随时提防沙尘的空气。"
+      },
+      {
+        "id": "10004_narrative",
+        "actor": "narrative",
+        "text": "可命运偏偏喜欢在你以为“终于能休息了”的时候，给你塞进一张新的车票。"
+      },
+      {
+        "id": "10005_narrative",
+        "actor": "narrative",
+        "text": "站台尽头，一列豪华列车像一条黑色的长蛇，安静地趴在铁轨上。车厢外壳在灯光下泛着冷冷的光，窗里透出温暖的黄，像在邀请旅人进来躲避寒夜。车身侧面那行字在灯下闪着金色：东方快车。"
+      },
+      {
+        "id": "10006_bouc",
+        "actor": "bouc",
+        "text": "波洛！"
+      },
+      {
+        "id": "10007_narrative",
+        "actor": "narrative",
+        "text": "波洛抬头，看到布克——铁路公司的要员，一个永远像在赶时间的人。布克穿着呢大衣，帽檐上沾了点雪，脸却还是红润的，像刚喝过一口热酒。"
+      },
+      {
+        "id": "10008_bouc",
+        "actor": "bouc",
+        "text": "你总算来了！我还担心你赶不上。快上车，车马上要出发了！"
+      },
+      {
+        "id": "10009_poirot",
+        "actor": "poirot",
+        "text": "布克先生，你确定还有我的位置吗？我看到每一节车厢都像被塞满了一样。"
+      },
+      {
+        "id": "10010_bouc",
+        "actor": "bouc",
+        "text": "当然有！我怎么能让你没地方睡？我给你留了一个包厢。相信我，你会喜欢的——很安静，适合你这种需要“思考”的人。"
+      },
+      {
+        "id": "10011_poirot",
+        "actor": "poirot",
+        "text": "我确实需要安静。尤其是……需要没人把鞋子随便扔在地上。"
+      },
+      {
+        "id": "10012_bouc",
+        "actor": "bouc",
+        "text": "放心！这是东方快车，连尘埃都应该排成一行。"
+      },
+      {
+        "id": "10013_narrative",
+        "actor": "narrative",
+        "text": "两人沿着车厢走去。脚下的木板发出轻轻的“咯吱”声，像在悄悄提醒：列车不是房子，它会动，而且它要带你去一个你还不确定的地方。"
+      },
+      {
+        "id": "10014_narrative",
+        "actor": "narrative",
+        "text": "走廊里暖气很足，空气里有淡淡的香味——像皮革、煤火和香皂混在一起的味道。乘客们提着行李、抱着外套，在狭窄的空间里擦肩而过，每个人脸上都挂着“我很体面”的表情，可那种体面下面，又藏着说不出的心事。"
+      },
+      {
+        "id": "10015_narrative",
+        "actor": "narrative",
+        "text": "波洛的眼睛像一盏小小的探照灯，不声不响地扫过他们。"
+      },
+      {
+        "id": "10016_narrative",
+        "actor": "narrative",
+        "text": "他先看鞋。鞋尖磨得太厉害的人，走路通常急；鞋底干净得不合时宜的人，往往习惯隐藏；鞋带系得特别紧的人，要么谨慎，要么紧张。"
+      },
+      {
+        "id": "10017_narrative",
+        "actor": "narrative",
+        "text": "接着看手。手指粗糙的人干过重活；指甲修得很整齐的人在乎身份；手背上有小伤痕的人，最近可能做过“急事”。"
+      },
+      {
+        "id": "10018_narrative",
+        "actor": "narrative",
+        "text": "然后他看脸——准确地说，是看眼神。眼神像窗子，窗子不一定让你看到屋里的一切，但你能知道屋里是不是开着灯。"
+      },
+      {
+        "id": "10019_narrative",
+        "actor": "narrative",
+        "text": "他看到一个老妇人，她身材圆滚滚，穿着毛皮披肩，脸上堆着热情得有点夸张的笑，像生怕别人不注意到她似的。她一边和乘务员说话，一边还朝路过的人点头。"
+      },
+      {
+        "id": "10020_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "happy",
+        "text": "哦，亲爱的，你们这车真是漂亮极了！我敢说这是世界上最好的列车！"
+      },
+      {
+        "id": "10021_narrative",
+        "actor": "narrative",
+        "text": "波洛心里默默给她贴了个标签：哈伯德太太——热情得像要把人烤熟。"
+      },
+      {
+        "id": "10022_narrative",
+        "actor": "narrative",
+        "text": "再往前，一位女士站在包厢门口，衣服熨得笔挺，头发梳得一丝不乱。她的姿势像教科书里的“端庄”，连转头都像计算过角度。她说话很轻，却每个字都清晰得像在宣读规则。"
+      },
+      {
+        "id": "10023_narrative",
+        "actor": "narrative",
+        "text": "波洛再贴一个标签：举止严谨的女管家——像一把上了油的尺子。"
+      },
+      {
+        "id": "10024_narrative",
+        "actor": "narrative",
+        "text": "不远处，一个男人站在阴影里。他穿着深色衣服，几乎不说话。有人跟他说“请让一让”，他只是点了点头，退开一步，动作干净利落，像受过训练。肩膀微微向后，站姿像军人。"
+      },
+      {
+        "id": "10025_narrative",
+        "actor": "narrative",
+        "text": "波洛的目光在他身上停了一瞬：像军人一样克制的男子。"
+      },
+      {
+        "id": "10026_narrative",
+        "actor": "narrative",
+        "text": "还有一个老管家模样的人，脸线条很硬，眼神冷得像冬天的玻璃。他不笑，也不抱怨，甚至不显得烦躁。他只是站在那里，像一扇关得很紧的门。"
+      },
+      {
+        "id": "10027_narrative",
+        "actor": "narrative",
+        "text": "波洛在心里轻轻“哼”了一声：气质冷硬的老管家——门后面一定锁着东西。"
+      },
+      {
+        "id": "10028_narrative",
+        "actor": "narrative",
+        "text": "再往前，一个年轻男人抱着文件，像怕别人抢走似的。他的眼神总是躲开别人的视线，讲话时会不自觉地吞咽，声音也略微发紧。"
+      },
+      {
+        "id": "10029_narrative",
+        "actor": "narrative",
+        "text": "波洛的“探照灯”轻轻扫过：眼神躲闪的秘书——他不只是怕冷。"
+      },
+      {
+        "id": "10030_narrative",
+        "actor": "narrative",
+        "text": "这些人都像棋盘上的棋子，摆得整整齐齐，却不知道谁会先动，谁会倒下。"
+      },
+      {
+        "id": "10031_bouc",
+        "actor": "bouc",
+        "text": "到了！你的房间。"
+      },
+      {
+        "id": "10032_narrative",
+        "actor": "narrative",
+        "text": "波洛走进去，满意地点了点头。床铺整洁，窗帘厚实，桌上甚至放着一小束花。最重要的是——东西摆放得对称，这让波洛心里舒服。"
+      },
+      {
+        "id": "10033_poirot",
+        "actor": "poirot",
+        "text": "谢谢你，布克先生。我希望这趟旅程能安安静静。"
+      },
+      {
+        "id": "10034_bouc",
+        "actor": "bouc",
+        "text": "你会喜欢的。只是……人多了点。但你知道的，越多人，越有趣。"
+      },
+      {
+        "id": "10035_poirot",
+        "actor": "poirot",
+        "text": "对别人来说有趣，对我来说往往意味着麻烦。"
+      },
+      {
+        "id": "10036_narrative",
+        "actor": "narrative",
+        "text": "布克笑着离开了。走廊上的人声渐渐远去，列车发出轻微的震动，像一头巨兽终于醒来，伸了个懒腰，然后缓缓开始移动。"
+      },
+      {
+        "id": "10037_narrative",
+        "actor": "narrative",
+        "text": "窗外的站台灯光向后退去，风景变成一团黑。雪开始下了，像从天上撒下来的盐，细细密密，贴在玻璃上，很快又被速度拉成斜斜的白线。"
+      },
+      {
+        "id": "10038_narrative",
+        "actor": "narrative",
+        "text": "波洛坐在小桌前，拆开一块糖，含在嘴里。他喜欢甜味，也喜欢事情“有序”。可这一夜，秩序似乎并不打算给他面子。"
+      },
+      {
+        "id": "10039_narrative",
+        "actor": "narrative",
+        "text": "敲门声响起。"
+      },
+      {
+        "id": "10040_poirot",
+        "actor": "poirot",
+        "text": "请进。"
+      },
+      {
+        "id": "10041_narrative",
+        "actor": "narrative",
+        "text": "门打开，一个男人走了进来。他穿着昂贵的外套，脸剃得很干净，头发梳得油亮。他的动作很客气，可那种客气像精心练过的表演。最明显的是：他进门时并没有真正“请求许可”，而是默认自己可以进来。"
+      },
+      {
+        "id": "10042_cassetti",
+        "actor": "cassetti",
+        "text": "波洛先生？久仰大名。"
+      },
+      {
+        "id": "10043_poirot",
+        "actor": "poirot",
+        "text": "你是？"
+      },
+      {
+        "id": "10044_cassetti",
+        "actor": "cassetti",
+        "text": "我叫卡塞蒂。商人。做点……国际上的生意。"
+      },
+      {
+        "id": "10045_narrative",
+        "actor": "narrative",
+        "text": "他说“国际”两个字时，眼神轻轻一闪，像在观察波洛的反应。"
+      },
+      {
+        "id": "10046_poirot",
+        "actor": "poirot",
+        "text": "卡塞蒂先生，有什么事？"
+      },
+      {
+        "id": "10047_cassetti",
+        "actor": "cassetti",
+        "text": "我听说你很厉害。有人想要我的命。我愿意出很高的价钱，请你当我的保镖。"
+      },
+      {
+        "id": "10048_narrative",
+        "actor": "narrative",
+        "text": "波洛的眼神一下子冷了。他不喜欢这个男人。不是因为他有钱，也不是因为他自信，而是一种更直觉的厌恶——像闻到空气里有一点点腐烂的味道。"
+      },
+      {
+        "id": "10049_poirot",
+        "actor": "poirot",
+        "text": "有人想杀你？那你应该去找警察。"
+      },
+      {
+        "id": "10050_cassetti",
+        "actor": "cassetti",
+        "text": "警察没用。我得罪了一些人。他们会在任何地方下手。包括这列车上。"
+      },
+      {
+        "id": "10051_poirot",
+        "actor": "poirot",
+        "text": "那你更应该离我远一点。"
+      },
+      {
+        "id": "10052_narrative",
+        "actor": "narrative",
+        "text": "卡塞蒂愣了一下，似乎没想到波洛会拒绝得这么直接。他很快又笑了。"
+      },
+      {
+        "id": "10053_cassetti",
+        "actor": "cassetti",
+        "text": "波洛先生，你可以开个价。"
+      },
+      {
+        "id": "10054_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "我不缺钱。而且——我不喜欢你。"
+      },
+      {
+        "id": "10055_narrative",
+        "actor": "narrative",
+        "text": "空气突然变得紧。卡塞蒂的笑僵了一下，眼底闪过一丝不悦，但他马上又把它压回去，像把一张不合适的牌塞回袖子里。"
+      },
+      {
+        "id": "10056_cassetti",
+        "actor": "cassetti",
+        "text": "好吧。希望你不会后悔。"
+      },
+      {
+        "id": "10057_narrative",
+        "actor": "narrative",
+        "text": "他离开时，门轻轻合上。走廊里传来他的脚步声，慢慢远去。"
+      },
+      {
+        "id": "10058_narrative",
+        "actor": "narrative",
+        "text": "波洛坐回椅子上，手指轻轻敲着桌面。他不是轻易讨厌别人的人，但刚才那个男人，让他想起一些“很糟糕的旧闻”。那种人做过坏事，却还想用钱把世界买成自己想要的样子。"
+      },
+      {
+        "id": "10059_narrative",
+        "actor": "narrative",
+        "text": "列车继续前进，窗外越来越黑，雪也下得更大。车厢灯光摇晃，像在水面上漂着的火焰。"
+      },
+      {
+        "id": "10060_narrative",
+        "actor": "narrative",
+        "text": "波洛洗漱完，整理好衣服，把小胡子也修得一丝不乱。然后他躺上床，拉好被子，准备睡觉。"
+      },
+      {
+        "id": "10061_narrative",
+        "actor": "narrative",
+        "text": "就在他快要进入梦里时——走廊里传来急促的脚步声。不是那种“乘务员正常巡查”的脚步，而像有人刻意放轻，又忍不住加快。"
+      },
+      {
+        "id": "10062_narrative",
+        "actor": "narrative",
+        "text": "脚步停在某个门前，接着是门把轻轻一响。"
+      },
+      {
+        "id": "10063_narrative",
+        "actor": "narrative",
+        "text": "“咔哒。”像有人在试探门有没有锁。"
+      },
+      {
+        "id": "10064_narrative",
+        "actor": "narrative",
+        "text": "波洛的眼睛一下子睁开。他没有立刻起身，而是屏住呼吸，听得更清。"
+      },
+      {
+        "id": "10065_narrative",
+        "actor": "narrative",
+        "text": "脚步又移动到下一扇门。门把再响一次。"
+      },
+      {
+        "id": "10066_narrative",
+        "actor": "narrative",
+        "text": "“咔哒。”"
+      },
+      {
+        "id": "10067_narrative",
+        "actor": "narrative",
+        "text": "再下一扇。"
+      },
+      {
+        "id": "10068_narrative",
+        "actor": "narrative",
+        "text": "“咔哒。”"
+      },
+      {
+        "id": "10069_narrative",
+        "actor": "narrative",
+        "text": "那声音很轻，却让人背后发凉。就像黑暗里有一只手，在逐一确认：哪一扇门能打开，哪一个人醒着，哪一个人最容易被吓住。"
+      },
+      {
+        "id": "10070_narrative",
+        "actor": "narrative",
+        "text": "波洛慢慢坐起身，手伸向床边的灯绳。可就在这时——"
+      },
+      {
+        "id": "10071_narrative",
+        "actor": "narrative",
+        "text": "一声尖叫突然划破夜色！那尖叫又短又尖，像玻璃被猛地划开。紧接着，走廊里一阵混乱，有人喊了一句听不清的话，有门被撞开，有脚步突然加快，像一群人同时从梦里跳起来。"
+      },
+      {
+        "id": "10072_passenger_voices",
+        "actor": "passenger_voices",
+        "text": "啊——！"
+      },
+      {
+        "id": "10073_narrative",
+        "actor": "narrative",
+        "text": "整列车仿佛被针扎了一下，震动都变得不一样了。"
+      },
+      {
+        "id": "10074_narrative",
+        "actor": "narrative",
+        "text": "波洛坐在床边，脸色沉了下来。他望向门口，眼神像刀锋一样冷静。"
+      },
+      {
+        "id": "10075_narrative",
+        "actor": "narrative",
+        "text": "列车仍在冰冷夜色里前行，走廊灯影摇晃。波洛隐约听见远处有脚步和门响——像有人在黑暗里试探什么。"
+      }
+    ]
+  }
+}
+
+

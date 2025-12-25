@@ -1,0 +1,495 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_male_jieshuoxiaoming_moon_bigtts"
+    },
+    "actors": [
+      { "key": "poirot", "voice": "zh_male_beijingxiaoye_emo_v2_mars_bigtts" },
+      { "key": "bouc", "voice": "zh_male_wennuanahu_moon_bigtts" },
+      { "key": "mrs_hubbard", "voice": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts" },
+      { "key": "carriage_attendant", "voice": "ICL_zh_male_kailangqingkuai_tob" },
+      { "key": "strict_governess", "voice": "zh_female_zhixingnvsheng_mars_bigtts" },
+      { "key": "restrained_man", "voice": "ICL_zh_male_hanhoudunshi_tob" },
+      { "key": "hard_old_butler", "voice": "ICL_zh_male_lengdanshuli_tob" },
+      { "key": "nervous_secretary", "voice": "zh_male_shaonianzixin_moon_bigtts" },
+      { "key": "cassetti", "voice": "zh_male_aojiaobazong_moon_bigtts" },
+      { "key": "passenger_voices", "voice": "zh_female_qingxinnvsheng_mars_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第3集。。逐个盘问……" },
+{ "id": "10002_narrative", "actor": "narrative", "text": "雪还在下，车厢像被裹进一团巨大的棉絮里，外面静得听不见世界的呼吸。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "可车里一点也不静——那种硬挤出来的安静更像一只手捂住所有人的嘴，越捂越让人喘不过气。" },
+{
+        "id": "10004_bouc",
+        "actor": "bouc",
+        "text": "（压低声音，紧张得像随时会把领结咬断）你到底打算怎么做？你刚才说……不止想杀一个人，是什么意思？"
+      },
+      {
+        "id": "10005_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（轻轻捻着胡子，像把心思也捻得更细）如果凶手想让案子看起来像别的样子，那他一定会安排很多线索、很多说法。"
+      },
+      {
+        "id": "10006_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（语气平稳）物件会说谎，人也会说谎。可人的习惯——说话的停顿、眼神的落点、手指的动作——这些不容易伪装。"
+      },
+      {
+        "id": "10007_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（目光落在一排排紧闭的门上）所以，这一次，我们从人开始。"
+      },
+{ "id": "10008_narrative", "actor": "narrative", "text": "波洛把餐车临时当成审讯室。餐桌上原本该摆银餐具和热咖啡，现在只剩一盏灯、一叠纸、一支铅笔。" },
+      { "id": "10009_narrative", "actor": "narrative", "text": "灯光打下来，桌面亮得像舞台。窗外是白茫茫的雪，像观众席空空的幕布。" },
+{
+        "id": "10010_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（交代得清清楚楚）请他们一个一个来。记住：不要让他们互相听见别人的话。"
+      },
+{ "id": "10011_narrative", "actor": "narrative", "text": "布克点头，跑去安排。医生坐在角落里，神情像一位随时准备补充证据的老师。" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "乘务员站在门边，手指不停搓着帽檐。他看起来很想消失。" },
+{
+        "id": "10013_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（语气平和却不容反驳）你只负责带人来。其他的，交给我。"
+      },
+      {
+        "id": "10014_carriage_attendant",
+        "actor": "carriage_attendant",
+        "text": "（连忙点头，像抓住一根救命绳）好的，先生。"
+      },
+{ "id": "10015_narrative", "actor": "narrative", "text": "第一位被请来的，是女教师德本汉。" },
+{
+        "id": "10016_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（微微欠身）抱歉打扰。昨晚尖叫之后，你做了什么？"
+      },
+      {
+        "id": "10017_strict_governess",
+        "actor": "strict_governess",
+        "text": "（坐下，双手规矩地放在膝上）我听见声音，醒了一下。然后我按铃叫了乘务员，问发生了什么。乘务员说没事。我就继续睡了。"
+      },
+{
+        "id": "10018_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（轻轻点头，忽然问）你继续睡之前，看过时间吗？"
+      },
+      {
+        "id": "10019_strict_governess",
+        "actor": "strict_governess",
+        "text": "（微微一顿）看过。大约一点十五分。"
+      },
+      {
+        "id": "10020_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（追问得很轻）你为什么会看时间？一般人被吵醒，未必会立刻看表。"
+      },
+      {
+        "id": "10021_strict_governess",
+        "actor": "strict_governess",
+        "text": "（嘴角紧了紧）我……习惯。"
+      },
+      {
+        "id": "10022_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（温和）好习惯。你有没有听见走廊里有人走动？"
+      },
+      {
+        "id": "10023_strict_governess",
+        "actor": "strict_governess",
+        "text": "（回答得很快）没有。"
+      },
+      {
+        "id": "10024_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（铅笔轻轻敲了一下）谢谢你。你可以回去了。"
+      },
+{
+        "id": "10025_bouc",
+        "actor": "bouc",
+        "text": "（门关上后，小声凑近）她看起来很正常啊。"
+      },
+      {
+        "id": "10026_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（摇头）太正常了，有时候反而不正常。"
+      },
+{ "id": "10027_narrative", "actor": "narrative", "text": "第二位进来的，是军官阿巴斯诺特。" },
+{
+        "id": "10028_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（开门见山）你昨晚什么时候睡的？"
+      },
+      {
+        "id": "10029_restrained_man",
+        "actor": "restrained_man",
+        "text": "（声音低沉）十一点左右。我睡得很沉。"
+      },
+      {
+        "id": "10030_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（抬眼）尖叫也没吵醒你？"
+      },
+      {
+        "id": "10031_restrained_man",
+        "actor": "restrained_man",
+        "text": "吵醒了。我听见有人跑。然后又安静了。"
+      },
+      {
+        "id": "10032_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（重复）你能确定是跑不是走？"
+      },
+      {
+        "id": "10033_restrained_man",
+        "actor": "restrained_man",
+        "text": "脚步很急。像有人赶时间。"
+      },
+      {
+        "id": "10034_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（继续）你有没有开门看？"
+      },
+      {
+        "id": "10035_restrained_man",
+        "actor": "restrained_man",
+        "text": "没有。我不喜欢半夜开门。"
+      },
+      {
+        "id": "10036_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（像随口一问）你和那位女教师熟吗？"
+      },
+      {
+        "id": "10037_restrained_man",
+        "actor": "restrained_man",
+        "text": "（回答很快）不熟。只是同车而已。"
+      },
+      {
+        "id": "10038_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（轻轻一笑）可我注意到你们晚餐时说过话。"
+      },
+      {
+        "id": "10039_restrained_man",
+        "actor": "restrained_man",
+        "text": "礼貌而已。"
+      },
+      {
+        "id": "10040_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（依旧客气，却把话锋压下去）当人急着撇清某种关系时，通常说明那关系很重要。"
+      },
+{
+        "id": "10041_bouc",
+        "actor": "bouc",
+        "text": "（门关上后，压不住惊讶）你怀疑他？"
+      },
+      {
+        "id": "10042_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（轻声）我怀疑所有人。尤其是那些说自己不在乎的人。"
+      },
+{ "id": "10043_narrative", "actor": "narrative", "text": "第三位，是哈伯德太太。她像一阵热风冲进来，披着毛毯，嘴巴比脚步更快。" },
+{
+        "id": "10044_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "angry",
+        "text": "（语速飞快）我告诉你们！我昨晚就说了！有人在走廊里跑来跑去！你们不信！现在死了人，你们就——"
+      },
+      {
+        "id": "10045_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（抬手，像给她一个请坐的指令）夫人，我们慢慢说。你昨晚具体听见了什么？"
+      },
+      {
+        "id": "10046_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "fear",
+        "text": "（眼睛亮得发紧）我听见脚步！急得很！咚咚咚——就在我门外！我还听见门把响！像有人试我的门！我吓得要命，当然要锁得更紧！"
+      },
+      {
+        "id": "10047_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "surprised",
+        "text": "（越说越激动）然后——然后我还看见了！"
+      },
+      {
+        "id": "10048_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（不急不躁）看见什么？"
+      },
+      {
+        "id": "10049_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "fear",
+        "text": "（压低声音，像讲鬼故事）一个女人，穿着奇怪的衣服！像东方的那种，黑黑的，带帽子——她从走廊上飘过去！我发誓！她像幽灵一样！"
+      },
+      {
+        "id": "10050_bouc",
+        "actor": "bouc",
+        "text": "（忍不住插嘴）车上有穿东方衣服的人吗？"
+      },
+      {
+        "id": "10051_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "angry",
+        "text": "（立刻瞪他）我怎么知道？反正我看见了！她像在躲什么！"
+      },
+      {
+        "id": "10052_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（追问细节）你看见她时，走廊的灯亮着吗？"
+      },
+      {
+        "id": "10053_mrs_hubbard",
+        "actor": "mrs_hubbard",
+        "emotion": "neutral",
+        "text": "（愣了一下，努力回想）……好像亮着，又好像不太亮。灯一直晃。"
+      },
+      {
+        "id": "10054_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（点头）灯晃的时候，人容易把影子看成别的东西。可你说的这件事很重要。谢谢。"
+      },
+      {
+        "id": "10055_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（温柔但坚定）接下来可能还要麻烦你再回答一些问题。现在请休息。"
+      },
+{ "id": "10056_narrative", "actor": "narrative", "text": "第四位，是秘书麦奎因。他进门时像随时会咽口水一样紧张，手里捏着帽子，捏得帽檐都皱了。" },
+{
+        "id": "10057_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（语气温和）你与拉切特熟吗？"
+      },
+      {
+        "id": "10058_nervous_secretary",
+        "actor": "nervous_secretary",
+        "text": "（回答得立刻）不熟。只是——只是同车。"
+      },
+      {
+        "id": "10059_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（紧跟着）你为他工作吗？"
+      },
+      {
+        "id": "10060_nervous_secretary",
+        "actor": "nervous_secretary",
+        "text": "（又吞了一下）不。我是个……秘书。替别人工作。"
+      },
+      {
+        "id": "10061_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（轻轻问）替谁？"
+      },
+      {
+        "id": "10062_nervous_secretary",
+        "actor": "nervous_secretary",
+        "text": "（眼神飘开）一个美国人。做生意的。"
+      },
+      {
+        "id": "10063_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（继续）昨晚你听见什么了吗？"
+      },
+      {
+        "id": "10064_nervous_secretary",
+        "actor": "nervous_secretary",
+        "text": "（否认过快）没有。我睡得很沉。"
+      },
+      {
+        "id": "10065_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（忽然抛出名字）你认识卡塞蒂这个名字吗？"
+      },
+      {
+        "id": "10066_nervous_secretary",
+        "actor": "nervous_secretary",
+        "text": "（明显僵住，声音拔高）我……我不认识。不认识！"
+      },
+      {
+        "id": "10067_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（不追问）谢谢。你可以回去了。"
+      },
+{
+        "id": "10068_bouc",
+        "actor": "bouc",
+        "text": "（吸了口气）他肯定有问题！"
+      },
+      {
+        "id": "10069_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（摇头）有问题不等于有罪。可他对那个名字的反应——非常值得记下来。"
+      },
+{ "id": "10070_narrative", "actor": "narrative", "text": "第五位，是老管家马斯特曼。他进门时像一块石头，眼神冷，嘴唇像一条直线。" },
+{
+        "id": "10071_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（直接）你昨晚做了什么？"
+      },
+      {
+        "id": "10072_hard_old_butler",
+        "actor": "hard_old_butler",
+        "text": "（像背过的句子）我十点半入睡。整夜未醒。未听见任何异常。今早得知主人遇害，我十分悲痛。"
+      },
+      {
+        "id": "10073_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（追问）你们的关系如何？他对你好吗？"
+      },
+      {
+        "id": "10074_hard_old_butler",
+        "actor": "hard_old_butler",
+        "text": "我为他工作。工作就是工作。"
+      },
+      {
+        "id": "10075_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（微笑，话里有刺）你说话很精确。精确得像不允许自己露出任何情绪。"
+      },
+      {
+        "id": "10076_hard_old_butler",
+        "actor": "hard_old_butler",
+        "text": "情绪无助于事实。"
+      },
+      {
+        "id": "10077_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（点头）很好。我也喜欢事实。"
+      },
+{ "id": "10078_narrative", "actor": "narrative", "text": "审讯继续进行。波洛把每个人的快与慢、闪躲与镇定，都记在心里。" },
+{
+        "id": "10079_bouc",
+        "actor": "bouc",
+        "text": "（忍不住叹气）每个人都怪怪的！可到底怎么拼起来？"
+      },
+      {
+        "id": "10080_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（像讲课一样清晰）他们说的每一句话，都可能是真的一部分、假的一部分。真正重要的是他们什么时候说得快，什么时候说得慢；他们对谁特别在意，对谁特别冷淡。"
+      },
+{ "id": "10081_narrative", "actor": "narrative", "text": "医生把一份更明确的判断放到桌上。餐车里的灯光像把每个人都钉在台面上。" },
+{
+        "id": "10082_passenger_voices",
+        "actor": "passenger_voices",
+        "text": "（压低声音，像在补充证据）致命伤可能只有一两刀——深而准确，足以致死。其他许多刀伤像是后来补上去的。"
+      },
+      {
+        "id": "10083_passenger_voices",
+        "actor": "passenger_voices",
+        "text": "（语气更沉）有的力气大，有的力气小；有的角度高，有的角度低。像是不同身高、不同力量的人造成的。"
+      },
+      {
+        "id": "10084_bouc",
+        "actor": "bouc",
+        "text": "（脸色刷地变白）你是说……不止一个人捅他？"
+      },
+      {
+        "id": "10085_passenger_voices",
+        "actor": "passenger_voices",
+        "text": "（点出另一种可能）很可能。或者至少，有人故意制造出不止一个人的样子。"
+      },
+      {
+        "id": "10086_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（眼神更深）两种不同的可能——两种不同的真相方向。"
+      },
+      {
+        "id": "10087_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（像做出决定）接下来，我要把昨晚的时间线拼回来。"
+      },
+{
+        "id": "10088_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（语气果断）我们需要怀表。按铃的时间、敲门的时间……这些都要靠表来校准。"
+      },
+      {
+        "id": "10089_carriage_attendant",
+        "actor": "carriage_attendant",
+        "text": "（立刻回应）先生，他有一只怀表。"
+      },
+      {
+        "id": "10090_poirot",
+        "actor": "poirot",
+        "emotion": "neutral",
+        "text": "（简短）拿来。"
+      },
+{ "id": "10091_narrative", "actor": "narrative", "text": "怀表递到波洛手里。表盖打开，表针纹丝不动，停在一点一刻。" },
+{
+        "id": "10092_bouc",
+        "actor": "bouc",
+        "text": "（倒吸一口气）坏了？"
+      },
+      {
+        "id": "10093_passenger_voices",
+        "actor": "passenger_voices",
+        "text": "（皱眉）怎么会在这么关键的时候坏？"
+      },
+      {
+        "id": "10094_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（断言）不是自然坏的。"
+      },
+      {
+        "id": "10095_bouc",
+        "actor": "bouc",
+        "text": "（声音发抖）你是说……有人弄坏的？"
+      },
+      {
+        "id": "10096_poirot",
+        "actor": "poirot",
+        "emotion": "coldness",
+        "text": "（抬起头，目光锐利）有人把时间掐断了。这样每个人的证词就像一堆散沙，永远对不上。"
+      },
+{ "id": "10097_narrative", "actor": "narrative", "text": "餐车里安静得可怕。窗外雪无声地下，像也在听。" },
+      { "id": "10098_narrative", "actor": "narrative", "text": "怀表合上，发出一声轻响——那声音不大，却像宣告：有人在这列车上不仅杀了人，还想杀掉真相。" }
+    ]
+  }
+}
+
+

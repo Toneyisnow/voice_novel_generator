@@ -8,7 +8,7 @@ from volc.volc_websocket import volc_generate_voice
 
 def main_generate():
     # 读取 JSON 文件
-    with open('resources/novels/the_mysterious_affair_at_styles/stage_6/full_play_script.txt', 'r', encoding='utf-8') as f:
+    with open('resources/novels/murder_on_the_orient_express/stage_6/full_play_script.txt', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     # 获取演员和旁白的配音映射
@@ -22,6 +22,9 @@ def main_generate():
         emotion = paragraph["emotion"] if hasattr(paragraph, "emotion") else None
         text = paragraph["text"]
         text = text.split("）", 1)[1] if "）" in text else text
+
+        if paragraph["id"] != "10072_passenger_voices":
+            continue
 
         output_file_name = paragraph["id"]
 
