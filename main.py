@@ -23,9 +23,6 @@ def main_generate():
         text = paragraph["text"]
         text = text.split("）", 1)[1] if "）" in text else text
 
-        if paragraph["id"] != "10072_passenger_voices":
-            continue
-
         output_file_name = paragraph["id"]
 
         # 获取对应 voice key
