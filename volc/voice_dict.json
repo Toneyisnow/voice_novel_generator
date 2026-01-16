@@ -91,15 +91,6 @@
         "support_emotions": []
     },
     {
-        "key": "zh_female_zhixingnvsheng_mars_bigtts",
-        "persona": {
-            "gender": "female",
-            "age": "adult",
-            "tone": "intellectual"
-        },
-        "support_emotions": []
-    },
-    {
         "key": "zh_male_qingshuangnanda_mars_bigtts",
         "persona": {
             "gender": "male",
@@ -214,15 +205,6 @@
         "gender": "female",
         "age": "young_adult",
         "tone": "cheerful"
-      },
-      "support_emotions": []
-    },
-    {
-      "key": "zh_female_qingxinnvsheng_mars_bigtts",
-      "persona": {
-        "gender": "female",
-        "age": "young_adult",
-        "tone": "fresh"
       },
       "support_emotions": []
     },
