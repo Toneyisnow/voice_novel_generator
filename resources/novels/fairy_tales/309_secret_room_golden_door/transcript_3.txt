@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+
+      { "key": "jin_xiezi", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "saike", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "jingzhu_group", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+
+      { "key": "huangjin_guowang", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "baijin_qinwang", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "zhentan", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第三章……黄金国王" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "整座金城都惊动了，金猪们纷纷涌上街头，追捕绑架了他们同胞的罪犯。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "皮皮鲁拼命逃，金猪们在后边紧追。金猪的身体不大灵活，渐渐地被皮皮鲁甩远了。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "皮皮鲁看见路旁一座大楼的门开着，就一头扎进去。大楼的大厅金碧辉煌，几十根粗大的金柱子矗立在大厅里。他躲在一根金柱子后边，窥视着门外。追捕他的金猪们跑过去了。" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "皮皮鲁松了一口气。可他刚想回头打量一下这栋楼房，一双大手卡住了他的脖子。" },
+      { "id": "10006_narrative", "actor": "narrative", "text": "皮皮鲁使劲儿转过头：啊，是一个他从来没见过的人！一个和他一样有血有肉的人！他脑海里瞬间闪过无数疑问，拼命挣扎。" },
+
+      { "id": "10007_jin_xiezi", "actor": "jin_xiezi", "text": "别动，再动我掐死你！" },
+      { "id": "10008_narrative", "actor": "narrative", "text": "皮皮鲁立刻不动了。他不是那种只靠蛮勇的傻孩子，他更喜欢用智谋取胜。陌生人松开手，皮皮鲁出了一口长气。" },
+
+      { "id": "10009_pipilu", "actor": "pipilu", "text": "你是谁？" },
+      { "id": "10010_jin_xiezi", "actor": "jin_xiezi", "text": "金蝎子。初次见面，交个朋友！" },
+      { "id": "10011_narrative", "actor": "narrative", "text": "“金蝎子”三个字让皮皮鲁身子一哆嗦，但他还是伸出手同对方握了握。" },
+
+      { "id": "10012_pipilu", "actor": "pipilu", "text": "你从哪儿进来的？" },
+      { "id": "10013_jin_xiezi", "actor": "jin_xiezi", "text": "就从你家进来的。" },
+      { "id": "10014_pipilu", "actor": "pipilu", "text": "从我家？" },
+      { "id": "10015_jin_xiezi", "actor": "jin_xiezi", "text": "这还得感谢你当向导。" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "金蝎子得意地把他如何从修锁店一路跟踪皮皮鲁兄妹的经过讲了一遍。皮皮鲁后悔莫及：太大意了。" },
+
+      { "id": "10017_jin_xiezi", "actor": "jin_xiezi", "text": "在我前边还进来了一个大人，是谁？" },
+      { "id": "10018_pipilu", "actor": "pipilu", "text": "还有一个大人？！" },
+      { "id": "10019_jin_xiezi", "actor": "jin_xiezi", "text": "你不知道？" },
+      { "id": "10020_narrative", "actor": "narrative", "text": "皮皮鲁摇摇头。" },
+      { "id": "10021_jin_xiezi", "actor": "jin_xiezi", "text": "一定也是来找珍宝的，不能让他先出去，要干掉他！" },
+      { "id": "10022_narrative", "actor": "narrative", "text": "皮皮鲁意识到金城和金城居民危在旦夕。这危险是他带来的，他必须想办法阻止。" },
+
+      { "id": "10023_jin_xiezi", "actor": "jin_xiezi", "text": "如果你愿意，这座金城咱俩平分。你一半儿，我一半儿，怎么样？" },
+      { "id": "10024_pipilu", "actor": "pipilu", "text": "是你绑架了赛璐？" },
+      { "id": "10025_jin_xiezi", "actor": "jin_xiezi", "text": "什么赛璐？" },
+      { "id": "10026_pipilu", "actor": "pipilu", "text": "就是一头金猪。" },
+      { "id": "10027_jin_xiezi", "actor": "jin_xiezi", "text": "是我绑架的。我要把她带出去，就凭这一头，我就能当上百万富翁。哈哈。这样吧，你掩护我，我先把金猪带出去，然后回来接应你。" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "金蝎子心里还打着更毒的算盘：一旦出去就把暗室门关死，让孩子们饿死在里头，好独吞整座金城。" },
+
+      { "id": "10029_pipilu", "actor": "pipilu", "text": "你把赛璐藏在哪儿了？" },
+      { "id": "10030_narrative", "actor": "narrative", "text": "金蝎子眼珠一转，假装上了当。" },
+      { "id": "10031_jin_xiezi", "actor": "jin_xiezi", "text": "就藏在路边那座小房子里。你一会儿往相反方向跑，把金猪们引开，我去那里把赛璐带走。" },
+      { "id": "10032_pipilu", "actor": "pipilu", "text": "行，现在就行动！" },
+
+      { "id": "10033_narrative", "actor": "narrative", "text": "皮皮鲁冲到大街上，朝有金猪的地方跑去，他要去报告：赛璐被关在那座小房子里。金蝎子见皮皮鲁“上当”，悄悄溜出大楼，朝他所谓的“关押地点”跑去。" },
+
+      { "id": "10034_narrative", "actor": "narrative", "text": "皮皮鲁老远就看见了赛克，上气不接下气地跑过去。" },
+      { "id": "10035_pipilu", "actor": "pipilu", "text": "赛克！赛克！我知道你妹妹被关在哪儿了！" },
+      { "id": "10036_narrative", "actor": "narrative", "text": "金猪们正要抓住皮皮鲁，被赛克制止。" },
+      { "id": "10037_saike", "actor": "saike", "text": "我妹妹关在哪儿？" },
+      { "id": "10038_pipilu", "actor": "pipilu", "text": "在一座小房子里，我带你们去。" },
+
+      { "id": "10039_narrative", "actor": "narrative", "text": "金猪们跟着皮皮鲁涌进那间小房子，把所有东西翻了个遍，却没见到赛璐的影子。" },
+      { "id": "10040_jingzhu_group", "actor": "jingzhu_group", "text": "赛璐呢？" },
+      { "id": "10041_saike", "actor": "saike", "text": "好哇，你在骗我们！" },
+      { "id": "10042_narrative", "actor": "narrative", "text": "皮皮鲁一时不知所措，这才明白自己上当了。" },
+
+      { "id": "10043_jin_xiezi", "actor": "jin_xiezi", "text": "抓住他！他是个骗子！" },
+      { "id": "10044_narrative", "actor": "narrative", "text": "皮皮鲁扭头一看：说话的竟是金蝎子。" },
+      { "id": "10045_narrative", "actor": "narrative", "text": "原来金蝎子挟持赛璐准备逃离金城，却因为没记住金树的特征找不到出口，只得先把赛璐藏好。他断定皮皮鲁兄妹知道出口，于是决定反过来出卖皮皮鲁，骗取金猪信任，再去找鲁西西套出秘密通道。" },
+
+      { "id": "10046_saike", "actor": "saike", "text": "你是谁？" },
+      { "id": "10047_jin_xiezi", "actor": "jin_xiezi", "text": "我和他是一伙的，是专门来绑架你们金猪的，是他先绑架了赛璐。他有意把你们引开，让我带赛璐先跑。可我实在不忍心拆散你们骨肉。" },
+      { "id": "10048_narrative", "actor": "narrative", "text": "金猪们愤怒了，涌上来把皮皮鲁抓住。" },
+      { "id": "10049_pipilu", "actor": "pipilu", "text": "他胡说，赛璐是他绑架的。" },
+      { "id": "10050_saike", "actor": "saike", "text": "把他俩都带到黄金国王那儿去！" },
+
+      { "id": "10051_narrative", "actor": "narrative", "text": "皮皮鲁和金蝎子被押进王宫。金蝎子恶人先告状，向黄金国王控诉皮皮鲁的“罪行”。皮皮鲁即使浑身是嘴也说不过他。" },
+      { "id": "10052_baijin_qinwang", "actor": "baijin_qinwang", "text": "你们干吗要绑架我们的居民？" },
+      { "id": "10053_jin_xiezi", "actor": "jin_xiezi", "text": "黄金值钱哪！在我们那儿，这么一点儿金子就值好多好多钱！" },
+      { "id": "10054_narrative", "actor": "narrative", "text": "金蝎子伸出一个小拇指，又指着小拇指的指甲盖儿比划。" },
+      { "id": "10055_baijin_qinwang", "actor": "baijin_qinwang", "text": "那一头金猪值多少钱呀？" },
+      { "id": "10056_jin_xiezi", "actor": "jin_xiezi", "text": "值……值……值一座城市！" },
+      { "id": "10057_narrative", "actor": "narrative", "text": "金猪们都吃了一惊，他们从不知道自己竟有这么高的“价值”。" },
+      { "id": "10058_huangjin_guowang", "actor": "huangjin_guowang", "text": "你快把赛璐交出来！" },
+      { "id": "10059_pipilu", "actor": "pipilu", "text": "我不知道赛璐被他藏在哪儿！" },
+      { "id": "10060_baijin_qinwang", "actor": "baijin_qinwang", "text": "把他关起来！" },
+      { "id": "10061_narrative", "actor": "narrative", "text": "黄金国王命令白金亲王负责寻找赛璐，并让金蝎子担任助手。金蝎子得意极了。皮皮鲁被关了起来。" },
+
+      { "id": "10062_narrative", "actor": "narrative", "text": "另一边，鲁西西甩开追捕她的金猪，躲在墙角喘气，回想金树的位置，准备去和皮皮鲁会合。她发现这一带异常安静，像是仓库区。就在这时，一个人影闪进对面建筑物。" },
+      { "id": "10063_luxixi", "actor": "luxixi", "text": "人！" },
+      { "id": "10064_narrative", "actor": "narrative", "text": "鲁西西心怦怦直跳：是个大人，不是皮皮鲁。她猛然想到——一定有人跟着他们进来，还绑架了赛璐。她决定跟踪这个可疑的人，弄清赛璐的下落。" },
+
+      { "id": "10065_narrative", "actor": "narrative", "text": "鲁西西贴着墙，盯住门口，趁对面没动静，飞快穿过马路，从门缝钻进屋里。屋里很黑，她眯着眼适应黑暗，忽然看见一对绿色的眼睛在盯着她，吓得差点叫出声。她退到墙角，怪物却没有扑来。" },
+      { "id": "10066_narrative", "actor": "narrative", "text": "鲁西西渐渐看清屋里堆着许多金碗金盆，像是一座仓库。她躲在一堆金碗后边，观察那双绿眼睛。楼上忽然“哗啦”一响，她吓了一跳，那绿眼睛仍不动。她壮着胆一步步蹭过去，才发现那只是墙上镶着两颗会发光的东西。" },
+      { "id": "10067_luxixi", "actor": "luxixi", "text": "大概是绿宝石吧？" },
+
+      { "id": "10068_narrative", "actor": "narrative", "text": "鲁西西断定那个人在楼上，也许赛璐就藏在楼上。她找到楼梯，轻轻踏上去。二楼更黑，堆得更乱。她蹲下听动静，整栋楼静得可怕。" },
+      { "id": "10069_narrative", "actor": "narrative", "text": "忽然，她不小心碰翻了一个金坛子，发出“哐啷”一声。说时迟，那时快，一个黑影“嗖”地扑来。鲁西西一闪身，那人摔了个跟头。鲁西西刚要跑，却被对方抓住一只脚摔倒。她迅速爬起，抓住那人另一只手正要咬，忽然闻到一股熟悉的气息。" },
+
+      { "id": "10070_luxixi", "actor": "luxixi", "text": "爸爸？" },
+      { "id": "10071_baba", "actor": "baba", "text": "是鲁西西！我还当是跟在我后边的那个人呢。" },
+      { "id": "10072_luxixi", "actor": "luxixi", "text": "您怎么来了？" },
+      { "id": "10073_baba", "actor": "baba", "text": "这两天我发现你和皮皮鲁鬼鬼祟祟，早就注意上你们了。今天我提前下班，躲在壁柜里，想看看你们干些什么，没想到被你们带到这个地方来了。不过也得感谢你们，发现了一座金库。咱们得赶快回去报告政府，可我把来时有暗道的那棵树忘记了，出不去了，你一定知道吧？" },
+
+      { "id": "10074_narrative", "actor": "narrative", "text": "鲁西西一听“报告政府”，怒火直冲脑门：赛璐一定是他绑架的！" },
+      { "id": "10075_luxixi", "actor": "luxixi", "text": "您把赛璐藏在哪儿了？" },
+      { "id": "10076_baba", "actor": "baba", "text": "什么赛璐？" },
+      { "id": "10077_luxixi", "actor": "luxixi", "text": "就是赛克的妹妹。" },
+      { "id": "10078_baba", "actor": "baba", "text": "赛克又是谁？" },
+      { "id": "10079_luxixi", "actor": "luxixi", "text": "您别装了，您不是想出去报告吗？不带个样品怎么去报告？" },
+      { "id": "10080_baba", "actor": "baba", "text": "这我倒没想过。看样子你不愿意让我去报告？" },
+      { "id": "10081_luxixi", "actor": "luxixi", "text": "对，不愿意！" },
+      { "id": "10082_baba", "actor": "baba", "text": "你怎么这么自私！" },
+      { "id": "10083_luxixi", "actor": "luxixi", "text": "这不是自私，跟您说不清！" },
+      { "id": "10084_baba", "actor": "baba", "text": "快带我出去，鲁西西！" },
+      { "id": "10085_luxixi", "actor": "luxixi", "text": "我也不认识那棵树！" },
+
+      { "id": "10086_narrative", "actor": "narrative", "text": "鲁西西说完朝楼梯跑去，爸爸追上去：抓不住女儿就出不去。鲁西西在仓库里和爸爸玩起了“捉迷藏”，这方面爸爸可不是女儿的对手。转眼间，鲁西西无影无踪，爸爸却还在那里转圈。" },
+
+      { "id": "10087_narrative", "actor": "narrative", "text": "你还记得皮皮鲁家楼门口那个穿猎装的人吗？他是警方派出的侦探，整整跟踪了金蝎子５天。金蝎子进了皮皮鲁家后，侦探记住门牌号码，在楼门口守着金蝎子出来。" },
+      { "id": "10088_narrative", "actor": "narrative", "text": "一个小时过去了。两个小时过去了。五个小时过去了。侦探发觉情况不妙，三步并作两步蹿上楼梯，敲响了皮皮鲁家的门。" },
+
+      { "id": "10089_mama", "actor": "mama", "text": "您找谁？" },
+      { "id": "10090_zhentan", "actor": "zhentan", "text": "有一个罪犯在您家里。" },
+      { "id": "10091_narrative", "actor": "narrative", "text": "侦探说着掏出证件给皮皮鲁的妈妈看。妈妈吓了一跳。" },
+      { "id": "10092_mama", "actor": "mama", "text": "罪犯？在我家里？" },
+
+      { "id": "10093_narrative", "actor": "narrative", "text": "侦探一个箭步跨进屋里搜寻，搜遍整个屋子也找不到。他检查窗户，窗户都插得好好的。" },
+      { "id": "10094_zhentan", "actor": "zhentan", "text": "您什么时候回来的？" },
+      { "id": "10095_mama", "actor": "mama", "text": "２０分钟前。" },
+      { "id": "10096_zhentan", "actor": "zhentan", "text": "您家没别人？" },
+      { "id": "10097_mama", "actor": "mama", "text": "有丈夫和两个孩子。" },
+      { "id": "10098_zhentan", "actor": "zhentan", "text": "他们每天回来很晚吗？" },
+
+      { "id": "10099_narrative", "actor": "narrative", "text": "皮皮鲁的妈妈这才想起：丈夫和孩子早该回来了。她发现孩子的书包挂在墙上，丈夫的衣帽挂在壁柜里——也就是说，他们早回来了，可现在却失踪了！" },
+      { "id": "10100_narrative", "actor": "narrative", "text": "侦探从未遇到过这么奇怪的案子，急忙下楼给总部打电话。转眼间，两辆警车呼啸而来，警察把这栋楼房包围了。警犬开始搜索，却毫无结果。一直折腾到第二天早晨，仍没找到罪犯和失踪的三个人。" },
+      { "id": "10101_narrative", "actor": "narrative", "text": "皮皮鲁的妈妈哭得伤心极了。警方决定在未找到金蝎子之前，不撤离对这栋楼房的监控。他们相信，纵使金蝎子插上翅膀，也逃不出这天罗地网。" }
+    ]
+  }
+}

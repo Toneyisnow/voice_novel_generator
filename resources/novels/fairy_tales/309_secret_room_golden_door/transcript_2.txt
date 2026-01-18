@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      {
+        "key": "pipilu",
+        "voice": "zh_male_yangguangqingnian_mars_bigtts"
+      },
+      {
+        "key": "luxixi",
+        "voice": "ICL_zh_female_wuxi_tob"
+      },
+      {
+        "key": "saike",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "jingzhu_common",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "jingzhu_guards",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "第二章……金城"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "这时，在距离修锁匠不远的地方，站着一个留长发的青年人，鬼鬼祟祟的样子，一对小眼睛老是盯着皮皮鲁手上的泡泡糖钥匙。当皮皮鲁和鲁西西回过身来，他立刻又躲到一堵墙后去了。这个人是一个专业盗窃古物的惯犯，名叫金双龙，外号“金蝎子”，现在警方正在追捕他。刚才，金蝎子路过修锁店时，偶然看见了鲁西西画的锁图，他一眼就认出这不是一般的锁，很可能是一个什么宝库的锁。金蝎子决定跟踪这两个孩子。"
+      },
+      {
+        "id": "10003_narrative",
+        "actor": "narrative",
+        "text": "老锁匠很快就按照泡泡糖钥匙模型的样子配出一把钥匙。皮皮鲁和鲁西西付过钱后，兴冲冲朝家走去，他们急于想把３０９暗室里的金门打开，看看里边究竟有些什么。"
+      },
+      {
+        "id": "10004_narrative",
+        "actor": "narrative",
+        "text": "金蝎子紧紧跟在皮皮鲁兄妹后边。他已隐隐约约从皮皮鲁嘴里听到了“暗室”之类的字眼儿，更加确信无疑这两个孩子发现了一座宝库，于是决定不惜一切代价弄到这批珍宝。"
+      },
+      {
+        "id": "10005_narrative",
+        "actor": "narrative",
+        "text": "在金蝎子身后，还有一个穿猎装、戴鸭舌帽的中年男子。他一直盯着金蝎子，注意着他的一举一动，金蝎子却一点儿也没发觉有人跟踪。"
+      },
+      {
+        "id": "10006_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西回到家后，打开壁柜门钻进去，按了一下秘密开关，３０９暗室的门打开了。兄妹俩钻进暗室。就在这时，从壁柜角落里闪出一个影子，也跟着钻进了暗室——看来这人事先就隐藏在壁柜里。"
+      },
+      {
+        "id": "10007_narrative",
+        "actor": "narrative",
+        "text": "金蝎子来到皮皮鲁家门口，四下张望一会儿，取出万能钥匙，轻轻打开大门。穿猎装的男人在楼梯拐角处窥视到了这一切，记下了皮皮鲁家的门牌号码。"
+      },
+      {
+        "id": "10008_narrative",
+        "actor": "narrative",
+        "text": "金蝎子摄手摄脚走进屋里，发现没人。他很快察觉到壁柜里的暗室，喜出望外：按经验判断，这样规模的暗室一定藏着大量值钱的东西。"
+      },
+      {
+        "id": "10009_narrative",
+        "actor": "narrative",
+        "text": "金蝎子钻进暗室，从里边顺着门框摸了一圈，很快摸到那个小凸块，按下去，暗室大门关上了。他点燃打火机照了照，顺着楼梯轻轻往下走。"
+      },
+      {
+        "id": "10010_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西已经到了四方厅。"
+      },
+      {
+        "id": "10011_luxixi",
+        "actor": "luxixi",
+        "text": "哥哥，你听，好像有脚步声。"
+      },
+      {
+        "id": "10012_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁把手电关上，憋住气听。真的，楼梯上传来轻微的脚步声。在这安静得出奇的暗室里听到脚步声，令人胆颤心惊。"
+      },
+      {
+        "id": "10013_luxixi",
+        "actor": "luxixi",
+        "text": "我怕。"
+      },
+      {
+        "id": "10014_pipilu",
+        "actor": "pipilu",
+        "text": "别怕，有我呢。"
+      },
+      {
+        "id": "10015_narrative",
+        "actor": "narrative",
+        "text": "脚步声消失了。"
+      },
+      {
+        "id": "10016_pipilu",
+        "actor": "pipilu",
+        "text": "没事了，咱们去开门。"
+      },
+      {
+        "id": "10017_narrative",
+        "actor": "narrative",
+        "text": "他把手电筒开关打开，兄妹俩来到金门前。皮皮鲁掏出钥匙插进大锁里，用力一拧，锁开了。兄妹俩又惊又喜。皮皮鲁推开门，用手电往里一照，是一条弯弯曲曲的通道。"
+      },
+      {
+        "id": "10018_pipilu",
+        "actor": "pipilu",
+        "text": "走，进去看看！"
+      },
+      {
+        "id": "10019_luxixi",
+        "actor": "luxixi",
+        "text": "咱们回家吧，爸爸妈妈该下班了。"
+      },
+      {
+        "id": "10020_pipilu",
+        "actor": "pipilu",
+        "text": "就进去看一下，很快就出来！"
+      },
+      {
+        "id": "10021_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁不由分说，拉着妹妹走进通道。此刻，金蝎子也一步一步朝暗室深处走下去。忽然，他听到下边有脚步声，便脱下鞋子系在腰带上，光着脚往下走，估计下边是那两个孩子。"
+      },
+      {
+        "id": "10022_narrative",
+        "actor": "narrative",
+        "text": "不料刚拐了一个弯，金蝎子看见楼梯下边也有一个打火机一亮：啊，是个大人！金蝎子结结实实地吃了一惊。下边那个人也觉察到上边有人，关上打火机。两人谁也不动，就这样在黑暗中互相注视着。尽管谁也看不见谁，但双方都感觉到了对方的目光。"
+      },
+      {
+        "id": "10023_narrative",
+        "actor": "narrative",
+        "text": "这就是在皮皮鲁兄妹听不见脚步声的时候。终于，双方同时意识到相持不利，于是下边那个人继续向深处活动，金蝎子也一步一步往下走，只是谁也不敢再使用打火机。"
+      },
+      {
+        "id": "10024_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西在通道里走了没多久，路就没有了。皮皮鲁用手电往上照，一条用铁链子做成的软梯悬挂在头顶。他拽了拽软梯，很结实。"
+      },
+      {
+        "id": "10025_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁一边爬一边用手电往四处照，看见软梯旁边有一个方洞。兄妹俩钻进去，方洞面积很小，刚刚能容纳下他们。"
+      },
+      {
+        "id": "10026_narrative",
+        "actor": "narrative",
+        "text": "鲁西西先看见方洞一侧有一扇小门，指给皮皮鲁看。皮皮鲁轻轻一推，门开了。一道亮光射进来，刺得他们一时睁不开眼。"
+      },
+      {
+        "id": "10027_narrative",
+        "actor": "narrative",
+        "text": "他们闭了会儿眼睛再睁开，惊讶得说不出话来：小门里边是一座金碧辉煌的小城，街道上的建筑物都泛着金黄色的光。树是金色的，地是金色的，一切都是金色的。"
+      },
+      {
+        "id": "10028_luxixi",
+        "actor": "luxixi",
+        "text": "这该不是童话吧？"
+      },
+      {
+        "id": "10029_pipilu",
+        "actor": "pipilu",
+        "text": "怎么会是童话呢！咱们这是在自己家的暗室里！"
+      },
+      {
+        "id": "10030_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁钻出小门，把鲁西西也拉了出来。回头一看，原来出口是一棵金色的大树，他们是从树洞里的暗道进入金城的。皮皮鲁兄妹给这棵金树作了记号。"
+      },
+      {
+        "id": "10031_luxixi",
+        "actor": "luxixi",
+        "text": "哥哥你看！"
+      },
+      {
+        "id": "10032_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁回头一看，大街上走过来一头猪，这猪全身也是金黄色的。金黄的猪看见兄妹俩，站住了，惊讶地睁大了眼睛。"
+      },
+      {
+        "id": "10033_pipilu",
+        "actor": "pipilu",
+        "text": "请问这是什么地方？"
+      },
+      {
+        "id": "10034_saike",
+        "actor": "saike",
+        "text": "这儿叫金城，你们是什么人？从哪儿来的？"
+      },
+      {
+        "id": "10035_pipilu",
+        "actor": "pipilu",
+        "text": "我叫皮皮鲁。她是我妹妹，叫鲁西西。我们从上边来的。"
+      },
+      {
+        "id": "10036_luxixi",
+        "actor": "luxixi",
+        "text": "金城？"
+      },
+      {
+        "id": "10037_saike",
+        "actor": "saike",
+        "text": "对，是金城。城里所有的东西都是金子做成的，连我们也是。"
+      },
+      {
+        "id": "10038_narrative",
+        "actor": "narrative",
+        "text": "金猪指指自己的身体。皮皮鲁和鲁西西惊呆了：他们知道金子非常贵重，可现在，他们在自己家的暗室里发现了一座金城，连城里的猪都是金子做成的。面对这座金城，他们只觉得眼花缭乱。"
+      },
+      {
+        "id": "10039_luxixi",
+        "actor": "luxixi",
+        "text": "哥哥，咱们应该赶快告诉爸爸妈妈。"
+      },
+      {
+        "id": "10040_pipilu",
+        "actor": "pipilu",
+        "text": "嗯，还应该报告市政府。"
+      },
+      {
+        "id": "10041_saike",
+        "actor": "saike",
+        "text": "你们怎么啦？"
+      },
+      {
+        "id": "10042_pipilu",
+        "actor": "pipilu",
+        "text": "没什么。"
+      },
+      {
+        "id": "10043_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁冲鲁西西挤挤眼睛，示意她保持镇静。"
+      },
+      {
+        "id": "10044_saike",
+        "actor": "saike",
+        "text": "你叫什么名字？"
+      },
+      {
+        "id": "10045_saike",
+        "actor": "saike",
+        "text": "我叫赛克，咱们交个朋友吧！"
+      },
+      {
+        "id": "10046_pipilu",
+        "actor": "pipilu",
+        "text": "行，交个朋友！带我们去城里看看好吗？"
+      },
+      {
+        "id": "10047_saike",
+        "actor": "saike",
+        "text": "当然可以。"
+      },
+      {
+        "id": "10048_narrative",
+        "actor": "narrative",
+        "text": "赛克领着皮皮鲁和鲁西西朝城里走去。"
+      },
+      {
+        "id": "10049_pipilu",
+        "actor": "pipilu",
+        "text": "咱们侦察一下这座金城有多大，然后回去报告。"
+      },
+      {
+        "id": "10050_narrative",
+        "actor": "narrative",
+        "text": "鲁西西点点头。金城真漂亮，每座建筑物都闪射着金色的光芒。金城的居民们自由自在地生活着，看得出他们很快活，无忧无虑。"
+      },
+      {
+        "id": "10051_luxixi",
+        "actor": "luxixi",
+        "text": "哥哥，有一本书上说过，“金钱是痛苦的根源”。这座城里都是金子，他们应该愁眉苦脸才对呀！"
+      },
+      {
+        "id": "10052_pipilu",
+        "actor": "pipilu",
+        "text": "大概正因为全是金子，也就无所谓了。"
+      },
+      {
+        "id": "10053_narrative",
+        "actor": "narrative",
+        "text": "街上的金猪们发现了皮皮鲁和鲁西西，纷纷围上来，像看稀世珍宝那样看他们——金猪们从来没见过这种模样的人。"
+      },
+      {
+        "id": "10054_saike",
+        "actor": "saike",
+        "text": "别挤，别挤，这是我的朋友。"
+      },
+      {
+        "id": "10055_narrative",
+        "actor": "narrative",
+        "text": "一听是赛克的朋友，金猪们都有礼貌地退开几步，纷纷向皮皮鲁和鲁西西问好。兄妹俩觉得这些金猪很可爱。"
+      },
+      {
+        "id": "10056_jingzhu_common",
+        "actor": "jingzhu_common",
+        "text": "这是什么？"
+      },
+      {
+        "id": "10057_pipilu",
+        "actor": "pipilu",
+        "text": "手电筒。"
+      },
+      {
+        "id": "10058_jingzhu_common",
+        "actor": "jingzhu_common",
+        "text": "什么叫手电筒？"
+      },
+      {
+        "id": "10059_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁一按开关，手电筒亮了。金猪们欢呼起来。他们问手电为什么会亮，皮皮鲁说因为有电；他们又问什么叫电，电是什么样儿的。许多问题皮皮鲁都答不上来，索性把电视、电话、汽车等等现代化设备一古脑儿讲给金猪们听，听得他们都入迷了。"
+      },
+      {
+        "id": "10060_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西也觉得同金猪们在一起有趣极了：他们憨厚、天真、纯洁，一点儿也不耍心眼儿。"
+      },
+      {
+        "id": "10061_luxixi",
+        "actor": "luxixi",
+        "text": "哥哥，我看咱们不该去报告……他们生活得多好呀！"
+      },
+      {
+        "id": "10062_pipilu",
+        "actor": "pipilu",
+        "text": "就是，要是咱们那个世界的人来了后，会怎么样呢？"
+      },
+      {
+        "id": "10063_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西不敢想象那将是什么情景。人们知道了这儿有一座金城后，这些可爱的金猪们还能继续在家乡过宁静的生活吗？这座城都是金子呀！"
+      },
+      {
+        "id": "10064_pipilu",
+        "actor": "pipilu",
+        "text": "鲁西西，咱们应该保护金猪们，保护他们继续过安宁的生活。因为他们是有生命的金猪，不是一般的金子。他们有生存的权利。"
+      },
+      {
+        "id": "10065_luxixi",
+        "actor": "luxixi",
+        "text": "暗室的门还开着，咱们应该赶在爸爸妈妈下班前回去。"
+      },
+      {
+        "id": "10066_pipilu",
+        "actor": "pipilu",
+        "text": "对，快走！"
+      },
+      {
+        "id": "10067_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁说着就要向金猪们告别。"
+      },
+      {
+        "id": "10068_saike",
+        "actor": "saike",
+        "text": "多玩会儿不行吗？"
+      },
+      {
+        "id": "10069_pipilu",
+        "actor": "pipilu",
+        "text": "不行，来不及了，以后再来玩。"
+      },
+      {
+        "id": "10070_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁拉着鲁西西就跑。"
+      },
+      {
+        "id": "10071_jingzhu_guards",
+        "actor": "jingzhu_guards",
+        "text": "站住，别让他们跑了！抓住他们！"
+      },
+      {
+        "id": "10072_narrative",
+        "actor": "narrative",
+        "text": "几个金猪从远处跑来，不由分说抓住了皮皮鲁和鲁西西。"
+      },
+      {
+        "id": "10073_pipilu",
+        "actor": "pipilu",
+        "text": "你们干什么？"
+      },
+      {
+        "id": "10074_saike",
+        "actor": "saike",
+        "text": "他们是我的朋友，干吗抓他们？"
+      },
+      {
+        "id": "10075_jingzhu_guards",
+        "actor": "jingzhu_guards",
+        "text": "咱们城的一位居民被外来人给绑架了，一定是他俩干的，国王下令抓住陌生人！"
+      },
+      {
+        "id": "10076_narrative",
+        "actor": "narrative",
+        "text": "围在皮皮鲁兄妹身边的金猪都愣了：这两个和蔼可亲的陌生人会绑架同胞？他们不信，可又想起兄妹俩为什么要匆忙离开金城。怀疑的目光包围了皮皮鲁和鲁西西。"
+      },
+      {
+        "id": "10077_jingzhu_guards",
+        "actor": "jingzhu_guards",
+        "text": "快把你们绑架的金猪交出来！"
+      },
+      {
+        "id": "10078_pipilu",
+        "actor": "pipilu",
+        "text": "我们没有绑架！"
+      },
+      {
+        "id": "10079_jingzhu_guards",
+        "actor": "jingzhu_guards",
+        "text": "那赛璐小姐到哪儿去了？"
+      },
+      {
+        "id": "10080_saike",
+        "actor": "saike",
+        "text": "什么？我妹妹被绑架了？"
+      },
+      {
+        "id": "10081_jingzhu_guards",
+        "actor": "jingzhu_guards",
+        "text": "有人看见一个陌生人绑架了她。"
+      },
+      {
+        "id": "10082_saike",
+        "actor": "saike",
+        "text": "是你们吗？"
+      },
+      {
+        "id": "10083_pipilu",
+        "actor": "pipilu",
+        "text": "不是。也不可能有别人进到这座金城里来。这肯定是误会！"
+      },
+      {
+        "id": "10084_jingzhu_guards",
+        "actor": "jingzhu_guards",
+        "text": "但赛璐确实失踪了！"
+      },
+      {
+        "id": "10085_luxixi",
+        "actor": "luxixi",
+        "text": "咱们不能再耽误时间了，爸爸妈妈该下班了。"
+      },
+      {
+        "id": "10086_narrative",
+        "actor": "narrative",
+        "text": "鲁西西急得要哭了。"
+      },
+      {
+        "id": "10087_pipilu",
+        "actor": "pipilu",
+        "text": "我喊一、二、三，你往那边跑，我往相反方向跑，到那棵金树下集合。"
+      },
+      {
+        "id": "10088_narrative",
+        "actor": "narrative",
+        "text": "鲁西西点点头。"
+      },
+      {
+        "id": "10089_pipilu",
+        "actor": "pipilu",
+        "text": "一、二、三！"
+      },
+      {
+        "id": "10090_narrative",
+        "actor": "narrative",
+        "text": "金猪们一愣。趁此机会，皮皮鲁和鲁西西撒腿朝相反的两个方向跑去。金猪们立刻明白过来，愤怒地分成两路追捕他们。消息立即报到国王那里。黄金国王下令全城居民行动，捉拿一切陌生人。"
+      }
+    ]
+  }
+}

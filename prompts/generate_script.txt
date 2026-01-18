@@ -20,6 +20,8 @@ contents: { paragraphs: [ { id: <>, actor: <actor key>, emotion: <emotion>, text
 10003_officer.
 
   emotion 是可选项，仅在voice支持support_emotions为非空时才出现，而且emotion的值必须为support_emotions 里面的值。
+  
+本集的标题要作为单独的一句输出。
 
 voice_dict content: (说明： 只有can_be_narrative 的voice才可以被选做narrative，support_emotion 越多的voice越适合做主角)
 

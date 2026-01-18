@@ -66,8 +66,9 @@ def compose_request_json(voice_type: str, raw_text: str):
         },
         "request": {
             "reqid": "xxx",
-            "text": raw_text,
-            "text_type": "plain",
+            "text": "<speak>" + raw_text.replace("……", "<break time=\"800ms\"/>") + "</speak>",
+            # "text_type": "plain",
+            "text_type": "ssml",
             "operation": "xxx"
         }
     }

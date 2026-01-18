@@ -1,0 +1,574 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      {
+        "key": "pipilu",
+        "voice": "zh_male_yangguangqingnian_mars_bigtts"
+      },
+      {
+        "key": "luxixi",
+        "voice": "ICL_zh_female_wuxi_tob"
+      },
+      {
+        "key": "baba",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "laosujiang",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "第一章"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西的家原先住在一栋老式楼房里。连他们的爸爸妈妈也说不清这栋楼房是哪个年代建造的。楼房的墙壁很厚，非常坚固，而且冬暖夏凉。"
+      },
+      {
+        "id": "10003_narrative",
+        "actor": "narrative",
+        "text": "一天下午，皮皮鲁和鲁西西放学以后在家里做作业。鲁西西写了一会儿，觉得有点儿冷，她打开壁柜的门，钻进去找毛衣。鲁西西家的壁柜很大，可以站进去好几个人。鲁西西和皮皮鲁小时候经常在里边捉迷藏。"
+      },
+      {
+        "id": "10004_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁正在自己的房间里漫不经心地做作业，只听“嗵”的一声，房门被撞开了。鲁西西上气不接下气地闯进哥哥的房间，脸色煞白。"
+      },
+      {
+        "id": "10005_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "哥哥……哥哥……"
+      },
+      {
+        "id": "10006_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "怎么啦?"
+      },
+      {
+        "id": "10007_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "去去……看……"
+      },
+      {
+        "id": "10008_pipilu",
+        "actor": "pipilu",
+        "emotion": "surprised",
+        "text": "到底出了什么事？"
+      },
+      {
+        "id": "10009_narrative",
+        "actor": "narrative",
+        "text": "鲁西西拉着皮皮鲁朝她的房间走去。皮皮鲁走进妹妹的房间，什么吓人的事也没有。鲁西西把皮皮鲁带到壁柜跟前，对他说："
+      },
+      {
+        "id": "10010_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "你拉开门看看。"
+      },
+      {
+        "id": "10011_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁大模大样地拉开壁柜的门，不禁“啊”地叫了一声，紧接着倒吸了一口凉气。壁柜里的墙壁上出现了一个黑乎乎的大洞，洞口是长方形的，洞里一阵阵地往外喷射着寒气。"
+      },
+      {
+        "id": "10012_pipilu",
+        "actor": "pipilu",
+        "emotion": "surprised",
+        "text": "这……"
+      },
+      {
+        "id": "10013_narrative",
+        "actor": "narrative",
+        "text": "现在轮到皮皮鲁吃惊了，他看着鲁西西。"
+      },
+      {
+        "id": "10014_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "我在壁柜里找毛衣，忽然听到“哗啦”一阵响声，转眼功夫墙壁上就出现这么一个大洞。"
+      },
+      {
+        "id": "10015_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "暗室！"
+      },
+      {
+        "id": "10016_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "一定是你无意中碰到了暗室门的开关，它就自动打开了！你仔细想想。"
+      },
+      {
+        "id": "10017_narrative",
+        "actor": "narrative",
+        "text": "鲁西西回想着刚才自己都碰了哪些地方。"
+      },
+      {
+        "id": "10018_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "想起来了，就是那儿！"
+      },
+      {
+        "id": "10019_pipilu",
+        "actor": "pipilu",
+        "emotion": "surprised",
+        "text": "哪儿呀？你走近点儿。"
+      },
+      {
+        "id": "10020_narrative",
+        "actor": "narrative",
+        "text": "鲁西西不敢靠近壁柜。皮皮鲁找来一根竹竿，递给鲁西西。"
+      },
+      {
+        "id": "10021_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "你指指是哪儿。"
+      },
+      {
+        "id": "10022_narrative",
+        "actor": "narrative",
+        "text": "鲁西西用竹竿指给皮皮鲁看。果然，墙角处有一凸起的小块，一般情况下根本发现不了。皮皮鲁壮着胆子走进壁柜，用手按了一下那个小凸块。只听“哐当”一声巨响，吓得皮皮鲁忙跳出壁柜。"
+      },
+      {
+        "id": "10023_narrative",
+        "actor": "narrative",
+        "text": "当他俩再往壁柜里看时，洞不见了。墙壁上齐齐整整，根本就没有黑洞的一点儿影子。"
+      },
+      {
+        "id": "10024_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "暗室！真正的暗室！！"
+      },
+      {
+        "id": "10025_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁兴奋得大叫起来。在自己家里发现了一个谁也不知道的暗室，对于皮皮鲁来说，意义不亚于宇航员首次登上月球。"
+      },
+      {
+        "id": "10026_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "这暗室里有什么东西呢？全是机关枪、手枪？还是一个秘密通道？说不定能通到很远的地方呢？要是通到我的教室下边就好了……老师刚说皮皮鲁怎么还没来上课呀？我就从地底下冒出来了，嘿！"
+      },
+      {
+        "id": "10027_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁越想越美，他钻进壁柜，按了一下墙角的小凸块，暗室的门打开了；他又按了一下，暗室的门听话地关上了。"
+      },
+      {
+        "id": "10028_pipilu",
+        "actor": "pipilu",
+        "emotion": "happy",
+        "text": "鲁西西，你真伟大！我给你记功！不过，还得求你件事，这暗室先别跟爸爸妈妈说，行吗？"
+      },
+      {
+        "id": "10029_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "为什么？"
+      },
+      {
+        "id": "10030_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "大人一知道就没劲了。说不定，这里边有好玩的地方呢！"
+      },
+      {
+        "id": "10031_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "行，我先不说。"
+      },
+      {
+        "id": "10032_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "咱们得给这个暗室起个名字，叫……"
+      },
+      {
+        "id": "10033_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "就叫３０９暗室吧！！"
+      },
+      {
+        "id": "10034_pipilu",
+        "actor": "pipilu",
+        "emotion": "happy",
+        "text": "行，就叫３０９暗室。"
+      },
+      {
+        "id": "10035_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "咱们现在就进去看看！"
+      },
+      {
+        "id": "10036_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "我可不敢进去。"
+      },
+      {
+        "id": "10037_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "那我自己进去，你在外边接应我。如果爸爸妈妈回来了，你就快喊我。"
+      },
+      {
+        "id": "10038_narrative",
+        "actor": "narrative",
+        "text": "鲁西西答应了。皮皮鲁找来手电，又拿了一根木棍当自卫武器。一切准备就绪后，他打开了３０９暗室的门。暗室里有一条很窄很陡的楼梯。皮皮鲁打着手电，顺着暗室的楼梯往下走。"
+      },
+      {
+        "id": "10039_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "当心点儿！"
+      },
+      {
+        "id": "10040_pipilu",
+        "actor": "pipilu",
+        "emotion": "happy",
+        "text": "没问题！"
+      },
+      {
+        "id": "10041_narrative",
+        "actor": "narrative",
+        "text": "鲁西西已经看不见哥哥了。5分钟过去了。10分钟过去了。半个小时过去了……皮皮鲁还没有出来！"
+      },
+      {
+        "id": "10042_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "皮皮鲁——"
+      },
+      {
+        "id": "10043_narrative",
+        "actor": "narrative",
+        "text": "暗室里静得出奇，一点儿声响也没有。鲁西西慌了，她不知怎么办才好。"
+      },
+      {
+        "id": "10044_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁顺着楼梯往下走，心里也挺害怕，但好奇心战胜了胆怯。他忽然听见身后传来一阵响声，猛一转身用手电一照——一条大蛇高高地昂着头，冲他吐着细细的红舌头，发出“咝咝”的响声。"
+      },
+      {
+        "id": "10045_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁认出这是毒蛇。他想跑，但又想起书上说过，碰到蛇是不能动的，你一动它就扑上来。于是他同毒蛇僵持着，双方谁也不动。上面洞口传来妹妹焦急的呼喊，皮皮鲁听见了，却不敢答应。"
+      },
+      {
+        "id": "10046_narrative",
+        "actor": "narrative",
+        "text": "对峙了半个小时之久，皮皮鲁渐渐站不住了。他想起电影里说过：把手里的东西扔过去引开它。于是他把木棍朝楼梯上方扔去，然后撒腿往下跑，连头都不敢回。"
+      },
+      {
+        "id": "10047_narrative",
+        "actor": "narrative",
+        "text": "也不知下了多少层楼梯，一直到没路可走的时候，皮皮鲁才停下。他回身用手电照照，谢天谢地，毒蛇没影了。"
+      },
+      {
+        "id": "10048_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁站在一个正方形的厅里，厅的四面有四个门，每个门上印着奇怪的图案，分别写着：金门、银门、铜门、铁门。"
+      },
+      {
+        "id": "10049_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁试着推门、敲门，四个门都锁着。每扇门上方都挂着一把大锁，可他找遍角落也没发现钥匙。就在这时，手电不亮了。整座暗室黑得伸手不见五指，安静得令人毛骨悚然。"
+      },
+      {
+        "id": "10050_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁在黑暗中摸索着找楼梯口，凭着感觉往上走。他忽然想起那条拦路的毒蛇，心里发紧，但还是硬着头皮继续。"
+      },
+      {
+        "id": "10051_pipilu",
+        "actor": "pipilu",
+        "emotion": "fear",
+        "text": "啊！"
+      },
+      {
+        "id": "10052_narrative",
+        "actor": "narrative",
+        "text": "他踩到了一根圆圆的东西，以为是毒蛇，撒腿就跑；身后传来木棍滚下楼梯的撞击声。原来是他刚才扔掉的木棍——一场虚惊。不过也好，根据木棍的位置判断，他已经快到家了。"
+      },
+      {
+        "id": "10053_narrative",
+        "actor": "narrative",
+        "text": "上边等候的鲁西西早就急坏了。她从窗户里看见爸爸回来了，已经进了楼道。"
+      },
+      {
+        "id": "10054_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "皮皮鲁，你快点儿上来！你听到了吗？爸爸回来了！"
+      },
+      {
+        "id": "10055_narrative",
+        "actor": "narrative",
+        "text": "鲁西西的话音刚落，大门口已传来爸爸用钥匙开门锁的声音。就在这时，皮皮鲁气喘吁吁地从暗室里跑出来。他来不及关暗室的门，只好忙把壁柜门关上，自己也躲在壁柜里。爸爸的脚步已经到了鲁西西房间门口。"
+      },
+      {
+        "id": "10056_baba",
+        "actor": "baba",
+        "text": "作业做完了吗？"
+      },
+      {
+        "id": "10057_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "做完了。……不，还没有。"
+      },
+      {
+        "id": "10058_narrative",
+        "actor": "narrative",
+        "text": "爸爸发觉女儿神色不大对。"
+      },
+      {
+        "id": "10059_baba",
+        "actor": "baba",
+        "text": "你怎么了？身体不舒服？"
+      },
+      {
+        "id": "10060_luxixi",
+        "actor": "luxixi",
+        "emotion": "neutral",
+        "text": "没有，挺好的。"
+      },
+      {
+        "id": "10061_narrative",
+        "actor": "narrative",
+        "text": "爸爸看看屋里，没有什么异常现象。他脱下外衣，朝壁柜走去——外衣是挂在壁柜里的。"
+      },
+      {
+        "id": "10062_luxixi",
+        "actor": "luxixi",
+        "emotion": "fear",
+        "text": "爸爸，我来给你挂衣服。"
+      },
+      {
+        "id": "10063_baba",
+        "actor": "baba",
+        "text": "谢谢。"
+      },
+      {
+        "id": "10064_narrative",
+        "actor": "narrative",
+        "text": "爸爸没有怀疑女儿的举动，做梦也想不到壁柜里有一座被命名为３０９的暗室。可爸爸站着不动，鲁西西必须当着爸爸的面把衣服放进壁柜。"
+      },
+      {
+        "id": "10065_narrative",
+        "actor": "narrative",
+        "text": "鲁西西装着若无其事地把壁柜门拉开一道缝儿，可她够不着衣架子，必须把门全打开。正在这时，一个硬东西碰了碰她扶在壁柜门上的手——是皮皮鲁从里边递出来的衣架子。鲁西西把衣服挂好，又把衣架递回去。爸爸没发现什么，回自己房间去了。"
+      },
+      {
+        "id": "10066_narrative",
+        "actor": "narrative",
+        "text": "兄妹俩明白，必须在妈妈回家之前把暗室的门关上。"
+      },
+      {
+        "id": "10067_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "把录音机打开，声音开大一点儿！"
+      },
+      {
+        "id": "10068_narrative",
+        "actor": "narrative",
+        "text": "鲁西西打开录音机，把音量开得老大。"
+      },
+      {
+        "id": "10069_baba",
+        "actor": "baba",
+        "text": "鲁西西，轻点儿，爸爸看书呢。"
+      },
+      {
+        "id": "10070_narrative",
+        "actor": "narrative",
+        "text": "爸爸话音刚落，就听“哐当”一声。爸爸忙跑过来，只见女儿和儿子都站在房间里。"
+      },
+      {
+        "id": "10071_baba",
+        "actor": "baba",
+        "text": "你什么时候回来的？"
+      },
+      {
+        "id": "10072_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "刚进门。"
+      },
+      {
+        "id": "10073_baba",
+        "actor": "baba",
+        "text": "刚才是什么声音？"
+      },
+      {
+        "id": "10074_luxixi",
+        "actor": "luxixi",
+        "emotion": "neutral",
+        "text": "没听见呀！"
+      },
+      {
+        "id": "10075_baba",
+        "actor": "baba",
+        "text": "没听见？"
+      },
+      {
+        "id": "10076_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "我也没听见。"
+      },
+      {
+        "id": "10077_narrative",
+        "actor": "narrative",
+        "text": "爸爸纳闷了：鲁西西的不正常表情，皮皮鲁的突然出现，再加上一声奇怪的“哐当”声，让爸爸认定他们有瞒着他的事。他拉开壁柜门，一切正常。"
+      },
+      {
+        "id": "10078_baba",
+        "actor": "baba",
+        "text": "你们怎么还没做完作业？"
+      },
+      {
+        "id": "10079_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西没话说了，只好赶紧回到各自的桌子旁做作业。"
+      },
+      {
+        "id": "10080_narrative",
+        "actor": "narrative",
+        "text": "晚上趁爸爸妈妈出去散步的机会，皮皮鲁把他在暗室里的历险讲给鲁西西听。"
+      },
+      {
+        "id": "10081_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "那四扇门里是什么？"
+      },
+      {
+        "id": "10082_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "不知道，咱们得想办法把锁打开，配把钥匙就行。"
+      },
+      {
+        "id": "10083_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "你没有样子，怎么配钥匙呀？"
+      },
+      {
+        "id": "10084_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "把泡泡糖嚼软了，塞进锁上的钥匙孔里，再慢慢抽出来，就能弄到钥匙的大概形状了。"
+      },
+      {
+        "id": "10085_narrative",
+        "actor": "narrative",
+        "text": "鲁西西觉得这是个好主意。他俩商定第二天下午放学后实施。"
+      },
+      {
+        "id": "10086_narrative",
+        "actor": "narrative",
+        "text": "第二天下午，皮皮鲁和鲁西西做好了进暗室的准备。在皮皮鲁的激将下，鲁西西决定和哥哥一起去冒险。为了防止万一，皮皮鲁给手电换上新灯泡，还带了几个备用电池。"
+      },
+      {
+        "id": "10087_narrative",
+        "actor": "narrative",
+        "text": "兄妹俩进入３０９暗室。鲁西西紧紧跟在哥哥后面，拽着他的衣服。不一会儿，他们顺利来到正方形的厅里。鲁西西惊讶地张着嘴，被四扇神秘的门吸引住了，甚至忘记了害怕。"
+      },
+      {
+        "id": "10088_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "说不定一直能通进太平洋呢！"
+      },
+      {
+        "id": "10089_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁一边把嘴里的泡泡糖吐出来往锁上的钥匙孔里塞，一边说。鲁西西掏出小本，把金门上锁的形状画了下来。他们决定先打开金门。钥匙模型做好后，兄妹俩离开暗室回到房间。"
+      },
+      {
+        "id": "10090_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "咱们现在就去找锁匠配钥匙。"
+      },
+      {
+        "id": "10091_luxixi",
+        "actor": "luxixi",
+        "emotion": "excited",
+        "text": "走！"
+      },
+      {
+        "id": "10092_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁兄妹在大街上找到了一家配钥匙的小铺子。一位戴老花镜的老锁匠正坐在铺子里修锁。"
+      },
+      {
+        "id": "10093_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "老大爷，请帮我们配把钥匙。"
+      },
+      {
+        "id": "10094_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁说完把泡泡糖做成的钥匙样子递上去。老锁匠看了一眼钥匙模型，问："
+      },
+      {
+        "id": "10095_lausujiang",
+        "actor": "laosujiang",
+        "text": "这是什么锁？"
+      },
+      {
+        "id": "10096_narrative",
+        "actor": "narrative",
+        "text": "鲁西西把她画的锁的形状拿给老锁匠看。老锁匠眯着眼睛看看图，又看了看兄妹俩。"
+      },
+      {
+        "id": "10097_lausujiang",
+        "actor": "laosujiang",
+        "text": "哟，这种锁的年代很久了！"
+      },
+      {
+        "id": "10098_pipilu",
+        "actor": "pipilu",
+        "emotion": "surprised",
+        "text": "能帮我们配钥匙吗？"
+      },
+      {
+        "id": "10099_lausujiang",
+        "actor": "laosujiang",
+        "text": "当然可以，现在就配。"
+      },
+      {
+        "id": "10100_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁和鲁西西高兴极了，他们原来还怕配不成呢。"
+      }
+    ]
+  }
+}

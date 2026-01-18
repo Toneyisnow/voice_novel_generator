@@ -161,6 +161,7 @@
             "age": "adult",
             "tone": "cheerful"
         },
+        "can_be_narrative": true,
         "support_emotions": []
     },
     {
@@ -305,6 +306,7 @@
         "age": "adult",
         "tone": "narrative"
       },
+      "can_be_narrative": true,
       "support_emotions": []
     },
       {
@@ -730,6 +732,15 @@
       },
       "support_emotions": []
     },
+	{
+      "key": "ICL_zh_female_wuxi_tob",
+      "persona": {
+        "gender": "female",
+        "age": "teen",
+        "tone": "cute"
+      },
+      "support_emotions": []
+    },
     {
       "key": "ICL_zh_male_youroubangzhu_tob",
       "persona": {
@@ -932,7 +943,7 @@
       "key": "zh_male_tiancaitongsheng_mars_bigtts",
       "persona": {
         "gender": "male",
-        "age": "young_adult",
+        "age": "teen",
         "tone": "talented"
       },
       "support_emotions": []
@@ -1130,7 +1141,7 @@
       "key": "zh_male_yangguangqingnian_mars_bigtts",
       "persona": {
         "gender": "male",
-        "age": "young_adult",
+        "age": "teen",
         "tone": "energetic"
       },
       "support_emotions": []

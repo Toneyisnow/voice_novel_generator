@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+
+      { "key": "jin_xiezi", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "baijin_qinwang", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "saike", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "jinzhu", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "jinzhu_group", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第四章……暗道争夺" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "金蝎子骗取了黄金国王的信任后，假装跟着白金亲王的搜查大军去寻找赛璐，实际上是想把他们引到远离赛璐的地方。他盘算着怎样找到鲁西西，好从她嘴中弄清暗道的位置。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "搜查大军从王宫里浩浩荡荡地出发了。白金亲王担任总督，指挥部下搜查金城的每一个角落。" },
+
+      { "id": "10004_baijin_qinwang", "actor": "baijin_qinwang", "text": "你刚才说，我们金猪在你们那儿很贵重，是吗？" },
+      { "id": "10005_jin_xiezi", "actor": "jin_xiezi", "text": "岂止是贵重，简直是宝贝。" },
+      { "id": "10006_narrative", "actor": "narrative", "text": "金蝎子看着白金亲王，心里暗想：要是把这位也弄出去，那就能发大财了。" },
+
+      { "id": "10007_baijin_qinwang", "actor": "baijin_qinwang", "text": "听说你们那儿还有什么“电话”？" },
+      { "id": "10008_narrative", "actor": "narrative", "text": "金蝎子滔滔不绝地讲电话、电视、汽车、飞机、轮船……白金亲王听得入了迷。" },
+
+      { "id": "10009_jin_xiezi", "actor": "jin_xiezi", "text": "可是这些东西都没你们金猪值钱——就拿你说吧……就拿赛璐说吧，她一个就可以换一万台电视机！" },
+      { "id": "10010_narrative", "actor": "narrative", "text": "白金亲王还从来不知道金子这么有价值。过了一会儿，他突然发问。" },
+
+      { "id": "10011_baijin_qinwang", "actor": "baijin_qinwang", "text": "你们从什么地方来的？" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "金蝎子吓了一跳：莫非白金亲王已经起疑？" },
+
+      { "id": "10013_baijin_qinwang", "actor": "baijin_qinwang", "text": "快说，从哪儿来的？" },
+      { "id": "10014_jin_xiezi", "actor": "jin_xiezi", "text": "从一棵金树里。可我也记不清哪棵树中有暗道！" },
+      { "id": "10015_baijin_qinwang", "actor": "baijin_qinwang", "text": "来人！去检查所有的树，看看哪棵树中有暗道！" },
+
+      { "id": "10016_narrative", "actor": "narrative", "text": "金猪们领命而去。金蝎子傻眼了：如果暗道的金树被找出来，他就更难脱身。不行，必须抢在他们前面找到鲁西西！" },
+      { "id": "10017_narrative", "actor": "narrative", "text": "他找了个机会离开白金亲王，钻进一条胡同，四处搜寻鲁西西的踪影。" },
+
+      { "id": "10018_jin_xiezi", "actor": "jin_xiezi", "text": "怪事，这小姑娘躲到哪儿去了呢？" },
+      { "id": "10019_narrative", "actor": "narrative", "text": "这是个死胡同。金蝎子走到头，刚转过身，就看见一个高大的男子汉神不知鬼不觉地站在他面前，魂差点吓没了。" },
+      { "id": "10020_narrative", "actor": "narrative", "text": "金蝎子从相貌判断这是皮皮鲁的爸爸，也认定他就是暗道里走在自己前面的“对手”。对方身强力壮，金蝎子知道硬拼吃亏，只能用计。" },
+
+      { "id": "10021_baba", "actor": "baba", "text": "你是跟在我后边进来的吧？" },
+      { "id": "10022_jin_xiezi", "actor": "jin_xiezi", "text": "没错。" },
+      { "id": "10023_baba", "actor": "baba", "text": "你是怎么进我们家的？" },
+      { "id": "10024_jin_xiezi", "actor": "jin_xiezi", "text": "我是国家专门收购珠宝文物的，嗯……发现你的孩子配了把奇怪的钥匙，就跟来了。我进门时，你家的大门没锁，敲门又没人答应。" },
+      { "id": "10025_baba", "actor": "baba", "text": "你有证件吗？" },
+
+      { "id": "10026_narrative", "actor": "narrative", "text": "金蝎子心里暗喜：他身上正好带着几十种伪造证件。" },
+      { "id": "10027_jin_xiezi", "actor": "jin_xiezi", "text": "给。" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸看了看证件，点点头，又把证件还给金蝎子。" },
+
+      { "id": "10029_baba", "actor": "baba", "text": "你还记得暗道的出口吗？" },
+      { "id": "10030_jin_xiezi", "actor": "jin_xiezi", "text": "忘了。你呢？" },
+      { "id": "10031_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸耸耸肩，无可奈何地苦笑了一下。" },
+
+      { "id": "10032_jin_xiezi", "actor": "jin_xiezi", "text": "咱们必须赶快报告政府，这是一个重大的发现，一刻也不应耽搁。" },
+      { "id": "10033_baba", "actor": "baba", "text": "对，我也是这么想。" },
+      { "id": "10034_jin_xiezi", "actor": "jin_xiezi", "text": "现在只有您的孩子知道出口在什么地方！" },
+      { "id": "10035_baba", "actor": "baba", "text": "唉，刚才我碰到我女儿了，可她就是不说。" },
+      { "id": "10036_jin_xiezi", "actor": "jin_xiezi", "text": "恕我直言，您对子女教育太差了，他们怎么能这样对待国家呢？" },
+      { "id": "10037_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸脸红了，他真想不通儿子和女儿为什么不愿意把金城“上交”。" },
+
+      { "id": "10038_jin_xiezi", "actor": "jin_xiezi", "text": "您女儿呢？" },
+      { "id": "10039_baba", "actor": "baba", "text": "跑了。" },
+
+      { "id": "10040_jin_xiezi", "actor": "jin_xiezi", "text": "您儿子被关在王宫里，你去问他出口在哪儿？一定得想办法让他说出来！" },
+      { "id": "10041_baba", "actor": "baba", "text": "你快带我去！" },
+
+      { "id": "10042_narrative", "actor": "narrative", "text": "金蝎子带着皮皮鲁的爸爸朝王宫跑去。他们没料到，这一席话全被躲在墙后边的鲁西西听到了。" },
+      { "id": "10043_narrative", "actor": "narrative", "text": "哥哥被关押了！鲁西西大吃一惊，立刻下决心要去救哥哥。" },
+
+      { "id": "10044_narrative", "actor": "narrative", "text": "鲁西西绕过拐角，朝王宫走去。刚拐了个弯，她站住了——四个金猪堵在面前，身后也有四个金猪，赛克也在其中。" },
+      { "id": "10045_narrative", "actor": "narrative", "text": "鲁西西成了俘虏。" },
+
+      { "id": "10046_narrative", "actor": "narrative", "text": "这时金蝎子领着皮皮鲁的爸爸来到王宫，告诉黄金国王：这个人可以让皮皮鲁说出藏赛璐的地方。黄金国王来不及细想，只要找回臣民就行。" },
+      { "id": "10047_narrative", "actor": "narrative", "text": "金蝎子让皮皮鲁的爸爸单独去见皮皮鲁，并嘱咐他无论如何要套出暗道位置。" },
+
+      { "id": "10048_jin_xiezi", "actor": "jin_xiezi", "text": "国家需要这些金子呀！" },
+
+      { "id": "10049_narrative", "actor": "narrative", "text": "皮皮鲁正躺着睡觉，被金猪推醒。他坐起来一看，愣住了——是爸爸！" },
+
+      { "id": "10050_pipilu", "actor": "pipilu", "emotion": "surprised", "text": "您……您怎么……来的？" },
+      { "id": "10051_baba", "actor": "baba", "text": "你们发现了金库为什么不报告？" },
+      { "id": "10052_pipilu", "actor": "pipilu", "emotion": "surprised", "text": "什么金库？" },
+      { "id": "10053_baba", "actor": "baba", "text": "这不就是金库吗？" },
+      { "id": "10054_pipilu", "actor": "pipilu", "emotion": "neutral", "text": "这是金城。" },
+      { "id": "10055_baba", "actor": "baba", "text": "我不管什么金城银城，反正应该马上报告政府！" },
+      { "id": "10056_pipilu", "actor": "pipilu", "emotion": "angry", "text": "不行！" },
+      { "id": "10057_baba", "actor": "baba", "text": "为什么？" },
+      {
+        "id": "10058_pipilu",
+        "actor": "pipilu",
+        "emotion": "excited",
+        "text": "要是金库，我早就去报告了！可他们是金猪，是有生命的金猪！他们有生存的权利，如果报告了，他们就完了！您想想，为了金子，人类可以玩命呀！"
+      },
+      { "id": "10059_baba", "actor": "baba", "text": "哪儿来这么多歪理！快告诉我出口在哪儿？" },
+      { "id": "10060_pipilu", "actor": "pipilu", "emotion": "coldness", "text": "您不是从暗道进来的？您自己去找吧！" },
+
+      { "id": "10061_narrative", "actor": "narrative", "text": "金蝎子在屋外听不下去了，冲进来逼问。" },
+      { "id": "10062_jin_xiezi", "actor": "jin_xiezi", "text": "你这是在犯罪！会判刑的！快把出口告诉我们！" },
+      { "id": "10063_narrative", "actor": "narrative", "text": "皮皮鲁立刻明白：爸爸被金蝎子利用了。" },
+
+      { "id": "10064_pipilu", "actor": "pipilu", "emotion": "neutral", "text": "好吧，我告诉你们。" },
+      { "id": "10065_narrative", "actor": "narrative", "text": "皮皮鲁说了一个地点。金蝎子如获至宝，拉着皮皮鲁的爸爸就跑。" },
+
+      { "id": "10066_baba", "actor": "baba", "text": "那他？" },
+      { "id": "10067_jin_xiezi", "actor": "jin_xiezi", "text": "他关在这儿很安全，咱们先去报告政府。" },
+      { "id": "10068_narrative", "actor": "narrative", "text": "金蝎子又嘱咐金猪卫兵看好皮皮鲁，别让他跑了。" },
+
+      { "id": "10069_narrative", "actor": "narrative", "text": "与此同时，鲁西西被金猪逮捕，押在赛克面前。" },
+      { "id": "10070_luxixi", "actor": "luxixi", "text": "赛克，咱们是朋友呀！" },
+      { "id": "10071_saike", "actor": "saike", "text": "好一个朋友！你们干吗绑架我妹妹？" },
+      { "id": "10072_luxixi", "actor": "luxixi", "text": "不是我们干的。" },
+      { "id": "10073_saike", "actor": "saike", "text": "那你们跑什么？" },
+      { "id": "10074_luxixi", "actor": "luxixi", "text": "我们想去关暗室的门。" },
+      { "id": "10075_saike", "actor": "saike", "text": "什么暗室？" },
+      { "id": "10076_luxixi", "actor": "luxixi", "text": "唉，跟你一下子说不清，赶快先去守住有暗道的金树！" },
+      { "id": "10077_saike", "actor": "saike", "text": "有暗道的金树？" },
+
+      { "id": "10078_narrative", "actor": "narrative", "text": "鲁西西把她和皮皮鲁从哪儿进来的经过讲给赛克听。她越说越急，委屈得快哭了。" },
+      { "id": "10079_luxixi", "actor": "luxixi", "text": "你们守住了那棵金树，谁也出不去了，这你还不相信我吗？" },
+
+      { "id": "10080_narrative", "actor": "narrative", "text": "赛克终于信了：世上哪有堵住自己退路的坏蛋？于是他让鲁西西带路，领着金猪们朝金树跑去。" },
+      { "id": "10081_narrative", "actor": "narrative", "text": "因为做过记号，鲁西西很快认出了那棵有暗道的金树。" },
+
+      { "id": "10082_luxixi", "actor": "luxixi", "text": "就是这棵树，一定要守住！再去多叫几头金猪。" },
+      { "id": "10083_narrative", "actor": "narrative", "text": "赛克派一头金猪回去叫援兵，其余金猪和鲁西西守在树周围。" },
+
+      { "id": "10084_saike", "actor": "saike", "text": "究竟是谁绑架了我妹妹？" },
+      { "id": "10085_luxixi", "actor": "luxixi", "text": "有两个人跟在我们后边进了金城。一个是我爸爸，另一个我不认识，说是什么收购珠宝的。赛璐一定是他们绑架的。" },
+      { "id": "10086_saike", "actor": "saike", "text": "他们干吗抢我妹妹？" },
+      { "id": "10087_luxixi", "actor": "luxixi", "text": "他们要去报告，说在这儿发现了一个大金库。" },
+      { "id": "10088_saike", "actor": "saike", "text": "大金库？报告？" },
+      { "id": "10089_luxixi", "actor": "luxixi", "text": "因为她是金猪呀，金子在我们那个世界里可值钱啦，谁见了金子都眼红。他们要是报告了，你们就不能再生活在自己的城市里了。" },
+
+      { "id": "10090_jinzhu", "actor": "jinzhu", "text": "他们不是喜欢我们吗？" },
+      { "id": "10091_luxixi", "actor": "luxixi", "text": "他们越是喜欢，你们就越倒楣。" },
+      { "id": "10092_saike", "actor": "saike", "text": "真可怕，绝不能放他们出去。" },
+      { "id": "10093_luxixi", "actor": "luxixi", "text": "对，一定要守住。" },
+
+      { "id": "10094_narrative", "actor": "narrative", "text": "鲁西西忽然觉得肚子饿了，也想到了一个可怕现实：金城里没有他们能吃的食物。可这丝毫没有动摇她保护金城的决心。" },
+
+      { "id": "10095_narrative", "actor": "narrative", "text": "这时，白金亲王带着几头金猪赶来了。" },
+      { "id": "10096_baijin_qinwang", "actor": "baijin_qinwang", "text": "这棵树里有暗道？" },
+      { "id": "10097_narrative", "actor": "narrative", "text": "鲁西西点点头。" },
+      { "id": "10098_baijin_qinwang", "actor": "baijin_qinwang", "text": "来人，把暗道出口打开！" },
+
+      { "id": "10099_narrative", "actor": "narrative", "text": "几头金猪立刻上前。" },
+      { "id": "10100_luxixi", "actor": "luxixi", "text": "干什么？" },
+      { "id": "10101_baijin_qinwang", "actor": "baijin_qinwang", "text": "我要出去！" },
+      { "id": "10102_narrative", "actor": "narrative", "text": "鲁西西和赛克不约而同地大吃一惊。" },
+      { "id": "10103_luxixi", "actor": "luxixi", "text": "出去？" },
+      { "id": "10104_baijin_qinwang", "actor": "baijin_qinwang", "text": "对，出去！去过好日子！" },
+      { "id": "10105_luxixi", "actor": "luxixi", "text": "过好日子？" },
+      {
+        "id": "10106_baijin_qinwang",
+        "actor": "baijin_qinwang",
+        "text": "你别装傻了！我知道，你们那个世界的人最喜欢金子！我清楚我去那里的价值，我比一座城市还值钱，对不！闪开，我要出去享福啦！！"
+      },
+
+      { "id": "10107_narrative", "actor": "narrative", "text": "原来金蝎子关于“金子价值”的话打动了白金亲王。他幻想电话、电视、飞机……越想越兴奋。" },
+
+      { "id": "10108_luxixi", "actor": "luxixi", "text": "你不能出去！你一出去，不但自己完了，连这座金城也完了！" },
+      { "id": "10109_baijin_qinwang", "actor": "baijin_qinwang", "text": "胡说八道！你是怕我们出去过好日子不成？来人，把他们赶开！" },
+      { "id": "10110_luxixi", "actor": "luxixi", "text": "赛克，不能让他们出去！" },
+
+      { "id": "10111_narrative", "actor": "narrative", "text": "白金亲王的部下冲过来。赛克和伙伴迎上去，鲁西西也冲上去帮忙。双方展开格斗。" },
+      { "id": "10112_narrative", "actor": "narrative", "text": "白金亲王人多势众，赛克这边渐渐支持不住。白金亲王摸到了金树上的秘密开关，暗道打开了。" },
+      { "id": "10113_narrative", "actor": "narrative", "text": "鲁西西和赛克被团团围住，眼看白金亲王一条腿已经迈进暗道。就在这时，赛克的援兵赶到。" },
+
+      { "id": "10114_saike", "actor": "saike", "text": "快把他拽进来！" },
+      { "id": "10115_narrative", "actor": "narrative", "text": "援兵们一拥而上，把白金亲王从暗道里硬生生拽了出来。双方又打成一团。" },
+
+      { "id": "10116_narrative", "actor": "narrative", "text": "终于，金树被赛克和伙伴们团团围住，大家手挽着手，围成一个圈，死守暗道口。" },
+      { "id": "10117_baijin_qinwang", "actor": "baijin_qinwang", "text": "你们别上她的当，她怕咱们出去过好日子！咱们大家一起出去吧！" },
+
+      { "id": "10118_narrative", "actor": "narrative", "text": "果然，越来越多金猪靠拢到白金亲王那边。金猪们忽然意识到自己身价百倍，开始躁动——他们不知道，这往往是灾难的开始。" },
+
+      { "id": "10119_saike", "actor": "saike", "text": "快去报告黄金国王！" },
+      { "id": "10120_narrative", "actor": "narrative", "text": "白金亲王发动更猛烈的攻势。赛克急坏了。" },
+
+      { "id": "10121_narrative", "actor": "narrative", "text": "与此同时，金蝎子从皮皮鲁嘴里探听到“暗室位置”，欣喜若狂。他盘算：自己背赛璐太吃力，干脆让皮皮鲁的爸爸一起背，等到了暗室门口再把爸爸反关在暗室里，让他出不来。" },
+
+      { "id": "10122_jin_xiezi", "actor": "jin_xiezi", "text": "快跑！快！" },
+      { "id": "10123_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸一心只想着去“报告”，跟在金蝎子后边使劲跑。" },
+
+      { "id": "10124_narrative", "actor": "narrative", "text": "金蝎子把皮皮鲁的爸爸带到一片小树林里。" },
+      { "id": "10125_baba", "actor": "baba", "text": "这是哪儿？" },
+      { "id": "10126_jin_xiezi", "actor": "jin_xiezi", "text": "我找了个样品？咱们报告得有样品呀！" },
+
+      { "id": "10127_narrative", "actor": "narrative", "text": "金蝎子从草丛里拎起被捆得结结实实的赛璐。" },
+      { "id": "10128_baba", "actor": "baba", "text": "这……" },
+      { "id": "10129_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸看见被五花大绑的金猪小姑娘，心里很不舒服，想把堵在她嘴里的毛巾取出来。" },
+      { "id": "10130_jin_xiezi", "actor": "jin_xiezi", "text": "别动！没这个她该叫了。你背着她，我在前边带路。" },
+      { "id": "10131_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸忽然觉得自己的行为不光彩，像贼一样，但还是不得不背起赛璐，跟在金蝎子后边。" },
+
+      { "id": "10132_narrative", "actor": "narrative", "text": "金蝎子鬼鬼祟祟走在前边，皮皮鲁的爸爸小心翼翼跟着。他们来到皮皮鲁说的那棵金树旁边。" }
+    ]
+  }
+}
