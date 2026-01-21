@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "narrative": { "voice": "zh_female_kailangjiejie_moon_bigtts" },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第一章……银门探险" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "３０９暗室的事，皮皮鲁全家对外守口如瓶。他们清楚，一旦外界知道壁柜里藏着一座金城，全家就再无宁日。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "爸爸常说：有花不完的钱不是幸福。妈妈也爱说：想买什么就能买什么是一种不幸。爸爸还爱引用萨迪的名言，劝人莫羡荣华。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "尽管皮皮鲁梦想拥有所有游戏卡，鲁西西梦想拥有所有款式的高档文具盒，可他们从未想过去金门里拿一块金子：不是自己的劳动所得，刀架在脖子上也不要。" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "爸爸妈妈看着孩子守着金城吃熬白菜而毫无怨言，更确信：皮皮鲁和鲁西西才是两座金山。" },
+      { "id": "10006_narrative", "actor": "narrative", "text": "自打见过金门里的世界后，皮皮鲁和鲁西西天天失眠：他们太想知道另外三个小门里边有什么。" },
+      { "id": "10007_narrative", "actor": "narrative", "text": "终于，他们忍不住了。" },
+
+      { "id": "10008_pipilu", "actor": "pipilu", "text": "爸爸，我想进３０９暗室的另外三个门看看。" },
+      { "id": "10009_luxixi", "actor": "luxixi", "text": "我也想看看。" },
+
+      { "id": "10010_narrative", "actor": "narrative", "text": "爸爸和妈妈用目光交换意见。其实他们也想知道银门、铜门和铁门里边有什么。" },
+
+      { "id": "10011_baba", "actor": "baba", "text": "现在咱们做准备工作，比如配钥匙什么的。等到放暑假时，咱们一起进去探险，怎么样？" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "皮皮鲁看了看日历：离放暑假只有三个星期了，他点头同意。鲁西西也没意见。" },
+      { "id": "10013_narrative", "actor": "narrative", "text": "经过讨论，全家一致同意：此次探险的目标先定为银门。" },
+      { "id": "10014_narrative", "actor": "narrative", "text": "总算熬到放暑假了。" },
+
+      { "id": "10015_pipilu", "actor": "pipilu", "text": "就我和鲁西西进３０９暗室行吗？" },
+      { "id": "10016_baba", "actor": "baba", "text": "为什么？" },
+      { "id": "10017_pipilu", "actor": "pipilu", "text": "有大人在身边还叫什么探险？" },
+
+      { "id": "10018_narrative", "actor": "narrative", "text": "爸爸想了想，同意了。他由此步入了地球上最伟大的父亲的行列。" },
+      { "id": "10019_mama", "actor": "mama", "text": "这……" },
+      { "id": "10020_narrative", "actor": "narrative", "text": "妈妈不放心，也由此步入了地球上最伟大的母亲的行列。" },
+      { "id": "10021_baba", "actor": "baba", "text": "让他们去吧，我看他俩的应变能力比咱们还强。" },
+      { "id": "10022_mama", "actor": "mama", "text": "那得带个步话机，有应付不了的情况我们好增援你们。" },
+      { "id": "10023_narrative", "actor": "narrative", "text": "皮皮鲁和鲁西西只得同意。" },
+
+      { "id": "10024_narrative", "actor": "narrative", "text": "第二天是星期日，进军银门的时间定在上午１０点整。皮皮鲁和鲁西西整装待发：食品、通讯器材、照明灯、指南针……除了没有枪，几乎武装到牙齿。" },
+
+      { "id": "10025_narrative", "actor": "narrative", "text": "１０点整。爸爸拉开壁柜门，轻轻按下３０９暗室的开关。" },
+      { "id": "10026_narrative", "actor": "narrative", "text": "暗室的门开了，一股阴冷的凉气吹进屋里。" },
+
+      { "id": "10027_baba", "actor": "baba", "text": "去吧，祝你们成功！" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "爸爸拍拍儿子的肩膀，又在女儿的脸颊上亲了一下。" },
+      { "id": "10029_mama", "actor": "mama", "text": "当心点儿！" },
+
+      { "id": "10030_narrative", "actor": "narrative", "text": "皮皮鲁冲爸爸妈妈一笑，先进了暗室。鲁西西亲了妈妈一下，跟在哥哥身后走进了３０９暗室。" },
+
+      { "id": "10031_narrative", "actor": "narrative", "text": "现在，他们站在银门旁。皮皮鲁掏出爸爸配制的钥匙，插进锁孔。" },
+
+      { "id": "10032_luxixi", "actor": "luxixi", "text": "你听！" },
+      { "id": "10033_narrative", "actor": "narrative", "text": "鲁西西示意先别开锁，把耳朵贴在银门上。皮皮鲁也凑过去听。" },
+      { "id": "10034_narrative", "actor": "narrative", "text": "流水声。银门里有水声。" },
+
+      { "id": "10035_luxixi", "actor": "luxixi", "text": "告诉爸爸妈妈吗？" },
+      { "id": "10036_narrative", "actor": "narrative", "text": "鲁西西指指拴在腰间的步话机。皮皮鲁摆摆手，打开锁，拉开银门。" },
+
+      { "id": "10037_narrative", "actor": "narrative", "text": "门里很黑。皮皮鲁扭亮手电往里照：一条石阶通向下方，水声来自台阶下边。" },
+
+      { "id": "10038_pipilu", "actor": "pipilu", "text": "进去。" },
+      { "id": "10039_narrative", "actor": "narrative", "text": "皮皮鲁朝鲁西西潇洒地挥了下手，像地道的探险家。他们沿石阶往下走，水声越来越大。" },
+
+      { "id": "10040_pipilu", "actor": "pipilu", "text": "地下河！" },
+      { "id": "10041_narrative", "actor": "narrative", "text": "台阶尽头是一条约１０米宽的地下河，两边望不见尽头。" },
+      { "id": "10042_narrative", "actor": "narrative", "text": "皮皮鲁捡起一块石头扔进水里。" },
+      { "id": "10043_narrative", "actor": "narrative", "text": "扑通！" },
+
+      { "id": "10044_pipilu", "actor": "pipilu", "text": "还挺深。" },
+
+      { "id": "10045_luxixi", "actor": "luxixi", "text": "那儿有一条船！" },
+      { "id": "10046_narrative", "actor": "narrative", "text": "皮皮鲁用手电照去：果然有条小船拴在岸边。" },
+
+      { "id": "10047_pipilu", "actor": "pipilu", "text": "上船吗？" },
+      { "id": "10048_luxixi", "actor": "luxixi", "text": "得告诉爸爸吗？" },
+      { "id": "10049_narrative", "actor": "narrative", "text": "鲁西西担心一上船就会远航，步话机有效距离只有５００米。" },
+
+      { "id": "10050_pipilu", "actor": "pipilu", "text": "要不你回去？" },
+      { "id": "10051_narrative", "actor": "narrative", "text": "皮皮鲁激妹妹。鲁西西瞪他一眼，抢先上船。" },
+
+      { "id": "10052_narrative", "actor": "narrative", "text": "皮皮鲁解开缆绳跳上船，小船离开石阶。" },
+
+      { "id": "10053_pipilu", "actor": "pipilu", "text": "你记住这个地方，不然咱们回来时可找不到家了。" },
+      { "id": "10054_narrative", "actor": "narrative", "text": "鲁西西借助手电的光记住登船位置。" },
+
+      { "id": "10055_pipilu", "actor": "pipilu", "text": "你转过身去，注意观察前方。" },
+      { "id": "10056_narrative", "actor": "narrative", "text": "鲁西西背对皮皮鲁，面朝船行方向，用手电探测前方。地下河上方和左右都是奇形怪状的岩石，她觉得这里比金门里恐怖多了。" },
+
+      { "id": "10057_pipilu", "actor": "pipilu", "text": "真棒呀！这里要是开发旅游点，一年准能赚几百万。" },
+      { "id": "10058_luxixi", "actor": "luxixi", "text": "注意！低头！" },
+
+      { "id": "10059_narrative", "actor": "narrative", "text": "一块几乎贴着水面的巨大岩石挡在前方。皮皮鲁想绕开却来不及，那岩石仿佛有吸力，小船加速撞过去。" },
+
+      { "id": "10060_pipilu", "actor": "pipilu", "text": "快跃下！" },
+      { "id": "10061_narrative", "actor": "narrative", "text": "皮皮鲁以最快速度抽出船桨，想抵消撞击。" },
+
+      { "id": "10062_narrative", "actor": "narrative", "text": "船桨与大岩石相撞的一刹那，轰然巨响。皮皮鲁以为撞上水雷，闭上眼等上帝安排。" },
+      { "id": "10063_narrative", "actor": "narrative", "text": "一分钟过去，他晃晃身体：还在。睁眼一照——大岩石竟变成了一扇门！" },
+
+      { "id": "10064_pipilu", "actor": "pipilu", "text": "鲁西西，快起来，你看我发现了什么？" },
+      { "id": "10065_narrative", "actor": "narrative", "text": "惊魂未定的鲁西西爬起来，被面前的门惊呆：那是只能在科幻电影里见到的极现代化的门。" },
+
+      { "id": "10066_narrative", "actor": "narrative", "text": "皮皮鲁把船缆拴在门旁的金属柱上，试着拉门——门开了。" }
+    ]
+  }
+}

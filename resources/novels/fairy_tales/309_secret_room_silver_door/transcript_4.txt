@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "narrative": { "voice": "zh_female_kailangjiejie_moon_bigtts" },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+
+      { "key": "dashab", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+
+      { "key": "tuoding_yinyuejia", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "jiaolian", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "guanjun", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第四章……神猪出圈" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "大傻在皮皮鲁全家的陪同下，乘坐计程车来到奥运会会歌征集处。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "一位秃顶的音乐专家坐在办公桌后边负责接收应征作品。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "爸爸为了不吓着秃顶音乐家，他替大傻将《地狱里的天堂》交给秃顶音乐家。" },
+
+      { "id": "10005_tuoding_yinyuejia", "actor": "tuoding_yinyuejia", "text": "是你谱的？" },
+      { "id": "10006_narrative", "actor": "narrative", "text": "秃顶音乐家只哼了前奏就猛然抬起头问：" },
+
+      { "id": "10007_baba", "actor": "baba", "text": "不是。" },
+      { "id": "10008_narrative", "actor": "narrative", "text": "爸爸摇摇头。" },
+
+      { "id": "10009_tuoding_yinyuejia", "actor": "tuoding_yinyuejia", "text": "作者来了吗？" },
+      { "id": "10010_narrative", "actor": "narrative", "text": "秃顶音乐家问。话语里全是激动。" },
+
+      { "id": "10011_narrative", "actor": "narrative", "text": "皮皮鲁把大傻计到秃顶音乐家面前。" },
+
+      { "id": "10012_pipilu", "actor": "pipilu", "text": "是它写的。" },
+      { "id": "10013_narrative", "actor": "narrative", "text": "皮皮鲁对秃顶音乐家说。" },
+
+      { "id": "10014_narrative", "actor": "narrative", "text": "秃顶音乐家看见一头直立的猪站在他的办公桌前边，吃了一惊。" },
+
+      { "id": "10015_tuoding_yinyuejia", "actor": "tuoding_yinyuejia", "text": "你们不能在这儿无理取闹！" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "秃顶音乐家警告说。" },
+
+      { "id": "10017_dashab", "actor": "dashab", "text": "这歌确实是我写的。你们是征集会歌还是征集种族？" },
+      { "id": "10018_narrative", "actor": "narrative", "text": "大傻问秃顶音乐家。" },
+
+      { "id": "10019_narrative", "actor": "narrative", "text": "秃顶音乐家头上残余的头发在一秒钟之内全叛变了。秃顶音乐家变成了秃头音乐家。" },
+
+      { "id": "10020_pipilu", "actor": "pipilu", "text": "你最好打电话请示一下你的头儿。" },
+      { "id": "10021_narrative", "actor": "narrative", "text": "皮皮鲁看出这位秃头音乐家接受新事物的能力极差。" },
+
+      { "id": "10022_narrative", "actor": "narrative", "text": "一句话提醒了秃头音乐家，他打电话叫来了会歌征集处处长--一位有影响的作曲家。" },
+      { "id": "10023_narrative", "actor": "narrative", "text": "不知为什么，处长听到猪作曲一点儿也不吃惊，他还说他早就对人类籍作曲家没有信心了，还说他正准备开发人类以外的生命为奥运会写会歌，比如鲸鱼啦，海豚啦什么的。" },
+      { "id": "10024_narrative", "actor": "narrative", "text": "处长哼唱了一遍《地狱里的天堂》，他的脸上大放光彩。" },
+      { "id": "10025_narrative", "actor": "narrative", "text": "他说这就是本届奥运会会歌还说如果组委会通不过他就绝食还说由一头猪谱写奥运会会歌是人类的荣幸还说既然每届奥运会都选一个动物为吉祥物干吗不能让一头猪为奥运会写会歌。……处长让秃头音乐家登记了大傻的名字和住址，他叮嘱大傻回去等着领那２０万美金。" },
+
+      { "id": "10026_narrative", "actor": "narrative", "text": "大傻和皮皮鲁全家从奥运会会歌征集处出来后，爸爸赶忙招手叫计程车，他怕行人围观大傻。" },
+      { "id": "10027_narrative", "actor": "narrative", "text": "计程车开了没几步，大傻看见路边一座建筑旁停着许多小车。" },
+
+      { "id": "10028_dashab", "actor": "dashab", "text": "那里边在干什么？" },
+      { "id": "10029_narrative", "actor": "narrative", "text": "大傻问皮皮鲁。" },
+
+      { "id": "10030_narrative", "actor": "narrative", "text": "皮皮鲁认识这座建筑是棋馆，他想起来现在棋馆里正在举行国际象棋世界冠军争夺战。皮皮鲁告诉大傻。" },
+
+      { "id": "10031_dashab", "actor": "dashab", "text": "我要去和世界冠军较量下棋。" },
+      { "id": "10032_narrative", "actor": "narrative", "text": "大傻让司机把车开到棋馆门口。" },
+
+      { "id": "10033_narrative", "actor": "narrative", "text": "谁也无法阻止大傻。" },
+
+      { "id": "10034_narrative", "actor": "narrative", "text": "冠军争夺战刚刚结束。冠军捧着鲜花准备享受在别人的国家里升自己的国旗的那种\"合理侵略\"的心情。" },
+
+      { "id": "10035_jiaolian", "actor": "jiaolian", "text": "有人向你挑战。" },
+      { "id": "10036_narrative", "actor": "narrative", "text": "冠军的教练小声对冠军说。" },
+
+      { "id": "10037_guanjun", "actor": "guanjun", "text": "不服气？" },
+      { "id": "10038_narrative", "actor": "narrative", "text": "冠军不屑一顾。" },
+
+      { "id": "10039_jiaolian", "actor": "jiaolian", "text": "是一头猪。" },
+      { "id": "10040_narrative", "actor": "narrative", "text": "教练说。" },
+
+      { "id": "10041_guanjun", "actor": "guanjun", "text": "侮辱我？" },
+      { "id": "10042_narrative", "actor": "narrative", "text": "冠军火了。" },
+
+      { "id": "10043_jiaolian", "actor": "jiaolian", "text": "好像不是一般的猪。" },
+      { "id": "10044_narrative", "actor": "narrative", "text": "教练提醒冠军。" },
+
+      { "id": "10045_guanjun", "actor": "guanjun", "text": "我不能和一头猪下棋。" },
+      { "id": "10046_narrative", "actor": "narrative", "text": "冠军维护自己的尊严。" },
+
+      { "id": "10047_narrative", "actor": "narrative", "text": "棋馆里失望的东道主棋迷们起哄了，他们本来就对异国选手登上了冠军宝座不服气，他们寻找一切可以出气的机会。" },
+      { "id": "10048_narrative", "actor": "narrative", "text": "冠军不得不和大傻下一盘，否则他出不了棋馆，连警察都采取面朝他的姿势站着。" },
+
+      { "id": "10049_narrative", "actor": "narrative", "text": "只走了三步，国际象棋大师就知道坐在自己对面的这头猪不是等闲之辈了。从第四步开始，冠军的车马相纷纷战死，到第１６步时，冠军的王忍受了丧妻之苦。到了第２１步时，冠军的王战死沙常棋馆里一片沸腾。" },
+
+      { "id": "10050_narrative", "actor": "narrative", "text": "大傻被记者包围了。" },
+      { "id": "10051_narrative", "actor": "narrative", "text": "正在进行现场直播的电视台已经把大傻轻取国际象棋大师的场面输送到千家万户的电视机里。" },
+      { "id": "10052_narrative", "actor": "narrative", "text": "神猪的出现震惊了世界。" },
+
+      { "id": "10053_baba", "actor": "baba", "text": "我看大傻是脱不了身了。" },
+      { "id": "10054_narrative", "actor": "narrative", "text": "爸爸说。" },
+
+      { "id": "10055_mama", "actor": "mama", "text": "它好像很愿意站在全世界面前呼风唤雨。" },
+      { "id": "10056_narrative", "actor": "narrative", "text": "妈妈不大喜欢大傻这种气质。" },
+
+      { "id": "10057_pipilu", "actor": "pipilu", "text": "你别忘了大傻的脑子是按照名人的大脑复制的，它当然喜欢出风头。" },
+      { "id": "10058_narrative", "actor": "narrative", "text": "皮皮鲁说。" },
+
+      { "id": "10059_luxixi", "actor": "luxixi", "text": "咱们得赶快回家，如果它说出来它是怎么变聪明的，人们非把咱们家的房子挤垮了不可。" },
+      { "id": "10060_narrative", "actor": "narrative", "text": "鲁西西说。" },
+
+      { "id": "10061_narrative", "actor": "narrative", "text": "一句话提醒了全家，爸爸一挥手：" },
+
+      { "id": "10062_baba", "actor": "baba", "text": "快回家！先把致聪盔藏起来。不然为抢它非出人命不可。" },
+
+      { "id": "10063_narrative", "actor": "narrative", "text": "皮皮鲁一进家门就先打开电视机，不知出于什么原因，大傻对于是什么使它从一头蠢猪变成神猪的缄口不谈。" },
+      { "id": "10064_narrative", "actor": "narrative", "text": "全家松了一口气。" },
+
+      { "id": "10065_narrative", "actor": "narrative", "text": "电视台的主持人认为这头智力超常的猪的出现是地球生命史上的一次重大革命。各国电视台排队租用通讯卫星，争先恐后地向本国观众转播实况。" },
+
+      { "id": "10066_narrative", "actor": "narrative", "text": "那座棋馆一举成名，馆长向大傻宣布从此该棋馆就是大傻的别墅。大傻坦然笑纳了，他还谢绝了总统邀请它下榻总统府的好意。" },
+
+      { "id": "10067_narrative", "actor": "narrative", "text": "一位极富盛名的哲学家经过抽签荣幸地成为第一个同大傻交谈的人。大傻吐出的每一个字都充满哲理都是箴言，那位哲学家茅塞顿开对于大傻对人生对宇宙对生对死的见解五体投地心悦诚服，他认为大傻将人类的哲学思想向前计进了１０００年，他还由此断定人类有了如此先进的世界观和方法论将提前进入２６世纪。" },
+
+      { "id": "10068_narrative", "actor": "narrative", "text": "众多出版社争相向大傻约稿，抢着出版《大傻文集》《大傻文逊《大傻哲学思想》。大傻极其精明地同一家有实力的出版社签订了版权合同，它还当众用一小时写成了一部洋洋５０万字的著作，专家们拜读了书稿后认定大傻是地球有史以来最伟大的思想家、哲学家、社会学家、军事学家、预言学家、经济学家。……专家们纷纷无地自容纷纷自叹不如有一位大名鼎鼎的思想家说如果大傻是大学生那他连胎教的水都够不上。" },
+
+      { "id": "10069_narrative", "actor": "narrative", "text": "出版社用６个小时的奇速出版了大傻的这部名为《人类前进指南》的著作，１００名翻译家协同作战将《人类前进指南》翻译成１００种语言出版。排队购书的人不是排在书店而是排在印刷厂的装订线终端，出一本买一本。谁都知道，早看这本书早占便宜，晚看准吃亏。人类这才知道思想的力量这才知道书籍的力量这才知道哲学的力量。" },
+
+      { "id": "10070_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸也出去抢购了一本大傻的著作拿回家来，那本墨迹未干的书全家人只看了８页就心潮澎湃，大傻对人类对宇宙对生命对地球的分析真是太透彻太精辟太入木三分了。" },
+
+      { "id": "10071_baba", "actor": "baba", "text": "生命原来是这样！社会原来是这样！" },
+      { "id": "10072_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸两眼发直嘴张开半天才说了一句话：" },
+
+      { "id": "10073_pipilu", "actor": "pipilu", "text": "智慧的头脑是人类最宝贵的财富。" },
+      { "id": "10074_narrative", "actor": "narrative", "text": "皮皮鲁有感触地说。" }
+    ]
+  }
+}

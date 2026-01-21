@@ -91,7 +91,7 @@ async def generate_voice_func(voice_key: str, raw_text: str, output_file_name: s
     full_client_request = bytearray(default_header)
     full_client_request.extend((len(payload_bytes)).to_bytes(4, 'big'))  # payload size(4 bytes)
     full_client_request.extend(payload_bytes)  # payload
-    print("\n------------------------ test 'submit' -------------------------")
+
     print("request json: ", submit_request_json)
     print("\nrequest bytes: ", full_client_request)
     file_to_save = open("output/temp/" + output_file_name + ".mp3", "wb")
@@ -131,7 +131,7 @@ async def generate_voice_func(voice_key: str, raw_text: str, output_file_name: s
 
 
 def parse_response(res, file):
-    print("--------------------------- response ---------------------------")
+    # print("--------------------------- response ---------------------------")
     # print(f"response raw bytes: {res}")
     protocol_version = res[0] >> 4
     header_size = res[0] & 0x0f
@@ -142,13 +142,15 @@ def parse_response(res, file):
     reserved = res[3]
     header_extensions = res[4:header_size*4]
     payload = res[header_size*4:]
-    print(f"            Protocol version: {protocol_version:#x} - version {protocol_version}")
-    print(f"                 Header size: {header_size:#x} - {header_size * 4} bytes ")
-    print(f"                Message type: {message_type:#x} - {MESSAGE_TYPES[message_type]}")
-    print(f" Message type specific flags: {message_type_specific_flags:#x} - {MESSAGE_TYPE_SPECIFIC_FLAGS[message_type_specific_flags]}")
-    print(f"Message serialization method: {serialization_method:#x} - {MESSAGE_SERIALIZATION_METHODS[serialization_method]}")
-    print(f"         Message compression: {message_compression:#x} - {MESSAGE_COMPRESSIONS[message_compression]}")
-    print(f"                    Reserved: {reserved:#04x}")
+
+    # print(f"            Protocol version: {protocol_version:#x} - version {protocol_version}")
+    # print(f"                 Header size: {header_size:#x} - {header_size * 4} bytes ")
+    # print(f"                Message type: {message_type:#x} - {MESSAGE_TYPES[message_type]}")
+    # print(f" Message type specific flags: {message_type_specific_flags:#x} - {MESSAGE_TYPE_SPECIFIC_FLAGS[message_type_specific_flags]}")
+    # print(f"Message serialization method: {serialization_method:#x} - {MESSAGE_SERIALIZATION_METHODS[serialization_method]}")
+    # print(f"         Message compression: {message_compression:#x} - {MESSAGE_COMPRESSIONS[message_compression]}")
+    # print(f"                    Reserved: {reserved:#04x}")
+
     if header_size != 1:
         print(f"           Header extensions: {header_extensions}")
     if message_type == 0xb:  # audio-only server response
@@ -159,8 +161,8 @@ def parse_response(res, file):
             sequence_number = int.from_bytes(payload[:4], "big", signed=True)
             payload_size = int.from_bytes(payload[4:8], "big", signed=False)
             payload = payload[8:]
-            print(f"             Sequence number: {sequence_number}")
-            print(f"                Payload size: {payload_size} bytes")
+            # print(f"             Sequence number: {sequence_number}")
+            # print(f"                Payload size: {payload_size} bytes")
         file.write(payload)
         if sequence_number < 0:
             return True

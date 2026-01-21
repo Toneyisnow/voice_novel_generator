@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "narrative": { "voice": "zh_female_kailangjiejie_moon_bigtts" },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "migong", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第五章" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "大傻在短短的几个小时里成为全世界瞩目的焦点，它的脑子太聪明了，各国各个阶层各行各业的人通过各种渠道各种途径各种方式向它求教。大傻成了人类的第一智囊。" },
+
+      { "id": "10003_narrative", "actor": "narrative", "text": "有一个国家经济落后人民贫困，大傻只趴在那个国家总统的耳朵上说了２０个字，那穷总统回国一试，该国经济立刻腾飞，转眼就跨入发达国家的行列。该国国内市场立即饱和于是转而寻求国外市常可是所有的穷国在尝试了大傻面授机宜的经济政策后都在一夜之间变成了富国，都要寻求国外市场都不再进口别国的产品。产品生产了卖不出去意味着什么连三岁小孩都清楚。人一直穷没事，富了再穷就不会那么太爽了。国与国之间的关系日趋紧张，谁都想用本国的产品来占领别国的市场，谁都想把别国的产品挤出本国的市常于是关税越来越高最惠国待遇越来越少不少国家已经动了用坦克和轰炸机将本国产品运送到别国的念头，甚至有一个国家想把该国生产的可乐型饮料和高帮真皮旅游鞋绑在洲际导弹上发射到别的国家的市场上去。" },
+
+      { "id": "10004_narrative", "actor": "narrative", "text": "大傻还帮助人类开发了一种新能源，这种新能源的出现把煤、石油和核动力打入了十八层地狱，这种能源本来应该在２９世纪才轮到人类使用，可是大傻超前的智力硬是将它开发出来了。" },
+
+      { "id": "10005_narrative", "actor": "narrative", "text": "大傻还发明了一种极现代化的全自动机，这种机器的使用导致了１０亿工人的失业。失业人员百无聊赖，他们酗酒他们赌博他们抢银行他们杀人越货。" },
+
+      { "id": "10006_narrative", "actor": "narrative", "text": "时装设计师们在大傻的指点下计出了一种全透明无纤维的服装，说白了，这种服装就是什么也不穿。大傻认为，人类社会到了最高级阶段就是什么也不穿，就是回归自然。时装设计师们说好事不能全让人类的子孙后代占了，既然咱们已经知道了人类发展到高级阶段的内容，就没有必要一步一步走过去，不如提前进入高级阶段，也好将上帝恩赐给人类的幸福从子孙手中分得一半。" },
+
+      { "id": "10007_narrative", "actor": "narrative", "text": "于是，几个国家率先进入了人类社会的高级阶段，国家宪法规定任何人不得着装违者处以极刑。自从颁布了该法令，这几个国家的出生率呈洪水势头上升，而且大多数新生儿只知其母不知其父。" },
+
+      { "id": "10008_narrative", "actor": "narrative", "text": "皮皮鲁全家被大傻在地球上的种种叱咤风云的行为弄得目瞪口呆。爸爸的朋友由于经理买了一台能顶１００００个人用的超级电脑而被解雇。妈妈的朋友所在的医院由于大傻发明了一种人一生下来只需要服用一丸就可以终身不生病能活到２００岁的免疫长寿丸而倒闭。皮皮鲁和鲁西西倒挺高兴，不少学校由于人类光生不死而改为养老院。他们学校也快出现这么一天。" },
+
+      { "id": "10009_pipilu", "actor": "pipilu", "text": "致聪盔呢？" },
+      { "id": "10010_narrative", "actor": "narrative", "text": "皮皮鲁也要把自己变成伟人，可他找不到致聪盔了。" },
+
+      { "id": "10011_baba", "actor": "baba", "text": "我给藏起来了。" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "爸爸严肃地说。" },
+
+      { "id": "10013_pipilu", "actor": "pipilu", "text": "为什么？" },
+      { "id": "10014_narrative", "actor": "narrative", "text": "皮皮鲁急了。" },
+
+      { "id": "10015_baba", "actor": "baba", "text": "一个大傻就把地球弄成这个样子，要是再出一个，地球非两半不可。" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "爸爸没想到大傻的出现会导致他失业。" },
+
+      { "id": "10017_mama", "actor": "mama", "text": "大傻的见解的确先进，它发明的那些新技术每一项都称得上是一次工业革命，可为什么地球会变成这个样子呢？" },
+      { "id": "10018_narrative", "actor": "narrative", "text": "妈妈叹气。" },
+
+      { "id": "10019_narrative", "actor": "narrative", "text": "皮皮鲁陷入了沉思，他眼睛一亮：" },
+      { "id": "10020_pipilu", "actor": "pipilu", "text": "我觉得历史前进是有正常速度的。加速历史的进程等于是加速人类的死亡。" },
+
+      { "id": "10021_baba", "actor": "baba", "text": "皮皮鲁的话有道理！" },
+      { "id": "10022_narrative", "actor": "narrative", "text": "爸爸被儿子的话提醒了，" },
+      { "id": "10023_baba", "actor": "baba", "text": "假如上帝只分配给每一个时代２０个伟人，可有人却把伟人的数量增加到１００个，人类历史的进程就会突然加快，人类承受得了吗？" },
+
+      { "id": "10024_luxixi", "actor": "luxixi", "text": "没错，大傻把人类在２９世纪才应该使用的能源提前到现在就使用了，这不是缩短了人类的历史吗？缩短就是减寿呀！" },
+      { "id": "10025_narrative", "actor": "narrative", "text": "鲁西西说。" },
+
+      { "id": "10026_pipilu", "actor": "pipilu", "text": "我看，这也是一种生态平衡：普通人使历史进程不致于太快，伟人使历史进程不致于太慢，双方的数量是上帝定好的。一旦打奇这个平衡，人类将面临灾难。" },
+      { "id": "10027_narrative", "actor": "narrative", "text": "皮皮鲁总结道。" },
+
+      { "id": "10028_mama", "actor": "mama", "text": "照你这么说，普通人对人类历史的贡献一点儿也不比伟人少？" },
+      { "id": "10029_narrative", "actor": "narrative", "text": "妈妈问。" },
+
+      { "id": "10030_pipilu", "actor": "pipilu", "text": "当然。甚至可以说，普通人对人类历史的贡献比伟人还要大。你想想，如果人类全是伟人，早上刀耕火种，上午就发明电影，中午坐上飞机，下午出发去月球，晚上爆发中子战争，一天就活完了。" },
+      { "id": "10031_narrative", "actor": "narrative", "text": "皮皮鲁侃侃而谈。" },
+
+      { "id": "10032_narrative", "actor": "narrative", "text": "爸爸妈妈和鲁西西连连点头，他们不得不承认皮皮鲁的话含有真理性。" },
+
+      { "id": "10033_narrative", "actor": "narrative", "text": "突然，全家人不约而同地站起来。" },
+
+      { "id": "10034_pipilu", "actor": "pipilu", "text": "去找觅工！" },
+      { "id": "10035_baba", "actor": "baba", "text": "去找觅工！" },
+      { "id": "10036_mama", "actor": "mama", "text": "去找觅工！" },
+      { "id": "10037_luxixi", "actor": "luxixi", "text": "去找觅工！" },
+      { "id": "10038_narrative", "actor": "narrative", "text": "四条声带异口同声。" },
+
+      { "id": "10039_narrative", "actor": "narrative", "text": "他们要把致聪盔在人间的试验结果告诉觅工，他们要请求觅工将致聪盔改造成致痴盔，他们要不惜一切代价给大傻戴上致痴盔，把它大脑里的那个Ｚ沟回打掉，当然，照大傻现在的智力来说，这是一件比打穿地球还难的事，但皮皮鲁全家一定要前赴后继地完成这件事，是他们打奇了地球生命中普通人与伟人的比例，并由此给人类带来了灾难，他们有责任纠正这个错误。" },
+
+      { "id": "10040_narrative", "actor": "narrative", "text": "当皮皮鲁兄妹和父母来到３０９暗室银门里的名人大脑实验室时，觅工已经奄奄一息了。" },
+
+      { "id": "10041_narrative", "actor": "narrative", "text": "当他看见皮皮鲁兄妹时，他的眼睛里发出了期待的光。" },
+
+      { "id": "10042_narrative", "actor": "narrative", "text": "皮皮鲁不忍心刺激一个临死的人。" },
+
+      { "id": "10043_migong", "actor": "migong", "text": "成功了吗？" },
+      { "id": "10044_narrative", "actor": "narrative", "text": "觅工问。" },
+
+      { "id": "10045_mama", "actor": "mama", "text": "幸亏还只是一头猪变成了伟人，如果用人做实验，后果更不堪设想。" },
+      { "id": "10046_narrative", "actor": "narrative", "text": "妈妈说。" },
+
+      { "id": "10047_migong", "actor": "migong", "text": "致聪盔呢？" },
+      { "id": "10048_narrative", "actor": "narrative", "text": "觅工问。" },
+
+      { "id": "10049_narrative", "actor": "narrative", "text": "爸爸将致聪盔递给觅工。" },
+
+      { "id": "10050_narrative", "actor": "narrative", "text": "觅工要摔致聪盔。" },
+
+      { "id": "10051_pipilu", "actor": "pipilu", "text": "您别摔，把它改成致痴盔吧，我们要尽一切努力让那头伟猪恢复原态。否则人类真完了。" },
+      { "id": "10052_narrative", "actor": "narrative", "text": "皮皮鲁制止觅工。" },
+
+      { "id": "10053_narrative", "actor": "narrative", "text": "觅工眼里闪出一丝希望。" },
+
+      { "id": "10054_migong", "actor": "migong", "text": "好主意。" },
+      { "id": "10055_narrative", "actor": "narrative", "text": "他挣扎着想从床上坐起来，但力不从心。" },
+
+      { "id": "10056_narrative", "actor": "narrative", "text": "爸爸妈妈对觅工的身体状况能否承担将致聪盔改造成致痴盔的历史重任表示怀疑。" },
+
+      { "id": "10057_narrative", "actor": "narrative", "text": "妈妈是医生，她给觅工进行了体检。" },
+
+      { "id": "10058_mama", "actor": "mama", "text": "情况很危险，估计他只能再活一个小时。" },
+      { "id": "10059_narrative", "actor": "narrative", "text": "妈妈小声告诉家人。" },
+
+      { "id": "10060_narrative", "actor": "narrative", "text": "一个小时！即使是伟猪也不能在一小时之内把致聪盔改造成致痴盔。" },
+
+      { "id": "10061_pipilu", "actor": "pipilu", "text": "有办法了，我去人间找一粒大傻发明的免疫长寿丸给觅工吃！" },
+      { "id": "10062_narrative", "actor": "narrative", "text": "皮皮鲁撒腿就跑。" },
+
+      { "id": "10063_narrative", "actor": "narrative", "text": "用大傻发明的药挽救觅工的生命，再让觅工发明使大傻变傻的仪器。人类的哲学。" },
+
+      { "id": "10064_narrative", "actor": "narrative", "text": "皮皮鲁能在一小时之内拿着免疫长寿丸赶回名人大脑实验室吗？" },
+
+      { "id": "10065_narrative", "actor": "narrative", "text": "现在还不得而知。" },
+
+      { "id": "10066_narrative", "actor": "narrative", "text": "不过有一点可以告诉你，皮皮鲁在奔跑时为自己是一个普通人感到自豪。他终于知道了，作为一个普通人，他对历史的贡献与伟人对历史的贡献是对半儿分的。" },
+
+      { "id": "10067_narrative", "actor": "narrative", "text": "皮皮鲁点点头。" },
+
+      { "id": "10068_migong", "actor": "migong", "text": "谢谢你们。" },
+      { "id": "10069_narrative", "actor": "narrative", "text": "觅工脸上呈现幸福状，他准备死了。" },
+
+      { "id": "10070_baba", "actor": "baba", "text": "您不能死！" },
+      { "id": "10071_mama", "actor": "mama", "text": "您不能死！" },
+      { "id": "10072_pipilu", "actor": "pipilu", "text": "您不能死！" },
+      { "id": "10073_luxixi", "actor": "luxixi", "text": "您不能死！" },
+      { "id": "10074_narrative", "actor": "narrative", "text": "皮皮鲁全家一起制止觅工离开生命。" },
+
+      { "id": "10075_migong", "actor": "migong", "text": "为什么？" },
+      { "id": "10076_narrative", "actor": "narrative", "text": "觅工睁开眼睛。" },
+
+      { "id": "10077_narrative", "actor": "narrative", "text": "鲁西西不得不将那头猪变成伟人后的所作所为告诉觅工。" },
+
+      { "id": "10078_narrative", "actor": "narrative", "text": "觅工傻眼了。" },
+
+      { "id": "10079_migong", "actor": "migong", "text": "这么说，我想计动人类历史前进，其结果却是缩短了人类历史？" },
+      { "id": "10080_narrative", "actor": "narrative", "text": "觅工喃喃自语。" },
+
+      { "id": "10081_baba", "actor": "baba", "text": "您的愿望是好的。" },
+      { "id": "10082_narrative", "actor": "narrative", "text": "皮皮鲁的爸爸安慰觅工。" },
+
+      { "id": "10083_migong", "actor": "migong", "text": "效果却不好。" },
+      { "id": "10084_narrative", "actor": "narrative", "text": "觅工叹了口气，" },
+      { "id": "10085_migong", "actor": "migong", "text": "我怎么如此天真？！" },
+
+      { "id": "10086_mama", "actor": "mama", "text": "幸亏还只是一头猪变成了伟人，如果用人做实验，后果更不堪设想。" },
+      { "id": "10087_narrative", "actor": "narrative", "text": "妈妈说。" },
+
+      { "id": "10088_migong", "actor": "migong", "text": "致聪盔呢？" },
+      { "id": "10089_narrative", "actor": "narrative", "text": "觅工问。" },
+
+      { "id": "10090_narrative", "actor": "narrative", "text": "爸爸将致聪盔递给觅工。" },
+
+      { "id": "10091_narrative", "actor": "narrative", "text": "觅工要摔致聪盔。" },
+
+      { "id": "10092_pipilu", "actor": "pipilu", "text": "您别摔，把它改成致痴盔吧，我们要尽一切努力让那头伟猪恢复原态。否则人类真完了。" },
+      { "id": "10093_narrative", "actor": "narrative", "text": "皮皮鲁制止觅工。" },
+
+      { "id": "10094_narrative", "actor": "narrative", "text": "觅工眼里闪出一丝希望。" },
+
+      { "id": "10095_migong", "actor": "migong", "text": "好主意。" },
+      { "id": "10096_narrative", "actor": "narrative", "text": "他挣扎着想从床上坐起来，但力不从心。" },
+
+      { "id": "10097_narrative", "actor": "narrative", "text": "爸爸妈妈对觅工的身体状况能否承担将致聪盔改造成致痴盔的历史重任表示怀疑。" },
+
+      { "id": "10098_narrative", "actor": "narrative", "text": "妈妈是医生，她给觅工进行了体检。" },
+
+      { "id": "10099_mama", "actor": "mama", "text": "情况很危险，估计他只能再活一个小时。" },
+      { "id": "10100_narrative", "actor": "narrative", "text": "妈妈小声告诉家人。" },
+
+      { "id": "10101_narrative", "actor": "narrative", "text": "一个小时！即使是伟猪也不能在一小时之内把致聪盔改造成致痴盔。" },
+
+      { "id": "10102_pipilu", "actor": "pipilu", "text": "有办法了，我去人间找一粒大傻发明的免疫长寿丸给觅工吃！" },
+      { "id": "10103_narrative", "actor": "narrative", "text": "皮皮鲁撒腿就跑。" },
+
+      { "id": "10104_narrative", "actor": "narrative", "text": "用大傻发明的药挽救觅工的生命，再让觅工发明使大傻变傻的仪器。人类的哲学。" },
+
+      { "id": "10105_narrative", "actor": "narrative", "text": "皮皮鲁能在一小时之内拿着免疫长寿丸赶回名人大脑实验室吗？" },
+
+      { "id": "10106_narrative", "actor": "narrative", "text": "现在还不得而知。" },
+
+      { "id": "10107_narrative", "actor": "narrative", "text": "不过有一点可以告诉你，皮皮鲁在奔跑时为自己是一个普通人感到自豪。他终于知道了，作为一个普通人，他对历史的贡献与伟人对历史的贡献是对半儿分的。" }
+    ]
+  }
+}

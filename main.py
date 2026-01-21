@@ -8,7 +8,7 @@ from volc.volc_websocket import volc_generate_voice
 
 def main_generate():
     # 读取 JSON 文件
-    with open('resources/novels/fairy_tales/309_secret_room_golden_door/transcript_5.txt', 'r', encoding='utf-8') as f:
+    with open('resources/novels/fairy_tales/309_secret_room_silver_door/transcript_3.txt', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     # 获取演员和旁白的配音映射
@@ -21,10 +21,10 @@ def main_generate():
     # 遍历 paragraphs
     for paragraph in data["contents"]["paragraphs"]:
 
-        # count = count + 1
-        # if count < 15:
+        count = count + 1
+        # if count < 66:
         #     continue
-        #
+
         # if count > 16:
         #     break
 

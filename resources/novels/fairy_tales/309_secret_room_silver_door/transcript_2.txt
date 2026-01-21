@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "narrative": { "voice": "zh_female_kailangjiejie_moon_bigtts" },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+
+      { "key": "migong", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第二章……名人大脑实验室" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "门里有灯光。皮皮鲁和鲁西西吃了一惊：有灯光就说明有人。皮皮鲁先跨进去，又回身把鲁西西拉了进去。通道像船舱走廊，墙上有壁灯。鲁西西莫名觉得这儿比怪石洞还可怕。" },
+
+      { "id": "10003_pipilu", "actor": "pipilu", "text": "你在这儿等着，我进去看看。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "皮皮鲁直觉到危险性，示意妹妹留下。" },
+      { "id": "10005_luxixi", "actor": "luxixi", "text": "我和你一起去。" },
+
+      { "id": "10006_pipilu", "actor": "pipilu", "text": "遇到紧急情况时，你抓紧和爸爸通话，但愿咱们现在还在有效通话距离内。" },
+      { "id": "10007_narrative", "actor": "narrative", "text": "鲁西西把步话机拿在手里，紧跟哥哥向通道深处走去。拐了弯，前边又是一扇门。皮皮鲁贴耳听，里边没动静，才小心拉门。门开了，里边漆黑一片。" },
+
+      { "id": "10008_pipilu", "actor": "pipilu", "text": "手电。" },
+      { "id": "10009_narrative", "actor": "narrative", "text": "皮皮鲁伸手向后要手电。" },
+      { "id": "10010_luxixi", "actor": "luxixi", "text": "我回去拿。" },
+      { "id": "10011_pipilu", "actor": "pipilu", "text": "不用了，里边准有灯，咱们借着通道里的光线找找开关。" },
+
+      { "id": "10012_narrative", "actor": "narrative", "text": "两人走进门里，突然灯亮了。鲁西西一看四周，尖叫着死死抓住皮皮鲁的胳膊。皮皮鲁也倒抽凉气。" },
+
+      { "id": "10013_luxixi", "actor": "luxixi", "text": "啊——" },
+
+      { "id": "10014_narrative", "actor": "narrative", "text": "这是一间类似实验室的房间，长桌上摆着数百个大玻璃罐，每个罐里泡着一颗人头，琥珀色液体像甲醛。房间里还有许多仪器。" },
+
+      { "id": "10015_pipilu", "actor": "pipilu", "text": "别怕，都是死的。" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "皮皮鲁给鲁西西打气，其实他的手也在发抖。" },
+
+      { "id": "10017_pipilu", "actor": "pipilu", "text": "我怎么觉得这些人头都挺面熟，好像在哪儿见过。" },
+      { "id": "10018_luxixi", "actor": "luxixi", "text": "你别吓唬我！" },
+      { "id": "10019_pipilu", "actor": "pipilu", "text": "真的，不信你看这颗，我敢发誓我在一个星期之内见过他！" },
+
+      { "id": "10020_narrative", "actor": "narrative", "text": "鲁西西壮着胆子看了一眼，的确面熟。" },
+      { "id": "10021_pipilu", "actor": "pipilu", "text": "我想起来了，是贝多芬！" },
+      { "id": "10022_luxixi", "actor": "luxixi", "text": "没错，真是贝多芬的头！" },
+
+      { "id": "10023_pipilu", "actor": "pipilu", "text": "贝多芬的头怎么会在这儿？" },
+      { "id": "10024_luxixi", "actor": "luxixi", "text": "玻璃罐下边有字。" },
+
+      { "id": "10025_pipilu", "actor": "pipilu", "text": "海明威。" },
+      { "id": "10026_narrative", "actor": "narrative", "text": "接着还有梵高、罗丹、曹雪芹、托尔斯泰、郑成功、达·芬奇、居里夫人、林肯、邱吉尔、爱因斯坦、莫扎特、米开朗基罗、牛顿、伽利略、罗斯福、瓦特……近四百年来几乎所有名人伟人的头都被囊括了！" },
+
+      { "id": "10027_narrative", "actor": "narrative", "text": "皮皮鲁和鲁西西目瞪口呆：他们进银门前做过无数猜测，却无论如何也想不到自家暗室里会荟萃这么多名人的头颅。是谁弄来的？要干什么？" },
+
+      { "id": "10028_narrative", "actor": "narrative", "text": "正当他们想到这里，房间另一侧的门开了，一个坐轮椅的老头出现了。" },
+
+      { "id": "10029_migong", "actor": "migong", "text": "我终于盼到这一天了。" },
+
+      { "id": "10030_narrative", "actor": "narrative", "text": "皮皮鲁和鲁西西对视一眼，又一起看向老头。" },
+
+      { "id": "10031_pipilu", "actor": "pipilu", "text": "您是谁？" },
+      { "id": "10032_migong", "actor": "migong", "text": "你们叫我觅工好了。寻觅的觅，工程师的工。" },
+
+      { "id": "10033_pipilu", "actor": "pipilu", "text": "我叫皮皮鲁，她是我妹妹，叫鲁西西。" },
+
+      { "id": "10034_migong", "actor": "migong", "text": "这是一座实验室，全称是名人大脑实验室。你们已经看见了，我这儿收集了许多名人的头。我认为名人的大脑一定有它的特殊之处，我的工作就是找出这个特殊之处，再用某种方法让普通人的大脑也出现这种特殊之处，这样人人都能变聪明，人类历史的进程将大大被推进。" },
+
+      { "id": "10035_pipilu", "actor": "pipilu", "text": "您的工作很伟大。" },
+
+      { "id": "10036_luxixi", "actor": "luxixi", "text": "您干吗要躲在这儿试验？" },
+
+      { "id": "10037_migong", "actor": "migong", "text": "我是要离开世俗的干扰。我收集到这些名人的头后，就让家人将我封闭在这里，出路只能从外边打开，从里边绝对打不开出口。后来不知什么原因，他们没有来。我只好在这实验室里听天由命了。我估计我只能再活一个月了。谢天谢地，我总算把你们盼来了。" },
+
+      { "id": "10038_narrative", "actor": "narrative", "text": "皮皮鲁从觅工的语气里感觉：自己马上要面对一项改变人类的发明。" },
+
+      { "id": "10039_pipilu", "actor": "pipilu", "text": "您的研究成功了？" },
+      { "id": "10040_narrative", "actor": "narrative", "text": "觅工点点头。鲁西西有点喘不过气：她知道这意味着什么。" },
+
+      { "id": "10041_narrative", "actor": "narrative", "text": "觅工解释：解剖大量名人大脑后，他发现所有名人的大脑上都有一个Z形沟回；他证实正是这个Z形沟回导致名人的智商远高于常人，而普通人绝对没有这个Z形沟回。" },
+
+      { "id": "10042_narrative", "actor": "narrative", "text": "皮皮鲁下意识摸摸自己的头，不知道自己有没有Z。" },
+
+      { "id": "10043_migong", "actor": "migong", "text": "你不用担心，我已经发明出能使普通人的大脑上也出现Z形沟回的仪器。" },
+      { "id": "10044_pipilu", "actor": "pipilu", "text": "太棒了！" },
+
+      { "id": "10045_narrative", "actor": "narrative", "text": "觅工把轮椅转了180度，打开柜子，取出一顶头盔。" },
+
+      { "id": "10046_pipilu", "actor": "pipilu", "text": "头盔？" },
+      { "id": "10047_migong", "actor": "migong", "text": "这可不是一般的头盔。我给它取名为致聪盔。戴上它，通电十分钟，任何人的大脑上都会出现Z形沟回。" },
+
+      { "id": "10048_pipilu", "actor": "pipilu", "text": "我戴上试试。" },
+      { "id": "10049_migong", "actor": "migong", "text": "唯一的遗憾是，这顶致聪盔还没做过任何试验。" },
+
+      { "id": "10050_narrative", "actor": "narrative", "text": "皮皮鲁毫不犹豫，像要上战场一样挺起胸。" },
+      { "id": "10051_pipilu", "actor": "pipilu", "text": "就在我头上试吧！" },
+
+      { "id": "10052_migong", "actor": "migong", "text": "我从不拿活人做试验。最初的试验只能在动物身上进行。" },
+      { "id": "10053_pipilu", "actor": "pipilu", "text": "这儿有动物吗？" },
+      { "id": "10054_narrative", "actor": "narrative", "text": "觅工摇摇头。" },
+
+      { "id": "10055_migong", "actor": "migong", "text": "这就是为什么你们的到来使我高兴的原因。我拜托你们拿着致聪盔去外边在动物身上做试验。" },
+
+      { "id": "10056_narrative", "actor": "narrative", "text": "皮皮鲁的眼泪一下涌出来：他强烈感受到人与人之间信任的力量。" },
+      { "id": "10057_pipilu", "actor": "pipilu", "text": "您这么相信我们？" },
+
+      { "id": "10058_migong", "actor": "migong", "text": "我是专门研究人的。我看得出，你们是正直、善良的孩子。我完全信任你们。" },
+
+      { "id": "10059_luxixi", "actor": "luxixi", "text": "您和我们一起出去吧！" },
+      { "id": "10060_migong", "actor": "migong", "text": "我不能动了，没体力了。我在这儿等你们的消息。如果成功了，你们就把致聪盔献给人类，千万不要申请什么专利，要无偿献给人类。如果失败了，快些来找我，我再对它进行修改。" },
+
+      { "id": "10061_narrative", "actor": "narrative", "text": "觅工把致聪盔递到皮皮鲁手中。皮皮鲁觉得自己拿的不是头盔，是地球。" },
+
+      { "id": "10062_luxixi", "actor": "luxixi", "text": "在什么动物身上做实验呢？" },
+      { "id": "10063_migong", "actor": "migong", "text": "就找一头猪做试验吧，不是都说猪最笨吗？" },
+
+      { "id": "10064_narrative", "actor": "narrative", "text": "觅工又把致聪盔的具体操作方法教给皮皮鲁和鲁西西。" },
+
+      { "id": "10065_pipilu", "actor": "pipilu", "text": "您放心，我们一定尽快完成试验。" },
+      { "id": "10066_migong", "actor": "migong", "text": "谢谢。" },
+
+      { "id": "10067_narrative", "actor": "narrative", "text": "觅工目送皮皮鲁和鲁西西拿着致聪盔离开名人大脑实验室。" }
+    ]
+  }
+}
+
