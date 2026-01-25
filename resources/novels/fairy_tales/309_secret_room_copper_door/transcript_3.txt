@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "narrative": { "voice": "zh_female_kailangjiejie_moon_bigtts" },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "dasha", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第三章……地球控制室" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "全家人的目光都随着皮皮鲁的目光落在了壁橱上。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "心有灵犀一点通。" },
+
+      { "id": "10004_baba", "actor": "baba", "text": "你怀疑天气突然变化与大傻有关？" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "爸爸问儿子。" },
+
+      { "id": "10006_pipilu", "actor": "pipilu", "text": "大傻进了３０９暗室的当天晚上夏天突然变成了冬天，这不是巧合吧？" },
+      { "id": "10007_pipilu", "actor": "pipilu", "text": "我若有所思地说。" },
+
+      { "id": "10008_luxixi", "actor": "luxixi", "text": "３０９暗室里还能操纵天气？" },
+      { "id": "10009_narrative", "actor": "narrative", "text": "鲁西西对哥哥的判断持怀疑态度。" },
+
+      { "id": "10010_pipilu", "actor": "pipilu", "text": "你别忘了，咱们还不知道铜门和铁门里边是什么呢！" },
+      { "id": "10011_narrative", "actor": "narrative", "text": "皮皮鲁提醒妹妹。" },
+
+      { "id": "10012_baba", "actor": "baba", "text": "我觉得咱们有必要进去看看。我担心一会儿整个地球刮龙卷风。" },
+      { "id": "10013_narrative", "actor": "narrative", "text": "爸爸站起来。" },
+
+      { "id": "10014_mama", "actor": "mama", "text": "大傻如果冲出来怎么办？" },
+
+      { "id": "10015_pipilu", "actor": "pipilu", "text": "咱们四个人联合起来在体力上应该能对付它。" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "皮皮鲁有信心。" },
+
+      { "id": "10017_baba", "actor": "baba", "text": "准备行动吧。" },
+      { "id": "10018_narrative", "actor": "narrative", "text": "爸爸开始分工。" },
+
+      { "id": "10019_narrative", "actor": "narrative", "text": "半小时后，一切准备工作就绪。" },
+      { "id": "10020_narrative", "actor": "narrative", "text": "每个人的头上都缠上了厚厚的毛巾--防止大傻将致痴盔给皮皮鲁及全家人戴上。" },
+      { "id": "10021_narrative", "actor": "narrative", "text": "致痴盔由爸爸拎着。" },
+
+      { "id": "10022_baba", "actor": "baba", "text": "打开３０９暗室的门时，如果大傻没有冲出来，我就和皮皮鲁进去，你们在外边把暗室的门关上，咱们通过对讲机联系。" },
+      { "id": "10023_baba", "actor": "baba", "text": "我们不让开门，你们千万别开。" },
+      { "id": "10024_narrative", "actor": "narrative", "text": "爸爸对妈妈说。" },
+      { "id": "10025_narrative", "actor": "narrative", "text": "妈妈脸上全是永别的表情。" },
+
+      { "id": "10026_narrative", "actor": "narrative", "text": "３０９暗室的门打开了，没有大傻的身影，大家松了一口气。" },
+
+      { "id": "10027_narrative", "actor": "narrative", "text": "皮皮鲁和爸爸进入了３０９暗室，暗室的大门在他们身后关上了。" },
+
+      { "id": "10028_narrative", "actor": "narrative", "text": "皮皮鲁和爸爸一前一后地沿着石阶下到了四方形走廊。" },
+      { "id": "10029_narrative", "actor": "narrative", "text": "没有大傻。" },
+
+      { "id": "10030_pipilu", "actor": "pipilu", "text": "爸爸，你看！" },
+      { "id": "10031_narrative", "actor": "narrative", "text": "皮皮鲁指着铜门说。" },
+
+      { "id": "10032_narrative", "actor": "narrative", "text": "铜门上的锁被打开了。" },
+
+      { "id": "10033_baba", "actor": "baba", "text": "大傻在铜门里！" },
+      { "id": "10034_narrative", "actor": "narrative", "text": "爸爸断定。" },
+
+      { "id": "10035_narrative", "actor": "narrative", "text": "铜门里边对于皮皮鲁和爸爸来说，是个陌生的世界。" },
+
+      { "id": "10036_narrative", "actor": "narrative", "text": "告诉上边，咱们准备进铜门。" },
+      { "id": "10037_narrative", "actor": "narrative", "text": "爸爸冲皮皮鲁打了个对讲机的手势。" },
+
+      { "id": "10038_narrative", "actor": "narrative", "text": "皮皮鲁使用对讲机告诉妈妈和鲁西西，他和爸爸要进铜门了。" },
+
+      { "id": "10039_narrative", "actor": "narrative", "text": "爸爸轻轻将铜门打开一道缝儿，里边没反应，很静。" },
+
+      { "id": "10040_narrative", "actor": "narrative", "text": "铜门打开了，眼前的景象确实使皮皮鲁和爸爸吃了一惊。" },
+      { "id": "10041_narrative", "actor": "narrative", "text": "他俩在打开铜门之前充分发挥自己的想象力做了种种设想，都没猜对。" },
+
+      { "id": "10042_narrative", "actor": "narrative", "text": "铜门里是一部升降电梯。" },
+
+      { "id": "10043_narrative", "actor": "narrative", "text": "爸爸按了电梯的按钮。" },
+      { "id": "10044_narrative", "actor": "narrative", "text": "电梯门上方的一排指示灯开始依次闪亮。" },
+
+      { "id": "10045_narrative", "actor": "narrative", "text": "大约过了一分钟，电梯门打开了。" },
+      { "id": "10046_narrative", "actor": "narrative", "text": "电梯很小，看样子只能容纳３个人。" },
+
+      { "id": "10047_narrative", "actor": "narrative", "text": "皮皮鲁和爸爸跨入电梯，爸爸按了运行按钮。" },
+
+      { "id": "10048_narrative", "actor": "narrative", "text": "电梯风驰电掣般地下降，皮皮鲁感到头有点儿晕。" },
+
+      { "id": "10049_narrative", "actor": "narrative", "text": "一分钟后，电梯停住了。" },
+
+      { "id": "10050_baba", "actor": "baba", "text": "咱们起码下降了８００米。" },
+      { "id": "10051_narrative", "actor": "narrative", "text": "爸爸估算。" },
+
+      { "id": "10052_narrative", "actor": "narrative", "text": "电梯门开了，外边是一间充满神秘情调的房间。房间的墙壁上有许多莫名其妙的图案。" },
+
+      { "id": "10053_narrative", "actor": "narrative", "text": "爸爸先走出电梯，皮皮鲁跟在后边。" },
+
+      { "id": "10054_pipilu", "actor": "pipilu", "text": "那儿有一扇门。" },
+      { "id": "10055_narrative", "actor": "narrative", "text": "皮皮鲁指给爸爸看。" },
+
+      { "id": "10056_narrative", "actor": "narrative", "text": "他们蹑手蹑脚接近那扇门，门上的字使他们愕然。" },
+
+      { "id": "10057_narrative", "actor": "narrative", "text": "地球运行控制室" },
+
+      { "id": "10058_narrative", "actor": "narrative", "text": "皮皮鲁和爸爸对视。两个人的目光里全是惊叹号。" },
+
+      { "id": "10059_narrative", "actor": "narrative", "text": "如果地球的运行是靠一个控制室控制的话，那么他们接受过的所有关于地球的历史的学说都成了谬论。" },
+
+      { "id": "10060_baba", "actor": "baba", "text": "这不可能！这是恶作剧。" },
+      { "id": "10061_narrative", "actor": "narrative", "text": "爸爸的头脑里有关地球的概念已经根深蒂固，他不能接受任何违背他已拥有的概念的\"异端邪说\"。" },
+
+      { "id": "10062_pipilu", "actor": "pipilu", "text": "我进去看看。" },
+      { "id": "10063_narrative", "actor": "narrative", "text": "皮皮鲁对地球运行控制室特感兴趣。" },
+
+      { "id": "10064_baba", "actor": "baba", "text": "当心点儿。" },
+      { "id": "10065_baba", "actor": "baba", "text": "我在外边接应你。" },
+      { "id": "10066_narrative", "actor": "narrative", "text": "爸爸同意了。" },
+
+      { "id": "10067_narrative", "actor": "narrative", "text": "皮皮鲁打开地球运行控制室的门，迎面是一张宇宙星际图。" },
+
+      { "id": "10068_narrative", "actor": "narrative", "text": "星际图后边是一座透明的玻璃房间。房间里有一个造型奇特的操纵台，大傻正坐在操纵台前摆弄着什么。" },
+
+      { "id": "10069_narrative", "actor": "narrative", "text": "它是背朝皮皮鲁。" },
+
+      { "id": "10070_narrative", "actor": "narrative", "text": "皮皮鲁蹲在地上小心翼翼地接近玻璃房子，他想看看大傻究竟在干什么。" },
+
+      { "id": "10071_narrative", "actor": "narrative", "text": "当皮皮鲁的身体碰到玻璃房子的墙壁时，墙壁自动往两边移动，露出一条缝。" },
+
+      { "id": "10072_narrative", "actor": "narrative", "text": "皮皮鲁一步一步往玻璃房子里挪，当他挪到大傻背后时，大傻忽然转过身来。" },
+
+      { "id": "10073_dasha", "actor": "dasha", "text": "我得谢谢你们把我关到３０９暗室里来。" },
+      { "id": "10074_narrative", "actor": "narrative", "text": "大傻的脸上的确有感激之情。" },
+
+      { "id": "10075_pipilu", "actor": "pipilu", "text": "为。……什。……么。……" },
+      { "id": "10076_narrative", "actor": "narrative", "text": "皮皮鲁极力掩饰自己的不自然。" },
+
+      { "id": "10077_dasha", "actor": "dasha", "text": "你们使我发现了这个地球运行控制室，原来地球是一颗人造星球，就像人造卫星一样。真没想到。" },
+      { "id": "10078_narrative", "actor": "narrative", "text": "大傻左手用力一按操纵台，它的旋转座椅飞快地转了３６０度。" },
+
+      { "id": "10079_pipilu", "actor": "pipilu", "text": "地球是人造星球！" },
+      { "id": "10080_narrative", "actor": "narrative", "text": "皮皮鲁发呆。" },
+
+      { "id": "10081_dasha", "actor": "dasha", "text": "这个控制室就是操纵地球运行的机构。不知是谁给地球设定了运行轨道，这么多年来，地球就一直沿着这个人设定的轨道运行。" },
+      { "id": "10082_dasha", "actor": "dasha", "text": "现在我改变了这个设定，我操纵地球改变了它原来的轨道。" },
+      { "id": "10083_narrative", "actor": "narrative", "text": "大傻得意洋洋。" },
+
+      { "id": "10084_narrative", "actor": "narrative", "text": "皮皮鲁明白地球的夏天为什么突然变成了冬天了。大傻改变了地球运行的方向。" },
+
+      { "id": "10085_narrative", "actor": "narrative", "text": "皮皮鲁很激动，他终于知道了地球的奥秘，原来自己在课堂上学到的有关地球的知识都是错误的，地球并不是宇宙里的一颗行星，地球是一颗人造星球，它有动力，还有操纵系统。" },
+
+      { "id": "10086_pipilu", "actor": "pipilu", "text": "你现在要干什么？" },
+
+      { "id": "10087_dasha", "actor": "dasha", "text": "我要把地球劫持到另一个星系去，让它离开太阳系。" },
+
+      { "id": "10088_pipilu", "actor": "pipilu", "text": "离开太阳系！" },
+      { "id": "10089_narrative", "actor": "narrative", "text": "皮皮鲁情不自禁地喊起来。" },
+
+      { "id": "10090_dasha", "actor": "dasha", "text": "对，就是要离开太阳系！我要带着地球上的几十亿人去投奔宇宙中最强大的生命。" },
+      { "id": "10091_narrative", "actor": "narrative", "text": "大傻壮志满怀。" },
+
+      { "id": "10092_pipilu", "actor": "pipilu", "text": "这很危险！离开太阳，地球上的人类很可能无法生存！" },
+      { "id": "10093_narrative", "actor": "narrative", "text": "皮皮鲁提醒大傻。" },
+
+      { "id": "10094_dasha", "actor": "dasha", "text": "这个责任应该由你来承担，谁让你把我关到３０９暗室里来的？" },
+      { "id": "10095_dasha", "actor": "dasha", "text": "告诉你，地球现在正以极快的速度脱离太阳系。" },
+      { "id": "10096_narrative", "actor": "narrative", "text": "大傻笑眯眯地看着皮皮鲁。" },
+
+      { "id": "10097_narrative", "actor": "narrative", "text": "皮皮鲁转身要跑，大傻冲过来抱住皮皮鲁的腰。" },
+
+      { "id": "10098_pipilu", "actor": "pipilu", "text": "你干吗？！" },
+      { "id": "10099_narrative", "actor": "narrative", "text": "皮皮鲁没大傻劲儿大，无法挣脱大傻对他的束缚。" },
+
+      { "id": "10100_dasha", "actor": "dasha", "text": "你不能出去了。我得把你也关起来。" },
+      { "id": "10101_narrative", "actor": "narrative", "text": "大傻把皮皮鲁抱离地面，朝门口走去。" },
+
+      { "id": "10102_narrative", "actor": "narrative", "text": "皮皮鲁故意大喊大叫，目的是通知爸爸。" },
+
+      { "id": "10103_narrative", "actor": "narrative", "text": "当大傻拉开地球运行控制室的门时，爸爸从门外突然将致痴盔戴在了大傻的头上。" },
+
+      { "id": "10104_narrative", "actor": "narrative", "text": "大傻松开皮皮鲁，傻站在原地。" },
+
+      { "id": "10105_baba", "actor": "baba", "text": "咱们总算成功了。" },
+      { "id": "10106_narrative", "actor": "narrative", "text": "爸爸松了口气。" },
+      { "id": "10107_baba", "actor": "baba", "text": "地球上总算少了这头伟猪。" },
+
+      { "id": "10108_pipilu", "actor": "pipilu", "text": "地球快完了。" },
+
+      { "id": "10109_baba", "actor": "baba", "text": "你说什么？" },
+      { "id": "10110_narrative", "actor": "narrative", "text": "爸爸以为儿子的神经受了惊吓。" },
+
+      { "id": "10111_narrative", "actor": "narrative", "text": "皮皮鲁将刚才他了解到的一切告诉爸爸。" },
+
+      { "id": "10112_baba", "actor": "baba", "text": "童话吧？" },
+      { "id": "10113_narrative", "actor": "narrative", "text": "爸爸往好的方面想。" },
+
+      { "id": "10114_pipilu", "actor": "pipilu", "text": "新闻报道。" },
+
+      { "id": "10115_narrative", "actor": "narrative", "text": "这时大傻\"普通\"一声，四腿着地了。" },
+
+      { "id": "10116_narrative", "actor": "narrative", "text": "皮皮鲁给大傻摘下致痴盔，大傻大脑里的Ｚ型沟回大概已经消失了。" },
+
+      { "id": "10117_pipilu", "actor": "pipilu", "text": "大傻，大傻。" },
+      { "id": "10118_narrative", "actor": "narrative", "text": "皮皮鲁叫它。" },
+
+      { "id": "10119_narrative", "actor": "narrative", "text": "大傻毫无反应，活生生一头普通的猪。" },
+
+      { "id": "10120_baba", "actor": "baba", "text": "咱们进去看看！" },
+      { "id": "10121_narrative", "actor": "narrative", "text": "爸爸打开地球运行控制室的门。" }
+    ]
+  }
+}

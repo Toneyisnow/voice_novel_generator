@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "migong", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "xiaohuozi", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "jiaotongjingcha", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "siji", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "dajia", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第一章……致痴盔风波" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "在皮皮鲁全家的协助下，觅工终于将致痴盔做出来了。" },
+
+      { "id": "10003_migong", "actor": "migong", "text": "拜托你们了，一定要给那头猪戴上。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "觅工说完就闭上了眼睛。他是怀着负疚的心情离开人世的。" },
+
+      { "id": "10005_narrative", "actor": "narrative", "text": "皮皮鲁全家向觅工的遗体告别后，拿着致痴盔离开了３０９暗室，回到家里。" },
+
+      { "id": "10006_baba", "actor": "baba", "text": "给大傻戴这头盔可不是一件容易的事。" },
+      { "id": "10007_narrative", "actor": "narrative", "text": "爸爸说。" },
+
+      { "id": "10008_luxixi", "actor": "luxixi", "text": "它的脑子现在这么聪明，轻易不会上当。" },
+      { "id": "10009_narrative", "actor": "narrative", "text": "鲁西西同意爸爸的判断。" },
+
+      { "id": "10010_pipilu", "actor": "pipilu", "text": "我去试试。咱们也有优势，这致痴盔不用通电，戴上就傻，比致聪盔先进。" },
+      { "id": "10011_narrative", "actor": "narrative", "text": "皮皮鲁说。" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "爸爸点点头。" },
+
+      { "id": "10013_luxixi", "actor": "luxixi", "text": "我和你一起去。" },
+
+      { "id": "10014_mama", "actor": "mama", "text": "你们要当心，大傻虽然是一头猪，可如今它也算得上是大人物了，天天上电视上报纸。" },
+      { "id": "10015_narrative", "actor": "narrative", "text": "妈妈提醒皮皮鲁和鲁西西。" },
+
+      { "id": "10016_pipilu", "actor": "pipilu", "text": "我们会见机行事的。" },
+      { "id": "10017_narrative", "actor": "narrative", "text": "皮皮鲁从冰箱里拿出两个面包装进兜里，然后拎着致痴盔和鲁西西离开了家。" },
+
+      { "id": "10018_mama", "actor": "mama", "text": "你也真放心。" },
+      { "id": "10019_narrative", "actor": "narrative", "text": "妈妈说爸爸。" },
+
+      { "id": "10020_baba", "actor": "baba", "text": "这是千载难逢的锻炼机会。" },
+      { "id": "10021_narrative", "actor": "narrative", "text": "爸爸从窗口望着皮皮鲁和鲁西西的身影说。" },
+
+      { "id": "10022_narrative", "actor": "narrative", "text": "皮皮鲁和鲁西西走在便道上，一阵摩托车声从他们身后传来。当摩托车经过皮皮鲁身边时，皮皮鲁手上的致痴盔被骑摩托车的小伙子顺手牵羊地拿走了。" },
+
+      { "id": "10023_pipilu", "actor": "pipilu", "text": "你干什么？" },
+      { "id": "10024_narrative", "actor": "narrative", "text": "皮皮鲁冲上去。" },
+
+      { "id": "10025_narrative", "actor": "narrative", "text": "骑摩托车的小伙子将车停在路边，他一只脚支着地，嘻笑脸地问皮皮鲁：" },
+      { "id": "10026_xiaohuozi", "actor": "xiaohuozi", "text": "小兄弟，这头盔太棒了，哪儿买的？" },
+
+      { "id": "10027_pipilu", "actor": "pipilu", "text": "没卖的！还给我！" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "皮皮鲁跑到小伙子身边往回抢头盔，小伙子用右手把头盔举起来，皮皮鲁够不着。" },
+
+      { "id": "10029_xiaohuozi", "actor": "xiaohuozi", "text": "怎么样，卖给大哥我吧？我出１００元大洋。" },
+      { "id": "10030_pipilu", "actor": "pipilu", "text": "不卖。给１００００也不卖。" },
+
+      { "id": "10031_xiaohuozi", "actor": "xiaohuozi", "text": "那可就别怪我不客气了。大哥我借戴几天。" },
+      { "id": "10032_pipilu", "actor": "pipilu", "text": "不行！" },
+      { "id": "10033_narrative", "actor": "narrative", "text": "皮皮鲁坚决不干。" },
+
+      { "id": "10034_narrative", "actor": "narrative", "text": "小伙子把致痴盔往自己头上一戴，着摩托车就走。" },
+
+      { "id": "10035_narrative", "actor": "narrative", "text": "皮皮鲁急了，这头盔如果丢了，可是直接关系到人类的命运呀！" },
+
+      { "id": "10036_narrative", "actor": "narrative", "text": "摩托车开出去不到１５米，摔倒了。" },
+
+      { "id": "10037_luxixi", "actor": "luxixi", "text": "致痴盔起作用了！" },
+
+      { "id": "10038_narrative", "actor": "narrative", "text": "皮皮鲁用最快的速度跑到小伙子身边，从他头上摘下致痴盔。" },
+
+      { "id": "10039_narrative", "actor": "narrative", "text": "小伙子从地上爬起来，冲皮皮鲁傻笑。" },
+
+      { "id": "10040_narrative", "actor": "narrative", "text": "交通警察以为出了交通事故，走过来问小伙子：" },
+      { "id": "10041_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "是你的摩托车吗？" },
+      { "id": "10042_narrative", "actor": "narrative", "text": "小伙子摇头：" },
+      { "id": "10043_xiaohuozi", "actor": "xiaohuozi", "text": "不是。" },
+
+      { "id": "10044_narrative", "actor": "narrative", "text": "“谁的车？”交通警察指着倒在地上的摩托车问。" },
+      { "id": "10045_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "谁的车？" },
+
+      { "id": "10046_luxixi", "actor": "luxixi", "text": "是他的车。我看见他骑过来的。" },
+      { "id": "10047_narrative", "actor": "narrative", "text": "鲁西西告诉警察。" },
+
+      { "id": "10048_narrative", "actor": "narrative", "text": "“是你的车？”交通警察再次问小伙子。" },
+      { "id": "10049_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "是你的车？" },
+
+      { "id": "10050_xiaohuozi", "actor": "xiaohuozi", "text": "绝对不是，你别听她胡说。" },
+      { "id": "10051_narrative", "actor": "narrative", "text": "小伙子傻得不轻。" },
+
+      { "id": "10052_narrative", "actor": "narrative", "text": "“这头盔是你的？”交通警察注意到皮皮鲁手中的头盔，根据常规判断，骑摩托车的人才戴头盔。" },
+      { "id": "10053_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "这头盔是你的？" },
+
+      { "id": "10054_narrative", "actor": "narrative", "text": "皮皮鲁点头。" },
+
+      { "id": "10055_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "这摩托车是你的？" },
+      { "id": "10056_narrative", "actor": "narrative", "text": "警察问。" },
+
+      { "id": "10057_pipilu", "actor": "pipilu", "text": "不是。" },
+      { "id": "10058_narrative", "actor": "narrative", "text": "皮皮鲁否定。" },
+
+      { "id": "10059_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "我看看你的头盔。" },
+      { "id": "10060_narrative", "actor": "narrative", "text": "警察显然从未见过这么大的头盔。" },
+
+      { "id": "10061_pipilu", "actor": "pipilu", "text": "不行。" },
+      { "id": "10062_narrative", "actor": "narrative", "text": "皮皮鲁往后退。" },
+
+      { "id": "10063_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "为什么？" },
+      { "id": "10064_narrative", "actor": "narrative", "text": "警察越发对头盔感兴趣了，他强行从皮皮鲁手中拿过头盔。" },
+
+      { "id": "10065_luxixi", "actor": "luxixi", "text": "别往头上戴！" },
+      { "id": "10066_narrative", "actor": "narrative", "text": "鲁西西发出警告。" },
+
+      { "id": "10067_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "为什么？" },
+      { "id": "10068_narrative", "actor": "narrative", "text": "警察双手举起头盔一边往自己头上戴一边看鲁西西。" },
+
+      { "id": "10069_luxixi", "actor": "luxixi", "text": "别戴！" },
+      { "id": "10070_narrative", "actor": "narrative", "text": "皮皮鲁上去抢头盔。" },
+
+      { "id": "10071_narrative", "actor": "narrative", "text": "就像所有人都是越不让干越想干那样，警察把致痴盔扣在了自己头上。" },
+
+      { "id": "10072_luxixi", "actor": "luxixi", "text": "完了！地球上少了一个交通警察！" },
+      { "id": "10073_narrative", "actor": "narrative", "text": "鲁西西冲皮皮鲁耸耸肩。" },
+
+      { "id": "10074_pipilu", "actor": "pipilu", "text": "把头盔还给我，头盔是我的。" },
+      { "id": "10075_narrative", "actor": "narrative", "text": "皮皮鲁向警察伸出手来。" },
+
+      { "id": "10076_narrative", "actor": "narrative", "text": "警察乖乖地把头盔摘下来递给皮皮鲁。" },
+
+      { "id": "10077_narrative", "actor": "narrative", "text": "一辆小轿车开过来。警察打手势示意小轿车停车。" },
+
+      { "id": "10078_narrative", "actor": "narrative", "text": "司机毕恭毕敬地下车走到警察面前，一脸的谦意。" },
+
+      { "id": "10079_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "你违章了。驾驶执照。" },
+      { "id": "10080_narrative", "actor": "narrative", "text": "警察威严地说。" },
+
+      { "id": "10081_narrative", "actor": "narrative", "text": "司机忙从贴身的衣兜里掏出驾驶执照，双手奉献给警察。" },
+
+      { "id": "10082_narrative", "actor": "narrative", "text": "警察连看都不看，把驾驶执照装进自己的口袋。" },
+
+      { "id": "10083_siji", "actor": "siji", "text": "这。……" },
+      { "id": "10084_narrative", "actor": "narrative", "text": "司机傻眼了。" },
+
+      { "id": "10085_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "你知道你怎么违章了吗？" },
+      { "id": "10086_narrative", "actor": "narrative", "text": "警察使用爸爸教训儿子的口气。" },
+
+      { "id": "10087_siji", "actor": "siji", "text": "不知道。" },
+      { "id": "10088_narrative", "actor": "narrative", "text": "司机确实不知道。" },
+
+      { "id": "10089_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "你闯绿灯了！" },
+
+      { "id": "10090_siji", "actor": "siji", "text": "闯绿灯？" },
+      { "id": "10091_narrative", "actor": "narrative", "text": "司机愕然。" },
+
+      { "id": "10092_jiaotongjingcha", "actor": "jiaotongjingcha", "text": "对，你闯绿灯了！这是严重的违章，必须吊扣你的驾驶执照！" },
+      { "id": "10093_narrative", "actor": "narrative", "text": "警察的大脑显然已被致痴盔弄傻了。" },
+
+      { "id": "10094_luxixi", "actor": "luxixi", "text": "咱们先回家吧。我看这么拎着致痴盔在大街上走太危险。" },
+      { "id": "10095_narrative", "actor": "narrative", "text": "鲁西西小声对皮皮鲁说。" },
+
+      { "id": "10096_narrative", "actor": "narrative", "text": "皮皮鲁同意。" },
+
+      { "id": "10097_narrative", "actor": "narrative", "text": "这几天正值酷暑，皮皮鲁和鲁西西满头大汗地回到家里。" },
+
+      { "id": "10098_baba", "actor": "baba", "text": "怎么样？" },
+      { "id": "10099_narrative", "actor": "narrative", "text": "爸爸迫不急待地问。" },
+
+      { "id": "10100_narrative", "actor": "narrative", "text": "妈妈给儿子和女儿递毛巾擦汗。" },
+
+      { "id": "10101_narrative", "actor": "narrative", "text": "皮皮鲁把他和鲁西西刚才离家后的经历讲了一遍。" },
+
+      { "id": "10102_mama", "actor": "mama", "text": "那位交通警察太不幸了。" },
+      { "id": "10103_narrative", "actor": "narrative", "text": "妈妈于心不忍地说，她认为那骑摩托车的小伙子是罪有应得。" },
+
+      { "id": "10104_baba", "actor": "baba", "text": "这顶致痴盔再不能离开咱们家了，太危险。" },
+      { "id": "10105_narrative", "actor": "narrative", "text": "爸爸把致痴盔藏在床底下。" },
+
+      { "id": "10106_luxixi", "actor": "luxixi", "text": "那大傻怎么办？" },
+      { "id": "10107_narrative", "actor": "narrative", "text": "鲁西西一边吹电扇一边说。" },
+
+      { "id": "10108_pipilu", "actor": "pipilu", "text": "只有想办法把大傻弄到咱们家里来再给它戴致痴盔。" },
+      { "id": "10109_narrative", "actor": "narrative", "text": "皮皮鲁大口大口喝冰镇汽水。" },
+
+      { "id": "10110_mama", "actor": "mama", "text": "如果它不肯戴呢？" },
+      { "id": "10111_narrative", "actor": "narrative", "text": "妈妈觉得大傻轻易不会上当。" },
+
+      { "id": "10112_baba", "actor": "baba", "text": "那就想办法把它关进３０９暗室，关上一个月，它就会离开这个世界的。" },
+      { "id": "10113_narrative", "actor": "narrative", "text": "爸爸想出了毒招儿。" },
+
+      { "id": "10114_pipilu", "actor": "pipilu", "text": "杀猪不犯法吧？" },
+      { "id": "10115_narrative", "actor": "narrative", "text": "皮皮鲁提出法律问题。" },
+
+      { "id": "10116_narrative", "actor": "narrative", "text": "大家对视了片刻，异口同声地说：" },
+      { "id": "10117_dajia", "actor": "dajia", "text": "合法。" }
+    ]
+  }
+}

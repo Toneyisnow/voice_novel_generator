@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "nanshi50", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "jinsiayi", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "xiaohuozi", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第五章……天文台寻援" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "鲁西西在国家天文台的门口徘徊，她要物色一位能接受新事物的天文工作者。" },
+
+      { "id": "10003_narrative", "actor": "narrative", "text": "一位５０多岁的男士夹着皮包走出天文台大楼。" },
+
+      { "id": "10004_luxixi", "actor": "luxixi", "text": "叔叔，我能同您谈谈吗？" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "鲁西西走近男士，说。" },
+
+      { "id": "10006_nanshi50", "actor": "nanshi50", "text": "谈什么？" },
+      { "id": "10007_narrative", "actor": "narrative", "text": "男士站住问。" },
+
+      { "id": "10008_luxixi", "actor": "luxixi", "text": "您是研究天文学的吗？" },
+
+      { "id": "10009_nanshi50", "actor": "nanshi50", "text": "嗯。" },
+
+      { "id": "10010_luxixi", "actor": "luxixi", "text": "您知道今天为什么异常吗？" },
+
+      { "id": "10011_nanshi50", "actor": "nanshi50", "text": "巴格巴巴现象。" },
+
+      { "id": "10012_narrative", "actor": "narrative", "text": "该男士接受新学说极快，毫不设防。" },
+
+      { "id": "10013_luxixi", "actor": "luxixi", "text": "不对，根本不是什么巴格巴巴现象，是地球离开了原有的轨道。" },
+      { "id": "10014_narrative", "actor": "narrative", "text": "男士歪着头观察鲁西西。" },
+
+      { "id": "10015_luxixi", "actor": "luxixi", "text": "您懂天文学，您能帮助地球返回轨道。" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "鲁西西觉得这人有戏，摊牌了。" },
+
+      { "id": "10017_nanshi50", "actor": "nanshi50", "text": "你是从精神病医院跑出来的吧？" },
+      { "id": "10018_narrative", "actor": "narrative", "text": "男士失去了拯救地球的机会。伟人和罪人的距离只有一毫米。" },
+
+      { "id": "10019_narrative", "actor": "narrative", "text": "鲁西西只好放了他。" },
+
+      { "id": "10020_narrative", "actor": "narrative", "text": "一辆模样挺不错的小轿车开过来停在天文台门口，从车上下来一位戴金丝眼镜的气质高雅的女士。" },
+
+      { "id": "10021_luxixi", "actor": "luxixi", "text": "阿姨您好。请问您是天文学家吗？" },
+      { "id": "10022_narrative", "actor": "narrative", "text": "鲁西西像一个发现了新目标的猎手，又出击了。" },
+
+      { "id": "10023_jinsiayi", "actor": "jinsiayi", "text": "你。……好。……我是研究天文的。" },
+      { "id": "10024_narrative", "actor": "narrative", "text": "金丝眼镜女士不解地看着鲁西西。" },
+
+      { "id": "10025_luxixi", "actor": "luxixi", "text": "您怎么看这次天气异常现象？" },
+      { "id": "10026_narrative", "actor": "narrative", "text": "鲁西西测试金丝眼镜女士的观念。" },
+
+      { "id": "10027_jinsiayi", "actor": "jinsiayi", "text": "典型的巴格巴巴现象。" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "金丝眼镜女士记新名词的能力绝对一流。" },
+
+      { "id": "10029_luxixi", "actor": "luxixi", "text": "您怎么知道的？" },
+      { "id": "10030_narrative", "actor": "narrative", "text": "鲁西西开始失望。" },
+
+      { "id": "10031_jinsiayi", "actor": "jinsiayi", "text": "这是我们天文学界的权威研究出来的，我认为是真理。" },
+      { "id": "10032_narrative", "actor": "narrative", "text": "金丝眼镜女士看手表。" },
+
+      { "id": "10033_luxixi", "actor": "luxixi", "text": "您先等等，我有重要的事想跟您说。" },
+      { "id": "10034_narrative", "actor": "narrative", "text": "鲁西西还想试一下。" },
+
+      { "id": "10035_jinsiayi", "actor": "jinsiayi", "text": "什么事？" },
+      { "id": "10036_narrative", "actor": "narrative", "text": "金丝眼镜女士显然有点儿不耐烦了。" },
+
+      { "id": "10037_luxixi", "actor": "luxixi", "text": "这次天气异常其实根本不是巴格巴巴现象，是地球运行控制系统出了毛病，我可以让地球回到原先的轨道上去，但需要您的合作，因为我不认识回去的路。" },
+      { "id": "10038_narrative", "actor": "narrative", "text": "鲁西西一口气说完。" },
+
+      { "id": "10039_jinsiayi", "actor": "jinsiayi", "text": "你上学吗？" },
+      { "id": "10040_narrative", "actor": "narrative", "text": "金丝眼镜女士问鲁西西。" },
+
+      { "id": "10041_narrative", "actor": "narrative", "text": "鲁西西点头。" },
+
+      { "id": "10042_jinsiayi", "actor": "jinsiayi", "text": "在弱智学校？" },
+      { "id": "10043_narrative", "actor": "narrative", "text": "金丝眼镜女士又问。" },
+
+      { "id": "10044_narrative", "actor": "narrative", "text": "鲁西西二话没说，转身离开了她。" },
+
+      { "id": "10045_narrative", "actor": "narrative", "text": "鲁西西站在天文台门口望着天文台大楼叹了口气，她觉得悲哀，这座大楼里的人终日忙碌，却与真正的科学毫不沾边，他们死抱住祖先留给他们的观念不放，任何有悖于祖先的看法都被认为是胡说八道。其实，他们大脑里的那些观念才是正宗的胡说八道。" },
+
+      { "id": "10046_narrative", "actor": "narrative", "text": "两个人出现在天文台门口，他们的举动引起了鲁西西的注意。" },
+
+      { "id": "10047_narrative", "actor": "narrative", "text": "一位银发老者步履蹒跚地走着，一位毛头小伙子跟在老者左右好像在央求什么。老者不断地摇头。小伙子一脸的求情。" },
+
+      { "id": "10048_narrative", "actor": "narrative", "text": "他们经过鲁西西身边时，鲁西西听到那小伙子说：" },
+      { "id": "10049_xiaohuozi", "actor": "xiaohuozi", "text": "求求您看看我的论文，我认为地球不是那样起源的。" },
+      { "id": "10050_narrative", "actor": "narrative", "text": "鲁西西兴奋了。" },
+
+      { "id": "10051_luxixi", "actor": "luxixi", "text": "我想和你谈谈。" },
+      { "id": "10052_narrative", "actor": "narrative", "text": "鲁西西追上去对小伙子说。" },
+
+      { "id": "10053_xiaohuozi", "actor": "xiaohuozi", "text": "谈什么？" },
+      { "id": "10054_narrative", "actor": "narrative", "text": "小伙子对鲁西西不感兴趣。" },
+
+      { "id": "10055_luxixi", "actor": "luxixi", "text": "谈地球起源。" },
+
+      { "id": "10056_narrative", "actor": "narrative", "text": "小伙子目光变了。" },
+      { "id": "10057_narrative", "actor": "narrative", "text": "老者向鲁西西投来感激的目光。他像兔子一样走了。" },
+
+      { "id": "10058_narrative", "actor": "narrative", "text": "通过简单的交谈，鲁西西知道这小伙子是一位工人，他特别喜欢业余研究天文，他怀疑地球起源的学说，可是他的论文没人看。刚才那位老者是一位著名的天文学家，他像躲瘟疫一样躲这位业余爱好者。" },
+
+      { "id": "10059_luxixi", "actor": "luxixi", "text": "你的观点也不正确，地球实际上是一个人造星球。" },
+
+      { "id": "10060_xiaohuozi", "actor": "xiaohuozi", "text": "人造星球？" },
+      { "id": "10061_narrative", "actor": "narrative", "text": "小伙子一愣。" },
+
+      { "id": "10062_luxixi", "actor": "luxixi", "text": "你信吗？" },
+      { "id": "10063_narrative", "actor": "narrative", "text": "鲁西西看见小伙子没叫她精神病，觉得有戏。" },
+
+      { "id": "10064_xiaohuozi", "actor": "xiaohuozi", "text": "我愿意相信新的说法。" },
+
+      { "id": "10065_luxixi", "actor": "luxixi", "text": "你怎么看这次天气异常？" },
+
+      { "id": "10066_xiaohuozi", "actor": "xiaohuozi", "text": "我觉得这是又一次冰河时期的到来。" },
+      { "id": "10067_narrative", "actor": "narrative", "text": "谢天谢地，总算碰上一个没说巴格巴巴的人。" },
+
+      { "id": "10068_luxixi", "actor": "luxixi", "text": "不对，这次异常是由于地球偏离原有的轨道造成的。" },
+      { "id": "10069_narrative", "actor": "narrative", "text": "小伙子眼里有异彩。" },
+
+      { "id": "10070_xiaohuozi", "actor": "xiaohuozi", "text": "你说下去！" },
+      { "id": "10071_narrative", "actor": "narrative", "text": "小伙子迫切要求。" },
+
+      { "id": "10072_luxixi", "actor": "luxixi", "text": "我有能力让地球回到原来的轨道上去，可我不认识路，我对天文一窍不通。你研究了这么多年天文，对太阳系各个天体的位置一定熟悉。咱们合作把地球弄回去好吗？" },
+      { "id": "10073_narrative", "actor": "narrative", "text": "鲁西西严肃地说。" },
+
+      { "id": "10074_narrative", "actor": "narrative", "text": "尽管小伙子的大脑最讨厌陈旧的观念，可他还是对鲁西西的话感到吃惊。因为鲁西西的话毕竟太离奇了。" },
+
+      { "id": "10075_narrative", "actor": "narrative", "text": "怀疑是创建新学说之父。小伙子想起了自己的这个座右铭。" },
+
+      { "id": "10076_xiaohuozi", "actor": "xiaohuozi", "text": "我认识宇宙的路。可你总得给我一点儿证据吧。我的时间也挺宝贵。" },
+      { "id": "10077_narrative", "actor": "narrative", "text": "小伙子愿意合作，但又担心白浪费时间。" },
+
+      { "id": "10078_luxixi", "actor": "luxixi", "text": "好，你等一下。" },
+      { "id": "10079_narrative", "actor": "narrative", "text": "鲁西西看见路边有个公用电话亭，她跑过去给家里打电话。" },
+
+      { "id": "10080_luxixi", "actor": "luxixi", "text": "爸爸，我找到一位业余天文爱好者，他认识把地球开回去的路，但他现在不大相信我的话，你们得向他证实一下我的话。" },
+      { "id": "10081_narrative", "actor": "narrative", "text": "鲁西西通过电话和爸爸通话。" },
+
+      { "id": "10082_baba", "actor": "baba", "text": "怎么证实？" },
+
+      { "id": "10083_luxixi", "actor": "luxixi", "text": "５分钟后，让天黑一次。" },
+
+      { "id": "10084_baba", "actor": "baba", "text": "行。" },
+
+      { "id": "10085_luxixi", "actor": "luxixi", "text": "然后你们做好准备，我就带他去咱们家了。" },
+      { "id": "10086_narrative", "actor": "narrative", "text": "鲁西西挂上电话，回到小伙子身边。" },
+
+      { "id": "10087_luxixi", "actor": "luxixi", "text": "５分钟后，天将突然变黑。" },
+      { "id": "10088_narrative", "actor": "narrative", "text": "鲁西西向小伙子宣布。" },
+
+      { "id": "10089_xiaohuozi", "actor": "xiaohuozi", "text": "这怎么可能？" },
+
+      { "id": "10090_luxixi", "actor": "luxixi", "text": "如果变黑了呢？" },
+
+      { "id": "10091_xiaohuozi", "actor": "xiaohuozi", "text": "如果变黑了，你说的所有话我都相信，即使你说人是蛐蛐进化的，我也相信！" },
+
+      { "id": "10092_narrative", "actor": "narrative", "text": "５分钟后，天黑了。" },
+
+      { "id": "10093_narrative", "actor": "narrative", "text": "小伙子张大嘴巴，他这回算是真正知道人类大脑里的那点儿关于自然界的知识少得多可怜了。" },
+
+      { "id": "10094_xiaohuozi", "actor": "xiaohuozi", "text": "咱们去救地球！" },
+      { "id": "10095_narrative", "actor": "narrative", "text": "小伙子催鲁西西。" },
+
+      { "id": "10096_luxixi", "actor": "luxixi", "text": "你有天文望远镜吗？" },
+
+      { "id": "10097_xiaohuozi", "actor": "xiaohuozi", "text": "有，在包里。" },
+      { "id": "10098_narrative", "actor": "narrative", "text": "小伙子指指自己肩头的包，" },
+      { "id": "10099_xiaohuozi", "actor": "xiaohuozi", "text": "虽然是简易的，但是很好用。" },
+
+      { "id": "10100_luxixi", "actor": "luxixi", "text": "有个小条件，到我家后，你别问我们为什么能操纵地球，你只管给地球引路就行了。" },
+
+      { "id": "10101_narrative", "actor": "narrative", "text": "小伙子同意了。" },
+
+      { "id": "10102_narrative", "actor": "narrative", "text": "天文望远镜架在了鲁西西家的阳台上，小伙子开始观测天象。鲁西西在一边手持对讲机同在３０９暗室里的皮皮鲁联络。把地球开回原先的轨道的行动开始了。" },
+
+      { "id": "10103_xiaohuozi", "actor": "xiaohuozi", "text": "从那颗星星的左侧绕过去。" },
+      { "id": "10104_narrative", "actor": "narrative", "text": "小伙子指给鲁西西看。" },
+
+      { "id": "10105_luxixi", "actor": "luxixi", "text": "往前。往右。再往前。" },
+
+      { "id": "10106_xiaohuozi", "actor": "xiaohuozi", "text": "注意右边那颗星星，从它的下边过去。" },
+
+      { "id": "10107_narrative", "actor": "narrative", "text": "鲁西西向皮皮鲁转达。" },
+
+      { "id": "10108_narrative", "actor": "narrative", "text": "皮皮鲁正襟危坐在地球运行操纵台前，操纵地球回故乡。" },
+
+      { "id": "10109_narrative", "actor": "narrative", "text": "地球在壮丽的宇宙中运行，返回属于她的轨道。" },
+
+      { "id": "10110_narrative", "actor": "narrative", "text": "宇宙是一个谜。一个有谜底的谜。现在还没人知道谜底。" },
+
+      { "id": "10111_narrative", "actor": "narrative", "text": "人类也是一个谜。一个没有谜底的谜。人人却以为自己知道谜底。" },
+
+      { "id": "10112_xiaohuozi", "actor": "xiaohuozi", "text": "地球回到自己的轨道！" },
+      { "id": "10113_narrative", "actor": "narrative", "text": "小伙子趴在天文望远镜上喊。" },
+
+      { "id": "10114_narrative", "actor": "narrative", "text": "皮皮鲁将操纵台上的操纵杆和所有按钮都定位。" },
+
+      { "id": "10115_narrative", "actor": "narrative", "text": "地球恢复了常态。" },
+
+      { "id": "10116_narrative", "actor": "narrative", "text": "各种理论各种学说依然我行我素，继续愚弄人类。" },
+
+      { "id": "10117_narrative", "actor": "narrative", "text": "人类是地球上最喜欢被学说愚弄的动物。" },
+
+      { "id": "10118_narrative", "actor": "narrative", "text": "那位小伙子后来将地球曾经偏离轨道的事写成了论文，被某报纸编辑安排在\"愚人节\"栏目发表。一位戏剧小品作者根据这个素材创作了一个小品脚本，由一位鼻子几乎长在眼睛上边的著名喜剧名星出演，该小品获得了该年度小品大奖赛的特等奖。" },
+
+      { "id": "10119_narrative", "actor": "narrative", "text": "据说有十几位观众在看小品时笑破了胃。" },
+
+      { "id": "10120_narrative", "actor": "narrative", "text": "皮皮鲁全家从电视里看这部小品时笑不出来，他们想抱头为人类哭一场。" }
+    ]
+  }
+}

@@ -76,7 +76,7 @@ def compose_request_json(voice_type: str, raw_text: str):
     return request_json
 
 
-async def generate_voice_func(voice_key: str, raw_text: str, output_file_name: str, emotion: Optional[str]):
+async def generate_voice_func(voice_key: str, raw_text: str, output_file_folder: str, output_file_name: str, emotion: Optional[str]):
     request_json = compose_request_json(voice_key, raw_text)
     submit_request_json = copy.deepcopy(request_json)
     submit_request_json["audio"]["voice_type"] = voice_key
@@ -94,7 +94,7 @@ async def generate_voice_func(voice_key: str, raw_text: str, output_file_name: s
 
     print("request json: ", submit_request_json)
     print("\nrequest bytes: ", full_client_request)
-    file_to_save = open("output/temp/" + output_file_name + ".mp3", "wb")
+    file_to_save = open(output_file_folder + output_file_name + ".mp3", "wb")
     header = {"Authorization": f"Bearer; {access_token}"}
     async with websockets.connect(api_url, additional_headers=header, ping_interval=None) as ws:
         await ws.send(full_client_request)
@@ -191,6 +191,6 @@ def parse_response(res, file):
 
 
 
-def volc_generate_voice(voice_key: str, raw_text: str, output_file_name: str, emotion: Optional[str]):
+def volc_generate_voice(voice_key: str, raw_text: str, output_file_folder: str, output_file_name: str, emotion: Optional[str]):
     loop = asyncio.get_event_loop()
-    loop.run_until_complete(generate_voice_func(voice_key, raw_text, output_file_name, emotion))
+    loop.run_until_complete(generate_voice_func(voice_key, raw_text, output_file_folder, output_file_name, emotion))

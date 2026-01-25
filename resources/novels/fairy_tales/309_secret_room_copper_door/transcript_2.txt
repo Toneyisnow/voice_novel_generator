@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "narrative": { "voice": "zh_female_kailangjiejie_moon_bigtts" },
+    "actors": [
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+      { "key": "baba", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mama", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "dasha", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "guangbo", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "boyinyuan", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第二章……冬天来了" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "皮皮鲁的确神通广大，他在第二天的中午终于把大傻诓回家中。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "大傻的一举一动都透着伟人的气质，它坐在沙发上，气宇轩昂。" },
+
+      { "id": "10004_baba", "actor": "baba", "text": "我们觉得你的头特别宝贵，因此为你订做了一个头盔，保护你的头。" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "爸爸把致痴盔递给大傻。" },
+
+      { "id": "10006_narrative", "actor": "narrative", "text": "大傻翻过来倒过去看致痴盔。" },
+
+      { "id": "10007_pipilu", "actor": "pipilu", "text": "你试试大小合适不合适。" },
+      { "id": "10008_narrative", "actor": "narrative", "text": "皮皮鲁鼓动大傻把致痴盔戴在头上。" },
+
+      { "id": "10009_dasha", "actor": "dasha", "text": "正合适。" },
+      { "id": "10010_dasha", "actor": "dasha", "text": "谢谢你们。不过，我用不着这个，还是给皮皮鲁留着玩吧。" },
+      { "id": "10011_narrative", "actor": "narrative", "text": "大傻目测了一下头盔的内径。" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "大傻把致痴盔递到皮皮鲁手上。" },
+
+      { "id": "10013_dasha", "actor": "dasha", "text": "你戴上试试，可能稍微大一点儿。" },
+      { "id": "10014_narrative", "actor": "narrative", "text": "大傻对皮皮鲁说。" },
+
+      { "id": "10015_pipilu", "actor": "pipilu", "text": "我用不着这玩意，你是伟人，你的头应该重点保护。" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "皮皮鲁把致痴盔还给大傻。" },
+
+      { "id": "10017_narrative", "actor": "narrative", "text": "大傻不接致痴盔。" },
+      { "id": "10018_narrative", "actor": "narrative", "text": "皮皮鲁无奈。" },
+
+      { "id": "10019_narrative", "actor": "narrative", "text": "爸爸咳嗽了一声，这是２号方案出台的暗号。" },
+
+      { "id": "10020_luxixi", "actor": "luxixi", "text": "我们在壁橱里发现了一个暗室。" },
+      { "id": "10021_narrative", "actor": "narrative", "text": "鲁西西对大傻说。" },
+
+      { "id": "10022_dasha", "actor": "dasha", "text": "暗室？" },
+      { "id": "10023_narrative", "actor": "narrative", "text": "大傻眼睛一亮。" },
+      { "id": "10024_dasha", "actor": "dasha", "text": "里边有什么？" },
+
+      { "id": "10025_pipilu", "actor": "pipilu", "text": "金子，整整一座金城。" },
+      { "id": "10026_narrative", "actor": "narrative", "text": "皮皮鲁一边说一边观察大傻的神情，他最怕大傻对钱不感兴趣。" },
+
+      { "id": "10027_dasha", "actor": "dasha", "text": "真的？" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "大傻表示出它对黄金的浓厚兴趣。伟猪也爱钱。" },
+
+      { "id": "10029_pipilu", "actor": "pipilu", "text": "不信你自己进去看看。" },
+      { "id": "10030_narrative", "actor": "narrative", "text": "皮皮鲁开始牵着大傻的鼻子走了。" },
+
+      { "id": "10031_dasha", "actor": "dasha", "text": "暗室在哪儿？" },
+      { "id": "10032_narrative", "actor": "narrative", "text": "大傻站起来。" },
+
+      { "id": "10033_narrative", "actor": "narrative", "text": "爸爸拉开壁橱的门。" },
+      { "id": "10034_narrative", "actor": "narrative", "text": "３０９暗室的门事先已经打开了。" },
+
+      { "id": "10035_narrative", "actor": "narrative", "text": "大傻在壁橱前站了一分钟，它凭直觉感到暗室里确实有黄金。" },
+
+      { "id": "10036_dasha", "actor": "dasha", "text": "我下去看看，给我手电。" },
+
+      { "id": "10037_narrative", "actor": "narrative", "text": "妈妈递给大傻手电。" },
+
+      { "id": "10038_narrative", "actor": "narrative", "text": "大傻接过手电，走到３０９暗室的入口处。它用手电往暗室里照。" },
+
+      { "id": "10039_narrative", "actor": "narrative", "text": "皮皮鲁全家人都屏住呼吸，他们生怕大傻改变主意。" },
+
+      { "id": "10040_narrative", "actor": "narrative", "text": "大傻走进３０９暗室。" },
+
+      { "id": "10041_narrative", "actor": "narrative", "text": "爸爸一个箭步冲进壁橱，关上了３０９暗室的大门。" },
+
+      { "id": "10042_narrative", "actor": "narrative", "text": "大傻被关在３０９暗室里了。" },
+
+      { "id": "10043_narrative", "actor": "narrative", "text": "大家松了一口气。" },
+
+      { "id": "10044_luxixi", "actor": "luxixi", "text": "它从里面能找到开门的开关吗？" },
+      { "id": "10045_narrative", "actor": "narrative", "text": "鲁西西为大傻的智商担心。" },
+
+      { "id": "10046_baba", "actor": "baba", "text": "我把里边的开关砸坏了，它找到也没用了。" },
+      { "id": "10047_narrative", "actor": "narrative", "text": "爸爸一边擦汗一边说。" },
+
+      { "id": "10048_pipilu", "actor": "pipilu", "text": "咱们也够损的。大傻现在可是世界名流呀！" },
+
+      { "id": "10049_baba", "actor": "baba", "text": "猪都能当世界名流，这世界也快完了。" },
+      { "id": "10050_narrative", "actor": "narrative", "text": "爸爸又检查了一遍３０９暗室的门关好了没有。" },
+
+      { "id": "10051_luxixi", "actor": "luxixi", "text": "我心里也觉得挺不好受的。" },
+      { "id": "10052_narrative", "actor": "narrative", "text": "鲁西西一想把大傻关进３０９暗室，心里就挺不是滋味儿。" },
+
+      { "id": "10053_mama", "actor": "mama", "text": "你的心情我理解。" },
+      { "id": "10054_narrative", "actor": "narrative", "text": "妈妈对女儿说。" },
+      { "id": "10055_mama", "actor": "mama", "text": "说实话，我也觉得这事有点儿那个。" },
+      { "id": "10056_mama", "actor": "mama", "text": "不过，大傻毕竟只是一头猪，即使它会说全人类所有的语言，即使它头上顶着世界上所有的头衔，它也还是一头猪。" },
+      { "id": "10057_mama", "actor": "mama", "text": "再说了，如果咱们不把它关起来，这个世界的前途会被它毁了的。" },
+      { "id": "10058_narrative", "actor": "narrative", "text": "鲁西西点头。" },
+
+      { "id": "10059_narrative", "actor": "narrative", "text": "全家默默地坐在壁橱旁边，一直坐到晚上１０点，没人说话。" },
+
+      { "id": "10060_baba", "actor": "baba", "text": "该睡觉了。我估计大傻是出不来了。" },
+      { "id": "10061_narrative", "actor": "narrative", "text": "爸爸打破沉寂。" },
+
+      { "id": "10062_narrative", "actor": "narrative", "text": "皮皮鲁走进自己的卧室。他躺在床上翻来覆去好长时间睡不着。不知是因为天热还是由于大傻被关在３０９暗室里。" },
+
+      { "id": "10063_narrative", "actor": "narrative", "text": "深夜，皮皮鲁被冻醒了，他感受到一阵刻骨铭心的寒冷，像是三九天。" },
+
+      { "id": "10064_narrative", "actor": "narrative", "text": "皮皮鲁以为自己发烧生病了，否则任何人也不会在酷热的夏天感到冷。他想去向妈妈要体温表，当他的眼光无意中投向窗外时，他愣了。" },
+
+      { "id": "10065_narrative", "actor": "narrative", "text": "窗外飞舞着满天的鹅毛大雪。" },
+
+      { "id": "10066_narrative", "actor": "narrative", "text": "皮皮鲁连续做了一系列的判断自己是否在梦中的动作后，清醒地意识到，自己是在现实中。" },
+
+      { "id": "10067_narrative", "actor": "narrative", "text": "皮皮鲁打开窗户，一股寒气侵入他的房间，雪花也争先恐后地往屋里挤。" },
+
+      { "id": "10068_narrative", "actor": "narrative", "text": "皮皮鲁打了个哆嗦，他在屋里竟然找不到一件可以御寒的衣服。要知道，现在是夏天呀！" },
+
+      { "id": "10069_narrative", "actor": "narrative", "text": "皮皮鲁看到窗外是一个银色的世界，绿色的树叶已经被雪染白了，就像一个个小伙子大姑娘在青春年华时白了头，别有一番情致。" },
+
+      { "id": "10070_narrative", "actor": "narrative", "text": "夏天时盼冬天，冬天到了又觉得夏天好。皮皮鲁连打了十几个喷嚏。" },
+
+      { "id": "10071_narrative", "actor": "narrative", "text": "鲁西西的房间也传出打喷嚏的声音。" },
+
+      { "id": "10072_narrative", "actor": "narrative", "text": "皮皮鲁跑进走廊敲爸爸妈妈卧室的门。" },
+
+      { "id": "10073_baba", "actor": "baba", "text": "出事了？" },
+      { "id": "10074_narrative", "actor": "narrative", "text": "爸爸从梦中醒来。" },
+
+      { "id": "10075_pipilu", "actor": "pipilu", "text": "冬天来了！" },
+
+      { "id": "10076_baba", "actor": "baba", "text": "冬天？" },
+      { "id": "10077_narrative", "actor": "narrative", "text": "爸爸这才感觉到温度的变化。" },
+
+      { "id": "10078_narrative", "actor": "narrative", "text": "爸爸和妈妈看着窗外的雪一边打哆嗦一边发呆。" },
+      { "id": "10079_baba", "actor": "baba", "text": "这是怎么回事？" },
+
+      { "id": "10080_pipilu", "actor": "pipilu", "text": "妈妈，给我找羽绒服。" },
+
+      { "id": "10081_mama", "actor": "mama", "text": "羽绒服都洗干净收起来了，现在是夏天，穿什么羽绒服呀？" },
+
+      { "id": "10082_pipilu", "actor": "pipilu", "text": "现在的温度比冬天还低。" },
+      { "id": "10083_narrative", "actor": "narrative", "text": "皮皮鲁嘴唇已经发紫了。" },
+
+      { "id": "10084_baba", "actor": "baba", "text": "你就把棉衣找出来吧，我也冻得受不了啦。" },
+
+      { "id": "10085_narrative", "actor": "narrative", "text": "妈妈只得从衣柜里翻出羽绒服。" },
+
+      { "id": "10086_narrative", "actor": "narrative", "text": "这座城市的人都被冻醒了。刚才热得睡不着，现在冷得睡不着。人真难伺候。" },
+
+      { "id": "10087_guangbo", "actor": "guangbo", "text": "广播电台的早新闻告诉听众，这是一次全球性的天气突变。" },
+
+      { "id": "10088_narrative", "actor": "narrative", "text": "皮皮鲁和爸爸决定穿冬装上学上班。而鲁西西和妈妈则坚持穿夏装。" },
+
+      { "id": "10089_baba", "actor": "baba", "text": "会冻死的！" },
+      { "id": "10090_narrative", "actor": "narrative", "text": "爸爸反对妻子和女儿穿裙子出门。" },
+
+      { "id": "10091_mama", "actor": "mama", "text": "现在是夏天！" },
+      { "id": "10092_narrative", "actor": "narrative", "text": "妈妈指着日历强调。" },
+
+      { "id": "10093_baba", "actor": "baba", "text": "可气温是零下１０度！" },
+
+      { "id": "10094_mama", "actor": "mama", "text": "就是零下１００度也是夏天。夏天就只能穿夏装。谁见过７月穿羽绒服的？" },
+      { "id": "10095_narrative", "actor": "narrative", "text": "妈妈振振有词。" },
+
+      { "id": "10096_pipilu", "actor": "pipilu", "text": "管他冬天夏天，什么温度就穿什么衣服。" },
+      { "id": "10097_narrative", "actor": "narrative", "text": "皮皮鲁的哲学。" },
+
+      { "id": "10098_baba", "actor": "baba", "text": "女人喜欢在冬天穿夏装，你让她们夏天穿冬装，这不是５８猪王照像等于要人家的命嘛。" },
+      { "id": "10099_narrative", "actor": "narrative", "text": "爸爸冲儿子挤眼睛。" },
+
+      { "id": "10100_narrative", "actor": "narrative", "text": "给气象台打个电话，问问是怎么回事。" },
+      { "id": "10101_narrative", "actor": "narrative", "text": "皮皮鲁拨气象台的号码。" },
+
+      { "id": "10102_narrative", "actor": "narrative", "text": "永远占线。" },
+
+      { "id": "10103_narrative", "actor": "narrative", "text": "给气象台打电话询问天气的人成千上万，气象台又说不出个所以然，干脆把话筒放在桌子上罢工。" },
+
+      { "id": "10104_narrative", "actor": "narrative", "text": "电视台的电话线也快被挤断了。" },
+      { "id": "10105_boyinyuan", "actor": "boyinyuan", "text": "各路专家正在紧急研究这一奇特的气象现象。" },
+      { "id": "10106_boyinyuan", "actor": "boyinyuan", "text": "夏季奥运会准备改为冬季奥运会。" },
+      { "id": "10107_boyinyuan", "actor": "boyinyuan", "text": "裙服展销改为羽绒服展销。" },
+      { "id": "10108_narrative", "actor": "narrative", "text": "……不管怎么说，皮皮鲁喜欢雪。" },
+
+      { "id": "10109_narrative", "actor": "narrative", "text": "中午，电视台告诉大家，专家研究的结果出来了：这是大自然对人类破坏生态平衡的一次惩罚。" },
+
+      { "id": "10110_narrative", "actor": "narrative", "text": "皮皮鲁觉得没道理。" },
+
+      { "id": "10111_narrative", "actor": "narrative", "text": "还有专家认为这是地震的前兆。" },
+      { "id": "10112_narrative", "actor": "narrative", "text": "爸爸在饭桌旁把报纸递给妈妈。" },
+
+      { "id": "10113_narrative", "actor": "narrative", "text": "全市只上半天班半天学，一场雪闹得人心慌慌，无法工作无法上课。除了星期日，皮皮鲁全家难得像今天这样全家一起吃午饭。" },
+
+      { "id": "10114_narrative", "actor": "narrative", "text": "皮皮鲁的目光突然发直。" },
+
+      { "id": "10115_mama", "actor": "mama", "text": "你是不是感冒了？" },
+      { "id": "10116_narrative", "actor": "narrative", "text": "妈妈问，今天感冒的人特别多。" },
+
+      { "id": "10117_narrative", "actor": "narrative", "text": "皮皮鲁不说话。" },
+
+      { "id": "10118_baba", "actor": "baba", "text": "你怎么了？" },
+      { "id": "10119_narrative", "actor": "narrative", "text": "爸爸碰碰儿子的肩膀。" },
+
+      { "id": "10120_narrative", "actor": "narrative", "text": "皮皮鲁还是不吭声。" },
+
+      { "id": "10121_narrative", "actor": "narrative", "text": "家人顺着皮皮鲁的眼神看去，发现他的目光落在壁橱的门上。" },
+
+      { "id": "10122_narrative", "actor": "narrative", "text": "皮皮鲁在看３０９暗室。" }
+    ]
+  }
+}
