@@ -1,0 +1,548 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      {
+        "key": "pipilu",
+        "voice": "zh_male_yangguangqingnian_mars_bigtts"
+      },
+      {
+        "key": "luxixi",
+        "voice": "ICL_zh_female_wuxi_tob"
+      },
+      {
+        "key": "meng",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "skeleton_dad",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "little_skeleton",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "skeleton_crowd",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "attendant",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "god",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "第三章……骷髅城的秘密……"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁将汽车停在一座别墅式的小楼旁边，他们下车。楼门开着。孟走到门口往里一看，她的声带突然发出了极其恐怖的尖叫。"
+      },
+      {
+        "id": "10003_meng",
+        "actor": "meng",
+        "emotion": "fear",
+        "text": "啊——"
+      },
+      {
+        "id": "10004_narrative",
+        "actor": "narrative",
+        "text": "孟脸色煞白地往皮皮鲁身边跑。"
+      },
+      {
+        "id": "10005_pipilu",
+        "actor": "pipilu",
+        "emotion": "tension",
+        "text": "怎么了？"
+      },
+      {
+        "id": "10006_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁拿好姿势靠近楼门往里看。难怪孟惊叫，换哪个女生都得叫。楼里是一具骷髅——全身骷髅。皮皮鲁不怕骷髅，他最喜欢玩的玩具就是骷髅造型的玩具。"
+      },
+      {
+        "id": "10007_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "有什么可怕的？不就是骷髅嘛……"
+      },
+      {
+        "id": "10008_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁只英雄了半句，他的眼神突然变了。那骷髅动了！他向门口走过来。皮皮鲁本能地往后退。不知道屋里发生了什么事的鲁西西嘲笑皮皮鲁："
+      },
+      {
+        "id": "10009_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "你退什么？进去呀！"
+      },
+      {
+        "id": "10010_narrative",
+        "actor": "narrative",
+        "text": "当鲁西西看见门口出现一个会走路的骷髅时，她的肤色立刻由黄种人变成了白种人。"
+      },
+      {
+        "id": "10011_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "neutral",
+        "text": "你们是什么？"
+      },
+      {
+        "id": "10012_narrative",
+        "actor": "narrative",
+        "text": "骷髅说话了！皮皮鲁、鲁西西和孟呆若木鸡。六条腿像被钉在了地上，动不了窝。"
+      },
+      {
+        "id": "10013_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "surprised",
+        "text": "你们怎么长成这个样子？你们是外星人？"
+      },
+      {
+        "id": "10014_narrative",
+        "actor": "narrative",
+        "text": "骷髅显然也很惊讶。"
+      },
+      {
+        "id": "10015_little_skeleton",
+        "actor": "little_skeleton",
+        "emotion": "shy",
+        "text": "爸爸，你在跟谁说话？"
+      },
+      {
+        "id": "10016_narrative",
+        "actor": "narrative",
+        "text": "屋里传出一个童音，紧接着是脚步声。皮皮鲁、鲁西西和孟的目光射向骷髅的身后。一个小骷髅出现在门口！小骷髅看到皮皮鲁他们时停住了脚步，他抓住爸爸的手："
+      },
+      {
+        "id": "10017_little_skeleton",
+        "actor": "little_skeleton",
+        "emotion": "fear",
+        "text": "爸爸，他们是什么？是怪人还是怪面兽？"
+      },
+      {
+        "id": "10018_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "neutral",
+        "text": "我也不知道，可能他们不会说话，是一种低等动物。"
+      },
+      {
+        "id": "10019_narrative",
+        "actor": "narrative",
+        "text": "骷髅爸爸对骷髅儿子说。"
+      },
+      {
+        "id": "10020_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "我们会说话。"
+      },
+      {
+        "id": "10021_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁恢复了镇静。"
+      },
+      {
+        "id": "10022_pipilu",
+        "actor": "pipilu",
+        "emotion": "tension",
+        "text": "你们是人还是鬼？"
+      },
+      {
+        "id": "10023_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "neutral",
+        "text": "我们是能直立着走路的骷髅猪。"
+      },
+      {
+        "id": "10024_narrative",
+        "actor": "narrative",
+        "text": "骷髅爸爸见皮皮鲁说话了，还挺惊讶。"
+      },
+      {
+        "id": "10025_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "是活的还是死的？"
+      },
+      {
+        "id": "10026_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁又问。"
+      },
+      {
+        "id": "10027_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "surprised",
+        "text": "什么叫活？什么叫死？"
+      },
+      {
+        "id": "10028_narrative",
+        "actor": "narrative",
+        "text": "骷髅爸爸不懂。皮皮鲁给他解释生和死的差别。骷髅爸爸笑了："
+      },
+      {
+        "id": "10029_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "storytelling",
+        "text": "你对生死的看法太浅保你以为活着就是生，停止了呼吸就是死。其实，生中有死，死中有生。生就是死，死就是生。从本质上说，生是死的开始，死也是生的开始。"
+      },
+      {
+        "id": "10030_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁、鲁西西和孟觉得骷髅爸爸的话很深刻。生和死的确是人类的每一个成员关心的问题。许多科学家以探讨生死为谋生手段，但是他们只是在那里故弄玄虚蹭口饭吃，一个活骷髅往那儿一站，就是一部探讨生与死的哲学巨著，它全身上下的每一块骨头都透着琢磨不完的哲理。"
+      },
+      {
+        "id": "10031_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "你们这儿都是骷髅？"
+      },
+      {
+        "id": "10032_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁问骷髅爸爸。"
+      },
+      {
+        "id": "10033_skeleton_dad",
+        "actor": "skeleton_dad",
+        "emotion": "surprised",
+        "text": "什么叫骷髅？"
+      },
+      {
+        "id": "10034_narrative",
+        "actor": "narrative",
+        "text": "骷髅爸爸不懂。"
+      },
+      {
+        "id": "10035_luxixi",
+        "actor": "luxixi",
+        "emotion": "neutral",
+        "text": "就是你们这个模样。"
+      },
+      {
+        "id": "10036_narrative",
+        "actor": "narrative",
+        "text": "鲁西西壮着胆子插嘴。骷髅爸爸点头。"
+      },
+      {
+        "id": "10037_meng",
+        "actor": "meng",
+        "emotion": "happy",
+        "text": "一座骷髅城。"
+      },
+      {
+        "id": "10038_narrative",
+        "actor": "narrative",
+        "text": "孟说。不知怎么搞的，她开始喜欢这儿了。鲁西西发现，长得不好看的孟在这儿，变成了仙女。街道上行人开始多起来，全是清一色的骷髅。只是有的是直立着的骷髅猪，有的却是骷髅人。在皮皮鲁他们眼中，骷髅猪和骷髅人长得全是一个样。骷髅人开始围观皮皮鲁他们。"
+      },
+      {
+        "id": "10039_skeleton_crowd",
+        "actor": "skeleton_crowd",
+        "emotion": "surprised",
+        "text": "哪儿来的这几个怪人？"
+      },
+      {
+        "id": "10040_skeleton_crowd",
+        "actor": "skeleton_crowd",
+        "emotion": "neutral",
+        "text": "他们身上包着一层什么？"
+      },
+      {
+        "id": "10041_skeleton_crowd",
+        "actor": "skeleton_crowd",
+        "emotion": "surprised",
+        "text": "头上怎么还有毛？"
+      },
+      {
+        "id": "10042_narrative",
+        "actor": "narrative",
+        "text": "骷髅七嘴八舌议论皮皮鲁他们。皮皮鲁、鲁西西和孟浑身不自在。进退两难。"
+      },
+      {
+        "id": "10043_luxixi",
+        "actor": "luxixi",
+        "emotion": "tension",
+        "text": "皮皮鲁，你别忘了牌子上写的是第一试验场。"
+      },
+      {
+        "id": "11044_narrative",
+        "actor": "narrative",
+        "text": "鲁西西小声提醒皮皮鲁。这是谁的试验场？皮皮鲁找不到答案。这里是上帝的试验场。"
+      },
+	  {
+        "id": "11045_narrative",
+        "actor": "narrative",
+        "text": "原来，自有人类以来，上帝发现自己在人间计行的不少'政策'有失误。"
+      },
+      {
+        "id": "11046_narrative",
+        "actor": "narrative",
+        "text": "后来，为了减少失误，上帝在计行新的计划之前，先做试验，试验成功后，再在人类实行。三零九暗室的铁门里是上帝的第一试验场。"
+      },
+      {
+        "id": "11047_narrative",
+        "actor": "narrative",
+        "text": "那这些骷髅是怎么回事呢？上帝主张人类的每一位成员从出生开始就进入竞争状态，但这种竞争必须是绝对公平的，所有人的起点都应该是一样的。"
+      },
+      {
+        "id": "11048_narrative",
+        "actor": "narrative",
+        "text": "但是近年来上帝忽然发现人类之间的竞争由于相貌、肤色的差异而导致绝对的不公平。上帝为此忧心忡忡，他深感自己把人类成员的相貌和肤色弄成有差异的是一个严重的错误，这一失误造成的后果违背了他的人类公平竞争的初衷。"
+      },
+      {
+        "id": "11049_narrative",
+        "actor": "narrative",
+        "text": "上帝终于在最近下决心纠正自己的这一错误。改正错误的方法是：从两千面一月一日零时期，全人类的每一位成员均从有血有肉的形体转化为骷髅形体。"
+      },
+      {
+        "id": "11050_narrative",
+        "actor": "narrative",
+        "text": "这样，人类的所有成员都是具有同样的“相貌”和同样的“肤色”，竞争由此而公平，展现在每个人面前的机会均等。这个计划代号是“去皮行动”。"
+      },
+      {
+        "id": "11051_narrative",
+        "actor": "narrative",
+        "text": "为了不再失误，上帝先在他的一号试验场搞试点。这一号试验场是将直立着的猪骷髅和人骷髅放在一起，因为人认为猪最丑，常把长得最丑的人骂为“长得像个猪”，猪变成骷髅后再直立着走路其实和人没有任何美丑之分。"
+      },
+      {
+        "id": "11052_narrative",
+        "actor": "narrative",
+        "text": "试验结果初步表明，“去皮行动”极其成功。猪和人类以骷髅形态生存有不计其数的优点，每位成员之间都是公平竞争，不因为形象和肤色而受到歧视。"
+      },
+      {
+        "id": "11053_narrative",
+        "actor": "narrative",
+        "text": "上帝对试验结果表示满意。今天是圣诞节，上帝正在休息。侍从禀报上帝："
+      },
+      {
+        "id": "10045_attendant",
+        "actor": "attendant",
+        "emotion": "neutral",
+        "text": "有三个人类成员闯入一号试验场。"
+      },
+      {
+        "id": "10046_narrative",
+        "actor": "narrative",
+        "text": "上帝略显惊讶："
+      },
+      {
+        "id": "10047_god",
+        "actor": "god",
+        "emotion": "surprised",
+        "text": "怎么回事？"
+      },
+      {
+        "id": "10048_attendant",
+        "actor": "attendant",
+        "emotion": "neutral",
+        "text": "已查明，是误入。"
+      },
+      {
+        "id": "10049_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "把这三个人的资料给我看看。"
+      },
+      {
+        "id": "10050_narrative",
+        "actor": "narrative",
+        "text": "侍从用电脑调出皮皮鲁三人的资料。上帝边看边点头。他产生了一个新的想法。"
+      },
+      {
+        "id": "10051_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "把他们三个带来见我。"
+      },
+      {
+        "id": "10052_narrative",
+        "actor": "narrative",
+        "text": "上帝吩咐侍从。围观皮皮鲁、鲁西西和孟的骷髅猪越来越多。皮皮鲁正在冥思苦想突围的办法。一辆天蓝色豪华轿车驱开骷髅，停在皮皮鲁他们身边。侍从下车请皮皮鲁三人上车。"
+      },
+      {
+        "id": "10053_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "去哪儿？"
+      },
+      {
+        "id": "10054_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁问。"
+      },
+      {
+        "id": "10055_attendant",
+        "actor": "attendant",
+        "emotion": "neutral",
+        "text": "去见上帝。"
+      },
+      {
+        "id": "10056_narrative",
+        "actor": "narrative",
+        "text": "侍从说。"
+      },
+      {
+        "id": "10057_luxixi",
+        "actor": "luxixi",
+        "emotion": "tension",
+        "text": "为什么？"
+      },
+      {
+        "id": "10058_narrative",
+        "actor": "narrative",
+        "text": "鲁西西急了。在人类语言中，去见上帝和去死是同义词。"
+      },
+      {
+        "id": "10059_attendant",
+        "actor": "attendant",
+        "emotion": "neutral",
+        "text": "上帝要见你们。"
+      },
+      {
+        "id": "10060_narrative",
+        "actor": "narrative",
+        "text": "侍从又做了一个请的动作。皮皮鲁想起了骷髅爸爸刚才说的生就是死，死就是生的话，他先钻进汽车。孟和鲁西西只好跟着上车。他们真的见到了上帝。上帝终究是上帝，没有丝毫盛气凌人的气势，一眼看去，比人间的处长级别还低。皮皮鲁这才懂了一个道理：级别越低，派头越大。"
+      },
+      {
+        "id": "10061_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "你们认为人类成员之间的竞争公平吗？"
+      },
+      {
+        "id": "10062_narrative",
+        "actor": "narrative",
+        "text": "三个人面面相觑。皮皮鲁想了想，说："
+      },
+      {
+        "id": "10063_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "不公平。"
+      },
+      {
+        "id": "10064_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "为什么？"
+      },
+      {
+        "id": "10065_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "相貌不一样。肤色不一样。"
+      },
+      {
+        "id": "10066_narrative",
+        "actor": "narrative",
+        "text": "上帝把他的“去皮行动”计划透露给他的三位小客人。皮皮鲁、鲁西西和孟惊愕。"
+      },
+      {
+        "id": "10067_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "怎么，这个计划不好吗？"
+      },
+      {
+        "id": "10068_pipilu",
+        "actor": "pipilu",
+        "emotion": "surprised",
+        "text": "人类的每一个成员都变成骷髅人？"
+      },
+      {
+        "id": "10069_narrative",
+        "actor": "narrative",
+        "text": "上帝点头。"
+      },
+      {
+        "id": "10070_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "从什么时间开始？"
+      },
+      {
+        "id": "10071_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "两千面一月一日零点整实行这一转化。"
+      },
+      {
+        "id": "10072_meng",
+        "actor": "meng",
+        "emotion": "happy",
+        "text": "我赞成。人的本质其实就是骷髅，有了皮肉，反而使人忘了本质，只活表面。"
+      },
+      {
+        "id": "10073_luxixi",
+        "actor": "luxixi",
+        "emotion": "neutral",
+        "text": "没错，人为表面耗费精力财力太多。像那些化妆品、洗发水什么的，实在是自己折腾自己。"
+      },
+      {
+        "id": "10074_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "我赞成公平竞争。看来要想在人类实行公平竞争也只有把人类变成骷髅人了。"
+      },
+      {
+        "id": "10075_meng",
+        "actor": "meng",
+        "emotion": "neutral",
+        "text": "您使用什么办法给人类去皮？不会有痛苦吧？"
+      },
+      {
+        "id": "10076_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "不疼。这是一种特殊的电磁波。只需要几秒钟就行了。两千面一月一日零时以闪电的形式在全球同时施放这种去皮电磁波。"
+      },
+      {
+        "id": "10077_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁想象着那个场面。"
+      },
+      {
+        "id": "10078_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "我请你们帮我做一个试验，从一号试验场带一个骷髅猪去人间，我想看看人类对他有什么反应。我以此制造人类对骷髅的承受力。"
+      },
+      {
+        "id": "10079_pipilu",
+        "actor": "pipilu",
+        "emotion": "tension",
+        "text": "这……人类会伤害他吧？"
+      },
+      {
+        "id": "10080_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁拿不定主意。"
+      },
+      {
+        "id": "10081_god",
+        "actor": "god",
+        "emotion": "neutral",
+        "text": "我会给他一支去皮电磁波枪护身的。"
+      },
+      {
+        "id": "10082_narrative",
+        "actor": "narrative",
+        "text": "去皮电磁波枪能将有血有肉的人变成骷髅人。皮皮鲁在征求鲁西西和孟的意见后，同意了。他们不能推辞为上帝提供第一手材料。"
+      }
+    ]
+  }
+}

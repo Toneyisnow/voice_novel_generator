@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      { "key": "luxixi", "voice": "ICL_zh_female_wuxi_tob" },
+      { "key": "pipilu", "voice": "zh_male_yangguangqingnian_mars_bigtts" },
+      { "key": "meng", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "father", "voice": "zh_female_kailangjiejie_moon_bigtts" },
+      { "key": "mother", "voice": "zh_female_kailangjiejie_moon_bigtts" }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      { "id": "10001_narrative", "actor": "narrative", "text": "第一章……贺卡风波……" },
+
+      { "id": "10002_narrative", "actor": "narrative", "text": "这几天下课铃一响，同学们就往传达室跑，看谁收到的贺卡多。" },
+      { "id": "10003_narrative", "actor": "narrative", "text": "圣诞节前夕，同学们互相寄圣诞贺卡。贺卡这东西挺怪，价值不高，却能给人带来价值连城的精神享受。发明贺卡的那个人脑子绝对聪明。" },
+      { "id": "10004_narrative", "actor": "narrative", "text": "鲁西西已经收到１０张贺卡了，她感到幸福。在这个星球上，有１０个人在过节时想着你，你一定能体会到生命的美妙，心里有一种热忽忽感觉。" },
+      { "id": "10005_narrative", "actor": "narrative", "text": "有的贺卡上没有署名，鲁西西凭字迹猜测是谁寄给她的。" },
+      { "id": "10006_narrative", "actor": "narrative", "text": "越是猜不出，她就越觉得温暖，有一种是全人类寄给她的感觉。" },
+      { "id": "10007_narrative", "actor": "narrative", "text": "下课铃又响了，同学们一窝蜂似地朝传达室的信箱跑。" },
+      { "id": "10008_narrative", "actor": "narrative", "text": "鲁西西跑了一半路忽然想起忘了拿一本应该还给邻班同学的书，她返回教室。" },
+      { "id": "10009_narrative", "actor": "narrative", "text": "教室里只剩下一位女同学，她脸上挂着泪珠。" },
+
+      { "id": "10010_luxixi", "actor": "luxixi", "text": "孟，你怎么了？" },
+      { "id": "10011_narrative", "actor": "narrative", "text": "鲁西西顾不上拿书，先走到孟身边。" },
+      { "id": "10012_narrative", "actor": "narrative", "text": "孟不吭声，眼泪的流速明显加快。" },
+
+      { "id": "10013_luxixi", "actor": "luxixi", "text": "有欺负你了？" },
+      { "id": "10014_narrative", "actor": "narrative", "text": "孟摇头。" },
+
+      { "id": "10015_luxixi", "actor": "luxixi", "text": "老师找你爸爸了？" },
+      { "id": "10016_narrative", "actor": "narrative", "text": "鲁西西想不出还有什么理由能使孟在课间休息时一个人闷在教室里掉眼泪。" },
+
+      { "id": "10017_meng", "actor": "meng", "text": "没人给我寄贺卡。一张也没有！我给全班每位同学寄了一张贺卡，可没有一个人给我寄。" },
+      { "id": "10018_narrative", "actor": "narrative", "text": "孟索性趴在课桌上放声大哭。" },
+      { "id": "10019_narrative", "actor": "narrative", "text": "鲁西西愣了。" },
+
+      { "id": "10020_narrative", "actor": "narrative", "text": "孟是一个长得很难看的女孩子，在班上没人注意她。没有男生向她献殷勤，女生不爱和她一起玩，就连老师也很少搭理她。这一切，都是因为她长得难看。" },
+      { "id": "10021_narrative", "actor": "narrative", "text": "鲁西西呆站在孟身边。她忽然觉得自己挺丑恶，比孟难看多了。她的１０张贺卡有一张是孟寄给她的，可她根本没动过给孟寄贺卡的念头！" },
+      { "id": "10022_narrative", "actor": "narrative", "text": "鲁西西寄出去１５张贺卡，其中有６张寄给了班上最帅的６位男生，其他的寄给了女生，鲁西西想了想，身上打了个冷战，那几位女生都属于相貌较好的！" },
+      { "id": "10023_narrative", "actor": "narrative", "text": "寄贺卡时，鲁西西并没有以貌取人，可是在潜意识的驱使下，她这样做了。" },
+
+      { "id": "10024_luxixi", "actor": "luxixi", "text": "离圣诞节还有两天呢，你别急，你会收到贺卡的。" },
+      { "id": "10025_narrative", "actor": "narrative", "text": "鲁西西掏出手绢，还没递给孟时，她自己的眼泪已经出来了。" },
+
+      { "id": "10026_meng", "actor": "meng", "text": "不会的，去年我就一张也没收到。" },
+      { "id": "10027_narrative", "actor": "narrative", "text": "孟抬起泪眼看着鲁西西说。" },
+      { "id": "10028_narrative", "actor": "narrative", "text": "人为什么有好看难看之分呢？鲁西西感到上帝不公平。" },
+
+      { "id": "10029_narrative", "actor": "narrative", "text": "放学后，鲁西西到自选商场买了５０张不同的圣诞贺卡。" },
+
+      { "id": "10030_pipilu", "actor": "pipilu", "text": "你要办贺卡展销呀？" },
+      { "id": "10031_narrative", "actor": "narrative", "text": "皮皮鲁见鲁西西把贺卡摆了一桌子，问。" },
+
+      { "id": "10032_father", "actor": "father", "text": "买这么多贺卡？" },
+      { "id": "10033_narrative", "actor": "narrative", "text": "爸爸闻声走过来看。" },
+
+      { "id": "10034_pipilu", "actor": "pipilu", "text": "朋友还不少。" },
+      { "id": "10035_narrative", "actor": "narrative", "text": "皮皮鲁一边嚼口香糖一边说。" },
+
+      { "id": "10036_luxixi", "actor": "luxixi", "text": "都是寄给一个人的。" },
+      { "id": "10037_narrative", "actor": "narrative", "text": "鲁西西低头整理贺卡。" },
+
+      { "id": "10038_pipilu", "actor": "pipilu", "text": "寄给一个人？谁？他是谁？谁这么有福气，准是你们班那个高个子小白脸班长吧？" },
+      { "id": "10039_narrative", "actor": "narrative", "text": "皮皮鲁逗妹妹。" },
+
+      { "id": "10040_luxixi", "actor": "luxixi", "text": "女生。" },
+      { "id": "10041_narrative", "actor": "narrative", "text": "鲁西西瞪了皮皮鲁一眼，" },
+      { "id": "10042_luxixi", "actor": "luxixi", "text": "像你，贺卡全寄给女生。" },
+
+      { "id": "10043_mother", "actor": "mother", "text": "给同一个女生寄这么多贺卡？" },
+      { "id": "10044_narrative", "actor": "narrative", "text": "当医生的妈妈从厨房里走出来，职业习惯驱使她注视着女儿的面部表情。她是那种有医学知识的妈妈，她不怕女儿只同男生交往，就怕女儿只同女生交往。" },
+
+      { "id": "10045_narrative", "actor": "narrative", "text": "鲁西西把孟的苦恼告诉大家。" },
+
+      { "id": "10046_father", "actor": "father", "text": "你做得对。咱们一起给她写贺卡。" },
+      { "id": "10047_narrative", "actor": "narrative", "text": "爸爸从笔筒里抽出四支笔，分给一人一支。" },
+
+      { "id": "10048_narrative", "actor": "narrative", "text": "妈妈连饭也不做了。" },
+      { "id": "10049_narrative", "actor": "narrative", "text": "四个人坐在四方餐桌的四边，分头给孟写贺卡。" },
+
+      { "id": "10050_father", "actor": "father", "text": "以貌取人，不像话。" },
+      { "id": "10051_narrative", "actor": "narrative", "text": "爸爸边写边说。" },
+
+      { "id": "10052_pipilu", "actor": "pipilu", "text": "我们班老师就喜欢长得好的同学，谁长得好他让谁当班长。你们去我们学校看看，班干部一个比一个好看，简直成了选美。" },
+      { "id": "10053_narrative", "actor": "narrative", "text": "皮皮鲁发议论。" },
+
+      { "id": "10054_luxixi", "actor": "luxixi", "text": "你想想，你的贺卡是不是都寄给班上长得好的女生了？" },
+      { "id": "10055_narrative", "actor": "narrative", "text": "鲁西西提醒皮皮鲁。" },
+
+      { "id": "10056_narrative", "actor": "narrative", "text": "皮皮鲁回忆。脸红。" },
+
+      { "id": "10057_mother", "actor": "mother", "text": "长得好的人好办事。有位心理学家研究说，长得好的人参加工作后升职比较快。" },
+
+      { "id": "10058_father", "actor": "father", "text": "长得好的人求职容易，特别是女性。" },
+
+      { "id": "10059_pipilu", "actor": "pipilu", "text": "这事是不大公平。人无法决定自己的长相。可是长得好的人确实占便宜。" },
+      { "id": "10060_narrative", "actor": "narrative", "text": "皮皮鲁若有所思。" },
+
+      { "id": "10061_luxixi", "actor": "luxixi", "text": "人的潜意识里都喜欢长得好的人。我和皮皮鲁的贺卡都不自觉地寄给了长得好的同学，这就很说明问题。" },
+
+      { "id": "10062_father", "actor": "father", "text": "今天的报纸上说，南非歧视黑人的现象还很严重。肤色也受歧视。" },
+      { "id": "10063_narrative", "actor": "narrative", "text": "爸爸忿忿地说。" },
+
+      { "id": "10064_pipilu", "actor": "pipilu", "text": "我看到一份小报上说，欧洲某汽车公司生产的一种汽车只卖给白种人，绝对不许卖给有色人种。" },
+
+      { "id": "10065_father", "actor": "father", "text": "人从一生下来开始，为了生存，就和同类展开了竞争。人从生到死都在与同类竞争。正是这种竞争计动了人类社会的发展。但这种竞争应该是平等的，大家都站在同一起跑线上。" },
+      { "id": "10066_narrative", "actor": "narrative", "text": "爸爸奇天荒点了一支烟，猛吸了几口。" },
+
+      { "id": "10067_mother", "actor": "mother", "text": "事实可不是这样。由于肤色和相貌的差异，有的人从起点起跑，有的人却从１００米处起跑，甚至有人从１０００米处起跑。人类的竞争是不公平的竞争。" },
+      { "id": "10068_narrative", "actor": "narrative", "text": "妈妈叹了口气。" },
+
+      { "id": "10069_father", "actor": "father", "text": "我提个建议，咱们家从现在开始，今后处世时不再以貌取人，不管长得好还是长得不好，一视同仁。" },
+      { "id": "10070_narrative", "actor": "narrative", "text": "爸爸把烟蒂按灭。全投赞成票。" },
+
+      { "id": "10071_narrative", "actor": "narrative", "text": "５０张圣诞贺卡都写完了，鲁西西将贺卡整好，准备投进邮筒。" },
+
+      { "id": "10072_mother", "actor": "mother", "text": "光给她寄贺卡好像还不够，她大概从小受到的都是漠视。" },
+      { "id": "10073_narrative", "actor": "narrative", "text": "妈妈自言自语。" },
+
+      { "id": "10074_luxixi", "actor": "luxixi", "text": "没错，她说她爸爸妈妈整天挖苦她长得难看。" },
+
+      { "id": "10075_father", "actor": "father", "text": "咱们应该尽咱们的力量恢复她的自尊。" },
+      { "id": "10076_narrative", "actor": "narrative", "text": "爸爸在屋里来回踱步。" },
+
+      { "id": "10077_pipilu", "actor": "pipilu", "text": "我有个建议，可能你们通不过。" },
+
+      { "id": "10078_father", "actor": "father", "text": "你说。" },
+
+      { "id": "10079_luxixi", "actor": "luxixi", "text": "你说。" },
+      { "id": "10080_narrative", "actor": "narrative", "text": "鲁西西问。" },
+
+      { "id": "10081_pipilu", "actor": "pipilu", "text": "邀请她和我们一起去３０９暗室的铁门探险。" },
+
+      { "id": "10082_narrative", "actor": "narrative", "text": "的确是个好主意。孟如果知道鲁西西全家把属于自己的秘密告诉了她并让她享受去３０９暗室探险的殊荣，她保准再不觉得自己比别人差了。" },
+
+      { "id": "10083_father", "actor": "father", "text": "她的嘴严吗？" },
+      { "id": "10084_narrative", "actor": "narrative", "text": "爸爸问女儿。" },
+
+      { "id": "10085_luxixi", "actor": "luxixi", "text": "几乎不说话。" },
+
+      { "id": "10086_mother", "actor": "mother", "text": "品质如何？" },
+      { "id": "10087_narrative", "actor": "narrative", "text": "妈妈想起了金门里的金城和那个名叫金双龙的金蝎子。" },
+
+      { "id": "10088_luxixi", "actor": "luxixi", "text": "正直。有同情心。" },
+      { "id": "10089_narrative", "actor": "narrative", "text": "鲁西西给孟打了高分。" },
+
+      { "id": "10090_father", "actor": "father", "text": "我同意邀请她和你们一起去３０９暗室的铁门探险。" },
+
+      { "id": "10091_narrative", "actor": "narrative", "text": "妈妈想了想，说：" },
+      { "id": "10092_mother", "actor": "mother", "text": "我也同意。不过有个条件，金门、银门和铜门的事最好不告诉她。" },
+      { "id": "10093_narrative", "actor": "narrative", "text": "皮皮鲁和鲁西西点头。" }
+    ]
+  }
+}

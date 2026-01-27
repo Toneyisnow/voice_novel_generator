@@ -8,13 +8,13 @@ from volc.volc_websocket import volc_generate_voice
 
 
 def main_generate():
-    for chapter_id in range(2, 6):
+    for chapter_id in range(1, 6):
         generate_chapter(chapter_id)
 
 
 def generate_chapter(chapter_id: int):
 
-    novel_name = "fairy_tales/309_secret_room_copper_door/"
+    novel_name = "fairy_tales/309_secret_room_iron_door/"
 
     # 读取 JSON 文件
     with open('resources/novels/' + novel_name + 'transcript_' + str(chapter_id) + '.txt', 'r', encoding='utf-8') as f:
@@ -33,12 +33,8 @@ def generate_chapter(chapter_id: int):
     # 遍历 paragraphs
     for paragraph in data["contents"]["paragraphs"]:
 
-        count = count + 1
-        # if count < 66:
-        #     continue
-
-        # if count > 16:
-        #     break
+        pid = paragraph["id"]
+        pindex = int(pid.split('_')[0])
 
         actor_key = paragraph["actor"]
         emotion = paragraph["emotion"] if hasattr(paragraph, "emotion") else None

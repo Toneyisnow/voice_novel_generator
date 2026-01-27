@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "narrative": {
+      "voice": "zh_female_kailangjiejie_moon_bigtts"
+    },
+    "actors": [
+      {
+        "key": "pipilu",
+        "voice": "zh_male_yangguangqingnian_mars_bigtts"
+      },
+      {
+        "key": "luxixi",
+        "voice": "ICL_zh_female_wuxi_tob"
+      },
+      {
+        "key": "meng",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "dad",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      },
+      {
+        "key": "mom",
+        "voice": "zh_female_kailangjiejie_moon_bigtts"
+      }
+    ]
+  },
+  "contents": {
+    "paragraphs": [
+      {
+        "id": "10001_narrative",
+        "actor": "narrative",
+        "text": "第二章……神秘试验场……"
+      },
+      {
+        "id": "10002_narrative",
+        "actor": "narrative",
+        "text": "第二天课间休息时，鲁西西对孟说："
+      },
+      {
+        "id": "10003_luxixi",
+        "actor": "luxixi",
+        "emotion": "neutral",
+        "text": "去传达室看看，说不定会有你的贺卡。"
+      },
+      {
+        "id": "10004_narrative",
+        "actor": "narrative",
+        "text": "孟摇摇头，坐在原地不动。"
+      },
+      {
+        "id": "10005_luxixi",
+        "actor": "luxixi",
+        "emotion": "comfort",
+        "text": "走吧，明天就是圣诞节了，准会有朋友祝福你。"
+      },
+      {
+        "id": "10006_narrative",
+        "actor": "narrative",
+        "text": "鲁西西将孟从座位上拽起来，硬拉着她往教室外边走。孟苦笑着，勉强同鲁西西来到传达室。"
+      },
+      {
+        "id": "10007_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "你看，你的贺卡！"
+      },
+      {
+        "id": "10008_narrative",
+        "actor": "narrative",
+        "text": "鲁西西从信箱里抽出一张递给孟。孟的眼睛亮了。她迫不急待地从鲁西西手中接过贺卡，笑容爬上了她的脸庞。"
+      },
+      {
+        "id": "10009_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "还有一张！"
+      },
+      {
+        "id": "10010_narrative",
+        "actor": "narrative",
+        "text": "鲁西西又递给孟一张。"
+      },
+      {
+        "id": "10011_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "这里又有一张！"
+      },
+      {
+        "id": "10012_narrative",
+        "actor": "narrative",
+        "text": "鲁西西说。孟惊愕，她的脸颊上泛起了幸福的红晕。捧着五十张贺卡，孟变得美丽极了，她站在蓝天白云下，整个儿是一个漂亮迷人的小姑娘。鲁西西这才知道爱有如此神奇的力量，它能将丑变美。"
+      },
+      {
+        "id": "10013_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "全班数你收到的圣诞贺卡多。"
+      },
+      {
+        "id": "10014_narrative",
+        "actor": "narrative",
+        "text": "鲁西西对孟说。"
+      },
+      {
+        "id": "10015_meng",
+        "actor": "meng",
+        "emotion": "surprised",
+        "text": "这怎么可能？这怎么可能……"
+      },
+      {
+        "id": "10016_narrative",
+        "actor": "narrative",
+        "text": "孟喃喃自语着。"
+      },
+      {
+        "id": "10017_luxixi",
+        "actor": "luxixi",
+        "emotion": "comfort",
+        "text": "这怎么不可能？同学们都喜欢你呀！"
+      },
+      {
+        "id": "10018_narrative",
+        "actor": "narrative",
+        "text": "鲁西西说。"
+      },
+      {
+        "id": "10019_meng",
+        "actor": "meng",
+        "emotion": "neutral",
+        "text": "喜欢我？喜欢我什么？"
+      },
+      {
+        "id": "10020_narrative",
+        "actor": "narrative",
+        "text": "孟看着鲁西西问。"
+      },
+      {
+        "id": "10021_luxixi",
+        "actor": "luxixi",
+        "emotion": "tender",
+        "text": "你心眼儿好，爱帮助人。"
+      },
+      {
+        "id": "10022_narrative",
+        "actor": "narrative",
+        "text": "鲁西西说。孟眼眶湿了。她清楚自己对这些褒奖是当之无愧的。可过去不管她怎么帮助同学，就是没人理她。"
+      },
+      {
+        "id": "10023_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "对了，我们全家邀请你明天去我们家过圣诞节，明天正好是星期日。行吗？我们准备了一个非常好的节目给你。"
+      },
+      {
+        "id": "10024_meng",
+        "actor": "meng",
+        "emotion": "surprised",
+        "text": "为什么？"
+      },
+      {
+        "id": "10025_narrative",
+        "actor": "narrative",
+        "text": "孟还是不适应。"
+      },
+      {
+        "id": "10026_luxixi",
+        "actor": "luxixi",
+        "emotion": "tender",
+        "text": "因为你是我的朋友。"
+      },
+      {
+        "id": "10027_narrative",
+        "actor": "narrative",
+        "text": "鲁西西真诚地看着孟。"
+      },
+      {
+        "id": "10028_meng",
+        "actor": "meng",
+        "emotion": "happy",
+        "text": "谢谢你，鲁西西！我去。"
+      },
+      {
+        "id": "10029_narrative",
+        "actor": "narrative",
+        "text": "孟笑了，笑得很好看。圣诞节上午九点整，孟准时踏进鲁西西家的大门。鲁西西将孟介绍给家人。大家鼓掌欢迎。孟长得确实不好看。但她现在确实动人。事实上，人不是因为美丽而可爱，而是因为可爱而美丽。可惜人类的大多数成员不明白这个道理。当孟得知自己将同皮皮鲁和鲁西西一起去一个神秘不可测的暗室历险时，她说这是她过的最快活的一个圣诞节。孟还誓为三零九暗室保密。皮皮鲁全家信任孟。爸爸妈妈仍然被排斥在探险的队伍之外，他们只能担任增援部队的角色。"
+      },
+      {
+        "id": "10030_dad",
+        "actor": "dad",
+        "emotion": "neutral",
+        "text": "你们要确保孟的安全。让她走中间。"
+      },
+      {
+        "id": "10031_narrative",
+        "actor": "narrative",
+        "text": "爸爸叮嘱儿子和女儿。"
+      },
+      {
+        "id": "10032_meng",
+        "actor": "meng",
+        "emotion": "neutral",
+        "text": "我想走前边。"
+      },
+      {
+        "id": "10033_narrative",
+        "actor": "narrative",
+        "text": "孟反对。"
+      },
+      {
+        "id": "10034_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "你不熟悉里边，出来的时候让你走前边。"
+      },
+      {
+        "id": "10035_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁对孟说。"
+      },
+      {
+        "id": "10036_meng",
+        "actor": "meng",
+        "emotion": "neutral",
+        "text": "出来的时候我走最后。"
+      },
+      {
+        "id": "10037_narrative",
+        "actor": "narrative",
+        "text": "孟的脑子很清楚。三零九暗室的门打开了。皮皮鲁打头，孟紧跟皮皮鲁，鲁西西断后。三人的身影消失在暗室里。"
+      },
+      {
+        "id": "10038_mom",
+        "actor": "mom",
+        "emotion": "tension",
+        "text": "也不知铁门里边是什么？"
+      },
+      {
+        "id": "10039_narrative",
+        "actor": "narrative",
+        "text": "妈妈望着三零九暗室黑黝黝的门洞说。"
+      },
+      {
+        "id": "10040_dad",
+        "actor": "dad",
+        "emotion": "neutral",
+        "text": "猜不出。反正是最后一个门了，一定很刺激。"
+      },
+      {
+        "id": "10041_narrative",
+        "actor": "narrative",
+        "text": "爸爸说。"
+      },
+      {
+        "id": "10042_mom",
+        "actor": "mom",
+        "emotion": "tension",
+        "text": "不知怎么搞的，我有点儿为他们担心，不会有什么危险吧？"
+      },
+      {
+        "id": "10043_narrative",
+        "actor": "narrative",
+        "text": "妈妈隐约感到铁门里挺恐怖。"
+      },
+      {
+        "id": "10044_dad",
+        "actor": "dad",
+        "emotion": "comfort",
+        "text": "让他们去闯吧。这一趟探险对孩子来说，意义胜过拿十个博士学位。"
+      },
+      {
+        "id": "10045_narrative",
+        "actor": "narrative",
+        "text": "爸爸望着桌上的对讲机说。这时，皮皮鲁、鲁西西和孟已经站在了铁门前。"
+      },
+      {
+        "id": "10046_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "我开门了，你要有精神准备。"
+      },
+      {
+        "id": "10047_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁有意制造紧张气氛，他对孟说。"
+      },
+      {
+        "id": "10048_meng",
+        "actor": "meng",
+        "emotion": "excited",
+        "text": "快开，我都等不及了。"
+      },
+      {
+        "id": "10049_narrative",
+        "actor": "narrative",
+        "text": "孟极其兴奋，她头一次感到自己和同龄人是平等的，她已经忘记了自己的相貌。忘记自己的相貌的人是幸福的，不管你长得好还是长得不好。相貌是区别人与人的标志。如果把它当作财富，你的生命历程就变成了一次投机取巧的无谓游戏。如果把它当作包袱，你的生命历程就变成了一次重负下的艰难跋涉。皮皮鲁打开了铁门，他看见一座停车场上停着几辆形状挺奇特的汽车。"
+      },
+      {
+        "id": "10050_meng",
+        "actor": "meng",
+        "emotion": "depressed",
+        "text": "没什么可怕的呀！"
+      },
+      {
+        "id": "10051_narrative",
+        "actor": "narrative",
+        "text": "孟隐约感到有些失望。她的神经系统本来是为看见人面猪身的怪兽而进入战备状态的。鲁西西走到一辆汽车旁边，她趴在车门上的玻璃窗往里看。"
+      },
+      {
+        "id": "10052_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "皮皮鲁，你看这车真漂亮！"
+      },
+      {
+        "id": "10053_narrative",
+        "actor": "narrative",
+        "text": "鲁西西说。皮皮鲁和孟趴在车门上一看，嘴里不约而同地发出“啧啧”的赞叹声。"
+      },
+      {
+        "id": "10054_meng",
+        "actor": "meng",
+        "emotion": "neutral",
+        "text": "那边有一条大路，还有路牌。"
+      },
+      {
+        "id": "10055_narrative",
+        "actor": "narrative",
+        "text": "孟说。皮皮鲁走到路牌旁。路牌上写着：第一试验场。箭头指着大路的前方。"
+      },
+      {
+        "id": "10056_luxixi",
+        "actor": "luxixi",
+        "emotion": "surprised",
+        "text": "试验场？"
+      },
+      {
+        "id": "10057_narrative",
+        "actor": "narrative",
+        "text": "鲁西西觉得挺神秘。"
+      },
+      {
+        "id": "10058_meng",
+        "actor": "meng",
+        "emotion": "neutral",
+        "text": "试验什么？"
+      },
+      {
+        "id": "10059_narrative",
+        "actor": "narrative",
+        "text": "孟想象不出。"
+      },
+      {
+        "id": "10060_pipilu",
+        "actor": "pipilu",
+        "emotion": "neutral",
+        "text": "谁的试验场？"
+      },
+      {
+        "id": "10061_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁关心产权。"
+      },
+      {
+        "id": "10062_meng",
+        "actor": "meng",
+        "emotion": "happy",
+        "text": "开车去看看。"
+      },
+      {
+        "id": "10063_narrative",
+        "actor": "narrative",
+        "text": "孟提议。"
+      },
+      {
+        "id": "10064_pipilu",
+        "actor": "pipilu",
+        "emotion": "happy",
+        "text": "走。"
+      },
+      {
+        "id": "10065_narrative",
+        "actor": "narrative",
+        "text": "皮皮鲁喜欢开车。尤喜欢给女生当司机。他们坐进一辆银色的宽体长车身小轿车。"
+      },
+      {
+        "id": "10066_meng",
+        "actor": "meng",
+        "emotion": "tension",
+        "text": "你行吗？"
+      },
+      {
+        "id": "10067_narrative",
+        "actor": "narrative",
+        "text": "坐在皮皮鲁身边的孟不了解皮皮鲁的驾车水平。皮皮鲁用动作回答了孟的问题——起车上路了。"
+      },
+      {
+        "id": "10068_luxixi",
+        "actor": "luxixi",
+        "emotion": "happy",
+        "text": "不管什么车，皮皮鲁坐进去就能开。"
+      },
+      {
+        "id": "10069_narrative",
+        "actor": "narrative",
+        "text": "鲁西西对孟说。"
+      },
+      {
+        "id": "10070_meng",
+        "actor": "meng",
+        "emotion": "surprised",
+        "text": "天才。"
+      },
+      {
+        "id": "10071_narrative",
+        "actor": "narrative",
+        "text": "孟觉得没上过驾驶学校就会开汽车的人是天才。皮皮鲁将油门踩到了极限位置。汽车风驰电掣。"
+      },
+      {
+        "id": "10072_meng",
+        "actor": "meng",
+        "emotion": "surprised",
+        "text": "房子！"
+      },
+      {
+        "id": "10073_narrative",
+        "actor": "narrative",
+        "text": "孟指着前边说。皮皮鲁看见汽车前方出现了一个建筑群，像是一座城镇。汽车减速。大路和建筑群交接的地方有一块大牌子，牌子上写着：第一试验场。这是一座试验场，试验什么的？"
+      }
+    ]
+  }
+}
